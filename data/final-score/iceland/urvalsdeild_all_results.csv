@@ -1,0 +1,5413 @@
+year,date,home_team,away_team,home_score,away_score
+2019,2019-04-26,Valur,Víkingur R.,3,3
+2019,2019-04-27,Grindavík,Breiðablik,0,2
+2019,2019-04-27,ÍBV,Fylkir,0,3
+2019,2019-04-27,FH,HK,2,0
+2019,2019-04-27,ÍA,KA,3,1
+2019,2019-04-27,Stjarnan,KR,1,1
+2019,2019-05-04,HK,Breiðablik,2,2
+2019,2019-05-05,KA,Valur,1,0
+2019,2019-05-05,KR,ÍBV,3,0
+2019,2019-05-05,Grindavík,Stjarnan,1,1
+2019,2019-05-05,Fylkir,ÍA,2,2
+2019,2019-05-06,Víkingur R.,FH,1,1
+2019,2019-05-10,FH,KA,3,2
+2019,2019-05-10,Stjarnan,HK,1,0
+2019,2019-05-10,Breiðablik,Víkingur R.,3,1
+2019,2019-05-11,ÍBV,Grindavík,2,2
+2019,2019-05-11,Valur,ÍA,1,2
+2019,2019-05-12,KR,Fylkir,1,1
+2019,2019-05-15,ÍA,FH,2,0
+2019,2019-05-15,Víkingur R.,Stjarnan,3,4
+2019,2019-05-15,KA,Breiðablik,0,1
+2019,2019-05-16,HK,ÍBV,2,0
+2019,2019-05-16,Fylkir,Valur,0,1
+2019,2019-05-16,Grindavík,KR,2,1
+2019,2019-05-19,ÍBV,Víkingur R.,1,1
+2019,2019-05-19,Stjarnan,KA,0,2
+2019,2019-05-19,Breiðablik,ÍA,0,1
+2019,2019-05-20,KR,HK,3,2
+2019,2019-05-20,Grindavík,Fylkir,1,0
+2019,2019-05-20,FH,Valur,3,2
+2019,2019-05-25,HK,Grindavík,0,0
+2019,2019-05-25,KA,ÍBV,2,0
+2019,2019-05-25,Víkingur R.,KR,0,1
+2019,2019-05-26,ÍA,Stjarnan,2,0
+2019,2019-05-26,Fylkir,FH,2,2
+2019,2019-05-26,Valur,Breiðablik,0,1
+2019,2019-06-01,Grindavík,Víkingur R.,0,0
+2019,2019-06-02,KR,KA,1,0
+2019,2019-06-02,ÍBV,ÍA,3,2
+2019,2019-06-02,Breiðablik,FH,4,1
+2019,2019-06-02,HK,Fylkir,1,2
+2019,2019-06-02,Stjarnan,Valur,2,1
+2019,2019-06-14,Fylkir,Breiðablik,4,3
+2019,2019-06-14,Víkingur R.,HK,2,1
+2019,2019-06-14,FH,Stjarnan,2,2
+2019,2019-06-15,ÍA,KR,1,3
+2019,2019-06-15,Valur,ÍBV,5,1
+2019,2019-06-15,KA,Grindavík,2,1
+2019,2019-06-18,Stjarnan,Breiðablik,1,3
+2019,2019-06-19,KR,Valur,3,2
+2019,2019-06-22,Breiðablik,ÍBV,3,1
+2019,2019-06-22,ÍA,HK,0,2
+2019,2019-06-23,Valur,Grindavík,1,0
+2019,2019-06-23,Stjarnan,Fylkir,5,1
+2019,2019-06-23,KA,Víkingur R.,3,4
+2019,2019-06-23,FH,KR,1,2
+2019,2019-06-30,ÍBV,Stjarnan,0,2
+2019,2019-06-30,Fylkir,KA,3,2
+2019,2019-06-30,HK,Valur,1,2
+2019,2019-07-01,KR,Breiðablik,2,0
+2019,2019-07-01,Grindavík,FH,0,0
+2019,2019-07-01,Víkingur R.,ÍA,0,0
+2019,2019-07-04,Valur,KA,3,1
+2019,2019-07-05,Stjarnan,Grindavík,0,0
+2019,2019-07-06,ÍA,Fylkir,2,0
+2019,2019-07-06,ÍBV,KR,1,2
+2019,2019-07-07,Breiðablik,HK,1,2
+2019,2019-07-08,FH,Víkingur R.,1,0
+2019,2019-07-13,ÍBV,FH,1,2
+2019,2019-07-14,HK,KA,2,1
+2019,2019-07-15,Víkingur R.,Fylkir,1,1
+2019,2019-07-15,Grindavík,ÍA,1,1
+2018,2018-04-27,Valur,KR,2,1
+2018,2018-04-27,Stjarnan,Keflavík,2,2
+2018,2018-04-28,Breiðablik,ÍBV,4,1
+2018,2018-04-28,Grindavík,FH,0,1
+2018,2018-04-28,Fjölnir,KA,2,2
+2018,2018-04-28,Víkingur R.,Fylkir,1,0
+2018,2018-05-06,ÍBV,Fjölnir,1,1
+2018,2018-05-06,Fylkir,KA,2,1
+2018,2018-05-06,Stjarnan,KR,2,3
+2018,2018-05-07,Víkingur R.,Valur,0,0
+2018,2018-05-07,Keflavík,Grindavík,0,2
+2018,2018-05-07,FH,Breiðablik,1,3
+2018,2018-05-12,Grindavík,KR,1,1
+2018,2018-05-12,Breiðablik,Keflavík,1,0
+2018,2018-05-12,KA,ÍBV,2,0
+2018,2018-05-13,Fjölnir,FH,2,3
+2018,2018-05-13,Valur,Fylkir,2,2
+2018,2018-05-14,Stjarnan,Víkingur R.,3,3
+2018,2018-05-17,Fylkir,ÍBV,2,1
+2018,2018-05-17,FH,KA,3,1
+2018,2018-05-18,Keflavík,Fjölnir,1,2
+2018,2018-05-18,KR,Breiðablik,1,1
+2018,2018-05-18,Víkingur R.,Grindavík,0,1
+2018,2018-05-18,Valur,Stjarnan,2,2
+2018,2018-05-21,ÍBV,FH,0,0
+2018,2018-05-21,Fjölnir,KR,1,1
+2018,2018-05-22,KA,Keflavík,0,0
+2018,2018-05-23,Grindavík,Valur,2,1
+2018,2018-05-23,Stjarnan,Fylkir,3,0
+2018,2018-05-23,Breiðablik,Víkingur R.,0,0
+2018,2018-05-27,Keflavík,ÍBV,1,3
+2018,2018-05-27,KR,KA,2,0
+2018,2018-05-27,Víkingur R.,Fjölnir,1,2
+2018,2018-05-27,Stjarnan,Grindavík,1,1
+2018,2018-05-27,Valur,Breiðablik,2,1
+2018,2018-05-28,FH,Fylkir,1,1
+2018,2018-06-03,KA,Víkingur R.,4,1
+2018,2018-06-03,ÍBV,KR,2,0
+2018,2018-06-03,Breiðablik,Stjarnan,0,1
+2018,2018-06-04,Fjölnir,Valur,0,2
+2018,2018-06-04,FH,Keflavík,2,2
+2018,2018-06-04,Grindavík,Fylkir,2,1
+2018,2018-06-08,Fylkir,Keflavík,2,0
+2018,2018-06-09,Víkingur R.,ÍBV,2,1
+2018,2018-06-09,Grindavík,Breiðablik,0,2
+2018,2018-06-09,Valur,KA,3,1
+2018,2018-06-10,Stjarnan,Fjölnir,6,1
+2018,2018-06-10,KR,FH,2,2
+2018,2018-06-13,ÍBV,Valur,0,1
+2018,2018-06-13,Breiðablik,Fylkir,2,0
+2018,2018-06-14,KA,Stjarnan,1,2
+2018,2018-06-14,Fjölnir,Grindavík,0,1
+2018,2018-06-14,Keflavík,KR,0,4
+2018,2018-06-14,FH,Víkingur R.,3,0
+2018,2018-06-19,Stjarnan,ÍBV,2,1
+2018,2018-06-20,Valur,FH,2,1
+2018,2018-07-01,ÍBV,Grindavík,3,0
+2018,2018-07-01,KA,Breiðablik,0,0
+2018,2018-07-01,Keflavík,Valur,0,2
+2018,2018-07-01,Fjölnir,Fylkir,2,1
+2018,2018-07-01,KR,Víkingur R.,0,1
+2018,2018-07-02,FH,Stjarnan,2,3
+2018,2018-07-05,KA,Fjölnir,2,0
+2018,2018-07-05,KR,Valur,1,1
+2018,2018-07-07,FH,Grindavík,2,1
+2018,2018-07-07,Keflavík,Stjarnan,0,2
+2018,2018-07-07,ÍBV,Breiðablik,0,0
+2018,2018-07-09,Fylkir,Víkingur R.,2,3
+2018,2018-07-12,Grindavík,KA,1,2
+2018,2018-07-13,Víkingur R.,Keflavík,1,0
+2018,2018-07-16,Fylkir,KR,2,5
+2018,2018-07-16,Breiðablik,Fjölnir,2,1
+2018,2018-07-22,Fjölnir,ÍBV,1,1
+2018,2018-07-22,Valur,Víkingur R.,4,1
+2018,2018-07-22,KA,Fylkir,5,1
+2018,2018-07-22,KR,Stjarnan,1,0
+2018,2018-07-22,Breiðablik,FH,4,1
+2018,2018-07-23,Grindavík,Keflavík,3,0
+2018,2018-07-29,ÍBV,KA,2,1
+2018,2018-07-29,Víkingur R.,Stjarnan,0,4
+2018,2018-07-30,Keflavík,Breiðablik,1,3
+2018,2018-07-30,Fylkir,Valur,0,0
+2018,2018-07-30,KR,Grindavík,2,0
+2018,2018-07-30,FH,Fjölnir,1,0
+2018,2018-08-04,ÍBV,Fylkir,0,1
+2018,2018-08-07,Breiðablik,KR,1,0
+2018,2018-08-08,KA,FH,1,1
+2018,2018-08-08,Grindavík,Víkingur R.,2,1
+2018,2018-08-08,Fjölnir,Keflavík,0,0
+2018,2018-08-12,FH,ÍBV,0,2
+2018,2018-08-12,KR,Fjölnir,0,0
+2018,2018-08-12,Fylkir,Stjarnan,0,2
+2018,2018-08-12,Keflavík,KA,0,3
+2018,2018-08-13,Víkingur R.,Breiðablik,2,3
+2018,2018-08-13,Valur,Grindavík,4,0
+2018,2018-08-18,ÍBV,Keflavík,1,0
+2018,2018-08-19,KA,KR,0,1
+2018,2018-08-19,Fylkir,FH,1,1
+2018,2018-08-19,Grindavík,Stjarnan,2,2
+2018,2018-08-20,Breiðablik,Valur,1,3
+2018,2018-08-20,Fjölnir,Víkingur R.,2,2
+2018,2018-08-25,Víkingur R.,KA,2,2
+2018,2018-08-25,Stjarnan,Breiðablik,2,1
+2018,2018-08-25,Valur,Fjölnir,5,3
+2018,2018-08-26,KR,ÍBV,4,1
+2018,2018-08-26,Keflavík,FH,1,3
+2018,2018-08-27,Fylkir,Grindavík,3,1
+2018,2018-08-29,Stjarnan,Valur,1,1
+2018,2018-08-31,Keflavík,Fylkir,1,2
+2018,2018-09-02,Fjölnir,Stjarnan,1,3
+2018,2018-09-02,ÍBV,Víkingur R.,1,1
+2018,2018-09-02,KA,Valur,3,3
+2018,2018-09-02,Breiðablik,Grindavík,1,1
+2018,2018-09-02,FH,KR,4,0
+2018,2018-09-16,KR,Keflavík,3,1
+2018,2018-09-16,Víkingur R.,FH,1,1
+2018,2018-09-16,Grindavík,Fjölnir,0,1
+2018,2018-09-16,Valur,ÍBV,5,1
+2018,2018-09-19,Stjarnan,KA,1,1
+2018,2018-09-19,Fylkir,Breiðablik,0,3
+2018,2018-09-23,Fjölnir,Breiðablik,0,2
+2018,2018-09-23,KR,Fylkir,1,1
+2018,2018-09-23,FH,Valur,2,1
+2018,2018-09-23,KA,Grindavík,4,3
+2018,2018-09-23,ÍBV,Stjarnan,2,1
+2018,2018-09-23,Keflavík,Víkingur R.,0,4
+2018,2018-09-29,Grindavík,ÍBV,2,5
+2018,2018-09-29,Breiðablik,KA,4,0
+2018,2018-09-29,Stjarnan,FH,0,1
+2018,2018-09-29,Valur,Keflavík,4,1
+2018,2018-09-29,Víkingur R.,KR,2,3
+2018,2018-09-29,Fylkir,Fjölnir,7,0
+2017,2017-04-30,ÍA,FH,2,4
+2017,2017-04-30,ÍBV,Fjölnir,0,0
+2017,2017-04-30,Valur,Víkingur Ó.,2,0
+2017,2017-05-01,Breiðablik,KA,1,3
+2017,2017-05-01,Grindavík,Stjarnan,2,2
+2017,2017-05-01,KR,Víkingur R.,1,2
+2017,2017-05-07,Stjarnan,ÍBV,5,0
+2017,2017-05-07,Víkingur Ó.,KR,1,2
+2017,2017-05-08,FH,KA,2,2
+2017,2017-05-08,Víkingur R.,Grindavík,1,2
+2017,2017-05-08,ÍA,Valur,2,4
+2017,2017-05-08,Fjölnir,Breiðablik,1,0
+2017,2017-05-14,ÍBV,Víkingur R.,1,0
+2017,2017-05-14,KR,ÍA,2,1
+2017,2017-05-14,KA,Fjölnir,2,0
+2017,2017-05-14,Grindavík,Víkingur Ó.,1,3
+2017,2017-05-14,Breiðablik,Stjarnan,1,3
+2017,2017-05-15,Valur,FH,1,1
+2017,2017-05-21,Víkingur Ó.,ÍBV,0,3
+2017,2017-05-21,Víkingur R.,Breiðablik,2,3
+2017,2017-05-21,Stjarnan,KA,2,1
+2017,2017-05-22,FH,Fjölnir,1,2
+2017,2017-05-22,ÍA,Grindavík,2,3
+2017,2017-05-22,Valur,KR,2,1
+2017,2017-05-27,KA,Víkingur R.,2,2
+2017,2017-05-27,ÍBV,ÍA,1,4
+2017,2017-05-28,Breiðablik,Víkingur Ó.,2,1
+2017,2017-05-28,Fjölnir,Stjarnan,1,3
+2017,2017-05-28,Grindavík,Valur,1,0
+2017,2017-05-28,KR,FH,2,2
+2017,2017-06-04,Valur,ÍBV,2,1
+2017,2017-06-04,FH,Stjarnan,3,0
+2017,2017-06-05,Víkingur Ó.,KA,1,4
+2017,2017-06-05,KR,Grindavík,0,1
+2017,2017-06-05,ÍA,Breiðablik,2,3
+2017,2017-06-05,Víkingur R.,Fjölnir,2,1
+2017,2017-06-14,Breiðablik,Valur,1,2
+2017,2017-06-14,KA,ÍA,0,0
+2017,2017-06-14,Grindavík,FH,1,1
+2017,2017-06-15,ÍBV,KR,3,1
+2017,2017-06-15,Fjölnir,Víkingur Ó.,1,1
+2017,2017-06-15,Stjarnan,Víkingur R.,1,2
+2017,2017-06-18,Valur,KA,1,0
+2017,2017-06-18,Grindavík,ÍBV,3,1
+2017,2017-06-19,FH,Víkingur R.,2,2
+2017,2017-06-19,Víkingur Ó.,Stjarnan,2,1
+2017,2017-06-19,ÍA,Fjölnir,3,1
+2017,2017-06-19,KR,Breiðablik,1,1
+2017,2017-06-24,Fjölnir,Valur,1,1
+2017,2017-06-24,Stjarnan,ÍA,2,2
+2017,2017-06-24,KA,KR,2,3
+2017,2017-06-25,ÍBV,FH,0,1
+2017,2017-06-26,Víkingur R.,Víkingur Ó.,2,0
+2017,2017-06-26,Breiðablik,Grindavík,0,0
+2017,2017-07-03,Breiðablik,FH,1,2
+2017,2017-07-07,FH,Víkingur Ó.,0,2
+2017,2017-07-09,Grindavík,KA,2,1
+2017,2017-07-09,ÍBV,Breiðablik,1,1
+2017,2017-07-09,Valur,Stjarnan,1,1
+2017,2017-07-10,ÍA,Víkingur R.,1,1
+2017,2017-07-16,KA,ÍBV,6,3
+2017,2017-07-16,Víkingur R.,Valur,0,1
+2017,2017-07-17,Víkingur Ó.,ÍA,1,0
+2017,2017-07-17,Fjölnir,Grindavík,4,0
+2017,2017-07-17,Stjarnan,KR,2,0
+2017,2017-07-22,FH,ÍA,2,0
+2017,2017-07-23,KA,Breiðablik,2,4
+2017,2017-07-23,Fjölnir,ÍBV,2,1
+2017,2017-07-23,Víkingur R.,KR,0,3
+2017,2017-07-23,Stjarnan,Grindavík,5,0
+2017,2017-07-25,Víkingur Ó.,Valur,1,2
+2017,2017-07-27,KR,Fjölnir,2,0
+2017,2017-07-30,ÍBV,Stjarnan,2,2
+2017,2017-07-31,KR,Víkingur Ó.,4,2
+2017,2017-07-31,Grindavík,Víkingur R.,1,2
+2017,2017-07-31,Breiðablik,Fjölnir,2,1
+2017,2017-07-31,Valur,ÍA,6,0
+2017,2017-08-05,KA,FH,0,0
+2017,2017-08-08,Víkingur R.,ÍBV,1,1
+2017,2017-08-08,FH,Valur,2,1
+2017,2017-08-08,ÍA,KR,1,1
+2017,2017-08-09,Fjölnir,KA,2,2
+2017,2017-08-09,Víkingur Ó.,Grindavík,2,1
+2017,2017-08-09,Stjarnan,Breiðablik,2,0
+2017,2017-08-14,Breiðablik,Víkingur R.,1,2
+2017,2017-08-14,KA,Stjarnan,1,1
+2017,2017-08-14,Grindavík,ÍA,3,2
+2017,2017-08-14,KR,Valur,0,0
+2017,2017-08-16,ÍBV,Víkingur Ó.,0,1
+2017,2017-08-20,ÍA,ÍBV,0,1
+2017,2017-08-20,Víkingur Ó.,Breiðablik,0,3
+2017,2017-08-20,Víkingur R.,KA,0,1
+2017,2017-08-21,Valur,Grindavík,2,0
+2017,2017-08-21,Stjarnan,Fjölnir,4,0
+2017,2017-08-27,ÍBV,Valur,2,3
+2017,2017-08-27,Grindavík,KR,2,2
+2017,2017-08-27,KA,Víkingur Ó.,5,0
+2017,2017-08-27,Fjölnir,Víkingur R.,3,1
+2017,2017-08-27,Breiðablik,ÍA,2,0
+2017,2017-08-27,Stjarnan,FH,1,1
+2017,2017-08-31,FH,KR,0,1
+2017,2017-09-09,KR,ÍBV,0,3
+2017,2017-09-09,Víkingur Ó.,Fjölnir,4,4
+2017,2017-09-10,ÍA,KA,2,0
+2017,2017-09-10,Víkingur R.,Stjarnan,2,2
+2017,2017-09-10,FH,Grindavík,1,0
+2017,2017-09-10,Valur,Breiðablik,1,0
+2017,2017-09-14,KA,Valur,1,1
+2017,2017-09-14,Breiðablik,KR,1,3
+2017,2017-09-14,ÍBV,Grindavík,2,1
+2017,2017-09-14,Fjölnir,ÍA,2,2
+2017,2017-09-14,Víkingur R.,FH,2,4
+2017,2017-09-14,Stjarnan,Víkingur Ó.,3,0
+2017,2017-09-17,KR,KA,0,0
+2017,2017-09-17,ÍA,Stjarnan,2,2
+2017,2017-09-17,FH,ÍBV,2,1
+2017,2017-09-17,Grindavík,Breiðablik,4,3
+2017,2017-09-17,Valur,Fjölnir,4,1
+2017,2017-09-18,Víkingur Ó.,Víkingur R.,1,3
+2017,2017-09-21,Fjölnir,FH,2,1
+2017,2017-09-24,Víkingur R.,ÍA,0,0
+2017,2017-09-24,KA,Grindavík,2,1
+2017,2017-09-24,Víkingur Ó.,FH,1,1
+2017,2017-09-24,Fjölnir,KR,2,2
+2017,2017-09-24,Stjarnan,Valur,1,2
+2017,2017-09-24,Breiðablik,ÍBV,3,2
+2017,2017-09-30,ÍBV,KA,3,0
+2017,2017-09-30,FH,Breiðablik,0,1
+2017,2017-09-30,Grindavík,Fjölnir,2,1
+2017,2017-09-30,Valur,Víkingur R.,4,3
+2017,2017-09-30,KR,Stjarnan,0,1
+2017,2017-09-30,ÍA,Víkingur Ó.,0,0
+2016,2016-05-01,Þróttur R.,FH,0,3
+2016,2016-05-01,ÍBV,ÍA,4,0
+2016,2016-05-01,Breiðablik,Víkingur Ó.,1,2
+2016,2016-05-01,Valur,Fjölnir,1,2
+2016,2016-05-02,Stjarnan,Fylkir,2,0
+2016,2016-05-02,KR,Víkingur R.,0,0
+2016,2016-05-07,Fjölnir,ÍBV,2,0
+2016,2016-05-08,Víkingur Ó.,Valur,2,1
+2016,2016-05-08,Þróttur R.,KR,2,2
+2016,2016-05-08,Fylkir,Breiðablik,1,2
+2016,2016-05-08,Víkingur R.,Stjarnan,1,2
+2016,2016-05-08,FH,ÍA,2,1
+2016,2016-05-12,ÍBV,Víkingur Ó.,1,1
+2016,2016-05-12,ÍA,Fjölnir,1,0
+2016,2016-05-12,Stjarnan,Þróttur R.,6,0
+2016,2016-05-12,Valur,Fylkir,2,0
+2016,2016-05-12,KR,FH,1,0
+2016,2016-05-13,Breiðablik,Víkingur R.,1,0
+2016,2016-05-16,Fylkir,ÍBV,0,3
+2016,2016-05-16,FH,Fjölnir,2,0
+2016,2016-05-16,Víkingur Ó.,ÍA,3,0
+2016,2016-05-17,Víkingur R.,Valur,2,2
+2016,2016-05-17,Þróttur R.,Breiðablik,2,0
+2016,2016-05-17,KR,Stjarnan,1,1
+2016,2016-05-21,ÍA,Fylkir,1,1
+2016,2016-05-22,ÍBV,Víkingur R.,0,3
+2016,2016-05-22,Valur,Þróttur R.,4,1
+2016,2016-05-22,Fjölnir,Víkingur Ó.,5,1
+2016,2016-05-22,Breiðablik,KR,1,0
+2016,2016-05-23,Stjarnan,FH,1,1
+2016,2016-05-29,Þróttur R.,ÍBV,0,1
+2016,2016-05-29,Víkingur R.,ÍA,3,2
+2016,2016-05-29,KR,Valur,2,1
+2016,2016-05-30,FH,Víkingur Ó.,1,1
+2016,2016-05-30,Fylkir,Fjölnir,2,2
+2016,2016-05-30,Stjarnan,Breiðablik,1,3
+2016,2016-06-04,ÍBV,KR,1,0
+2016,2016-06-05,Víkingur Ó.,Fylkir,1,0
+2016,2016-06-05,Valur,Stjarnan,2,0
+2016,2016-06-05,ÍA,Þróttur R.,0,1
+2016,2016-06-05,Fjölnir,Víkingur R.,2,1
+2016,2016-06-05,Breiðablik,FH,0,1
+2016,2016-06-15,ÍBV,Breiðablik,0,2
+2016,2016-06-15,Fjölnir,KR,3,1
+2016,2016-06-16,Valur,FH,0,1
+2016,2016-06-23,Stjarnan,ÍBV,1,0
+2016,2016-06-23,KR,ÍA,1,2
+2016,2016-06-24,Víkingur R.,Víkingur Ó.,2,0
+2016,2016-06-24,FH,Fylkir,1,0
+2016,2016-06-24,Breiðablik,Valur,0,0
+2016,2016-06-24,Þróttur R.,Fjölnir,0,5
+2016,2016-06-28,Víkingur Ó.,Þróttur R.,3,2
+2016,2016-06-28,Fylkir,Víkingur R.,1,0
+2016,2016-06-29,ÍA,Stjarnan,4,2
+2016,2016-07-09,FH,Víkingur R.,2,2
+2016,2016-07-10,KR,Víkingur Ó.,0,0
+2016,2016-07-11,Valur,ÍBV,2,1
+2016,2016-07-11,Stjarnan,Fjölnir,2,1
+2016,2016-07-11,Breiðablik,ÍA,0,1
+2016,2016-07-11,Þróttur R.,Fylkir,1,4
+2016,2016-07-16,ÍBV,FH,1,1
+2016,2016-07-17,Víkingur Ó.,Stjarnan,2,3
+2016,2016-07-17,ÍA,Valur,2,1
+2016,2016-07-17,Fylkir,KR,1,4
+2016,2016-07-17,Fjölnir,Breiðablik,0,3
+2016,2016-07-18,Víkingur R.,Þróttur R.,2,0
+2016,2016-07-24,ÍA,ÍBV,2,0
+2016,2016-07-24,Víkingur Ó.,Breiðablik,0,2
+2016,2016-07-24,FH,Þróttur R.,2,0
+2016,2016-07-24,Fjölnir,Valur,2,2
+2016,2016-07-24,Fylkir,Stjarnan,1,2
+2016,2016-07-25,Víkingur R.,KR,1,0
+2016,2016-08-03,ÍBV,Fjölnir,0,2
+2016,2016-08-03,ÍA,FH,1,3
+2016,2016-08-03,Breiðablik,Fylkir,1,1
+2016,2016-08-03,KR,Þróttur R.,2,1
+2016,2016-08-03,Valur,Víkingur Ó.,3,1
+2016,2016-08-04,Stjarnan,Víkingur R.,3,0
+2016,2016-08-07,Víkingur Ó.,ÍBV,0,1
+2016,2016-08-07,Fylkir,Valur,2,2
+2016,2016-08-07,Fjölnir,ÍA,4,0
+2016,2016-08-08,Þróttur R.,Stjarnan,1,1
+2016,2016-08-08,Víkingur R.,Breiðablik,3,1
+2016,2016-08-08,FH,KR,0,1
+2016,2016-08-15,ÍA,Víkingur Ó.,3,0
+2016,2016-08-15,Fjölnir,FH,0,1
+2016,2016-08-15,Breiðablik,Þróttur R.,2,0
+2016,2016-08-15,Stjarnan,KR,1,3
+2016,2016-08-18,ÍBV,Fylkir,1,2
+2016,2016-08-18,Valur,Víkingur R.,7,0
+2016,2016-08-21,Víkingur Ó.,Fjölnir,2,2
+2016,2016-08-21,KR,Breiðablik,1,1
+2016,2016-08-22,FH,Stjarnan,3,2
+2016,2016-08-22,Víkingur R.,ÍBV,2,1
+2016,2016-08-22,Fylkir,ÍA,0,3
+2016,2016-08-22,Þróttur R.,Valur,0,4
+2016,2016-08-27,Breiðablik,Stjarnan,2,1
+2016,2016-08-28,ÍBV,Þróttur R.,1,1
+2016,2016-08-28,ÍA,Víkingur R.,2,0
+2016,2016-08-28,Fjölnir,Fylkir,1,1
+2016,2016-08-28,Víkingur Ó.,FH,0,2
+2016,2016-08-28,Valur,KR,2,0
+2016,2016-09-10,KR,ÍBV,2,0
+2016,2016-09-10,Víkingur R.,Fjölnir,1,2
+2016,2016-09-11,FH,Breiðablik,1,1
+2016,2016-09-11,Fylkir,Víkingur Ó.,2,1
+2016,2016-09-11,Þróttur R.,ÍA,3,1
+2016,2016-09-11,Stjarnan,Valur,2,3
+2016,2016-09-15,Fylkir,FH,2,3
+2016,2016-09-15,ÍA,KR,0,1
+2016,2016-09-15,Víkingur Ó.,Víkingur R.,1,1
+2016,2016-09-15,Fjölnir,Þróttur R.,2,0
+2016,2016-09-15,Valur,Breiðablik,0,3
+2016,2016-09-16,ÍBV,Stjarnan,1,2
+2016,2016-09-18,FH,Valur,1,1
+2016,2016-09-18,Víkingur R.,Fylkir,2,2
+2016,2016-09-18,KR,Fjölnir,3,2
+2016,2016-09-19,Breiðablik,ÍBV,1,1
+2016,2016-09-19,Þróttur R.,Víkingur Ó.,1,1
+2016,2016-09-19,Stjarnan,ÍA,3,1
+2016,2016-09-25,ÍA,Breiðablik,1,0
+2016,2016-09-25,Víkingur R.,FH,1,0
+2016,2016-09-25,Víkingur Ó.,KR,0,1
+2016,2016-09-25,Fylkir,Þróttur R.,2,2
+2016,2016-09-25,ÍBV,Valur,4,0
+2016,2016-09-25,Fjölnir,Stjarnan,0,1
+2016,2016-10-01,Þróttur R.,Víkingur R.,1,2
+2016,2016-10-01,KR,Fylkir,3,0
+2016,2016-10-01,FH,ÍBV,1,1
+2016,2016-10-01,Valur,ÍA,1,0
+2016,2016-10-01,Stjarnan,Víkingur Ó.,4,1
+2016,2016-10-01,Breiðablik,Fjölnir,0,3
+2015,2015-05-03,ÍA,Stjarnan,0,1
+2015,2015-05-03,Fjölnir,ÍBV,1,0
+2015,2015-05-03,Keflavík,Víkingur R.,1,3
+2015,2015-05-03,Valur,Leiknir R.,0,3
+2015,2015-05-04,KR,FH,1,3
+2015,2015-05-07,Fylkir,Breiðablik,1,1
+2015,2015-05-10,ÍBV,Stjarnan,0,2
+2015,2015-05-10,FH,Keflavík,2,0
+2015,2015-05-10,Víkingur R.,Valur,2,2
+2015,2015-05-11,Leiknir R.,ÍA,0,1
+2015,2015-05-11,Breiðablik,KR,2,2
+2015,2015-05-11,Fjölnir,Fylkir,1,1
+2015,2015-05-17,Fylkir,ÍBV,3,0
+2015,2015-05-17,ÍA,Víkingur R.,1,1
+2015,2015-05-17,Stjarnan,Leiknir R.,1,1
+2015,2015-05-17,KR,Fjölnir,2,0
+2015,2015-05-17,Valur,FH,2,0
+2015,2015-05-17,Keflavík,Breiðablik,1,1
+2015,2015-05-20,Breiðablik,Valur,1,0
+2015,2015-05-20,ÍBV,Leiknir R.,2,2
+2015,2015-05-20,FH,ÍA,4,1
+2015,2015-05-20,Fjölnir,Keflavík,1,0
+2015,2015-05-20,Víkingur R.,Stjarnan,2,2
+2015,2015-05-20,Fylkir,KR,1,3
+2015,2015-05-25,KR,ÍBV,1,0
+2015,2015-05-25,Valur,Fjölnir,3,3
+2015,2015-05-25,Keflavík,Fylkir,1,3
+2015,2015-05-26,Leiknir R.,Víkingur R.,2,0
+2015,2015-05-26,ÍA,Breiðablik,0,1
+2015,2015-05-26,Stjarnan,FH,1,1
+2015,2015-05-31,ÍBV,Víkingur R.,3,2
+2015,2015-05-31,KR,Keflavík,4,0
+2015,2015-05-31,Fjölnir,ÍA,2,0
+2015,2015-05-31,FH,Leiknir R.,4,2
+2015,2015-05-31,Fylkir,Valur,0,3
+2015,2015-05-31,Breiðablik,Stjarnan,3,0
+2015,2015-06-07,Keflavík,ÍBV,3,1
+2015,2015-06-07,Stjarnan,Fjölnir,1,3
+2015,2015-06-07,Valur,KR,3,0
+2015,2015-06-07,ÍA,Fylkir,0,0
+2015,2015-06-07,Leiknir R.,Breiðablik,0,2
+2015,2015-06-07,Víkingur R.,FH,0,1
+2015,2015-06-14,ÍBV,FH,1,4
+2015,2015-06-14,Keflavík,Valur,1,2
+2015,2015-06-14,Breiðablik,Víkingur R.,4,1
+2015,2015-06-15,Fylkir,Stjarnan,0,2
+2015,2015-06-15,KR,ÍA,1,1
+2015,2015-06-15,Fjölnir,Leiknir R.,3,0
+2015,2015-06-21,Valur,ÍBV,1,1
+2015,2015-06-21,FH,Breiðablik,1,1
+2015,2015-06-22,Leiknir R.,Fylkir,1,1
+2015,2015-06-22,Víkingur R.,Fjölnir,2,0
+2015,2015-06-22,ÍA,Keflavík,4,2
+2015,2015-06-22,Stjarnan,KR,0,1
+2015,2015-06-26,Fylkir,Víkingur R.,1,0
+2015,2015-06-28,ÍBV,Breiðablik,2,0
+2015,2015-06-28,KR,Leiknir R.,1,0
+2015,2015-06-28,Valur,ÍA,4,2
+2015,2015-06-28,Fjölnir,FH,1,3
+2015,2015-06-29,Keflavík,Stjarnan,1,2
+2015,2015-07-10,Stjarnan,Valur,1,2
+2015,2015-07-12,ÍA,ÍBV,3,1
+2015,2015-07-12,Víkingur R.,KR,0,3
+2015,2015-07-12,FH,Fylkir,2,2
+2015,2015-07-13,Leiknir R.,Keflavík,1,1
+2015,2015-07-13,Breiðablik,Fjölnir,2,0
+2015,2015-07-18,Stjarnan,ÍA,1,1
+2015,2015-07-19,ÍBV,Fjölnir,4,0
+2015,2015-07-19,Víkingur R.,Keflavík,7,1
+2015,2015-07-19,FH,KR,1,3
+2015,2015-07-20,Breiðablik,Fylkir,0,1
+2015,2015-07-20,Leiknir R.,Valur,0,1
+2015,2015-07-25,Valur,Víkingur R.,0,1
+2015,2015-07-26,Stjarnan,ÍBV,3,0
+2015,2015-07-26,Fylkir,Fjölnir,0,4
+2015,2015-07-26,ÍA,Leiknir R.,2,1
+2015,2015-07-27,KR,Breiðablik,0,0
+2015,2015-07-28,Keflavík,FH,1,2
+2015,2015-08-05,ÍBV,Fylkir,0,1
+2015,2015-08-05,Víkingur R.,ÍA,1,1
+2015,2015-08-05,Fjölnir,KR,2,1
+2015,2015-08-05,Leiknir R.,Stjarnan,1,0
+2015,2015-08-05,Breiðablik,Keflavík,4,0
+2015,2015-08-05,FH,Valur,2,1
+2015,2015-08-09,Leiknir R.,ÍBV,0,2
+2015,2015-08-09,Stjarnan,Víkingur R.,1,1
+2015,2015-08-10,Keflavík,Fjölnir,1,1
+2015,2015-08-10,Valur,Breiðablik,0,1
+2015,2015-08-10,ÍA,FH,2,3
+2015,2015-08-10,KR,Fylkir,2,0
+2015,2015-08-17,Breiðablik,ÍA,3,1
+2015,2015-08-17,Fylkir,Keflavík,3,3
+2015,2015-08-17,Víkingur R.,Leiknir R.,1,1
+2015,2015-08-17,FH,Stjarnan,4,0
+2015,2015-08-20,Fjölnir,Valur,1,1
+2015,2015-08-21,ÍBV,KR,1,1
+2015,2015-08-24,Valur,Fylkir,4,2
+2015,2015-08-24,ÍA,Fjölnir,4,4
+2015,2015-08-24,Leiknir R.,FH,0,1
+2015,2015-08-24,Stjarnan,Breiðablik,0,1
+2015,2015-08-25,Víkingur R.,ÍBV,1,0
+2015,2015-08-25,Keflavík,KR,0,1
+2015,2015-08-30,ÍBV,Keflavík,3,0
+2015,2015-08-30,FH,Víkingur R.,1,0
+2015,2015-08-30,Fylkir,ÍA,0,0
+2015,2015-08-30,KR,Valur,2,2
+2015,2015-08-30,Fjölnir,Stjarnan,1,1
+2015,2015-08-30,Breiðablik,Leiknir R.,0,0
+2015,2015-09-13,ÍA,KR,0,0
+2015,2015-09-13,FH,ÍBV,3,1
+2015,2015-09-13,Víkingur R.,Breiðablik,2,2
+2015,2015-09-13,Valur,Keflavík,3,2
+2015,2015-09-13,Leiknir R.,Fjölnir,2,3
+2015,2015-09-14,Stjarnan,Fylkir,1,0
+2015,2015-09-20,Fjölnir,Víkingur R.,4,3
+2015,2015-09-20,Fylkir,Leiknir R.,3,1
+2015,2015-09-20,KR,Stjarnan,0,3
+2015,2015-09-20,Keflavík,ÍA,0,4
+2015,2015-09-20,ÍBV,Valur,3,3
+2015,2015-09-20,Breiðablik,FH,2,1
+2015,2015-09-26,Leiknir R.,KR,0,2
+2015,2015-09-26,Breiðablik,ÍBV,1,0
+2015,2015-09-26,Víkingur R.,Fylkir,0,0
+2015,2015-09-26,ÍA,Valur,1,0
+2015,2015-09-26,FH,Fjölnir,2,1
+2015,2015-09-26,Stjarnan,Keflavík,7,0
+2015,2015-10-03,Keflavík,Leiknir R.,3,2
+2015,2015-10-03,ÍBV,ÍA,1,2
+2015,2015-10-03,Valur,Stjarnan,1,2
+2015,2015-10-03,KR,Víkingur R.,5,2
+2015,2015-10-03,Fylkir,FH,3,2
+2015,2015-10-03,Fjölnir,Breiðablik,0,2
+2014,2014-05-04,Keflavík,Þór,3,1
+2014,2014-05-04,Fram,ÍBV,1,1
+2014,2014-05-04,Fjölnir,Víkingur R.,3,0
+2014,2014-05-04,Stjarnan,Fylkir,1,0
+2014,2014-05-04,KR,Valur,1,2
+2014,2014-05-05,FH,Breiðablik,1,1
+2014,2014-05-08,ÍBV,Stjarnan,1,2
+2014,2014-05-08,Þór,Fjölnir,1,2
+2014,2014-05-08,Víkingur R.,Fram,2,1
+2014,2014-05-08,FH,Fylkir,3,0
+2014,2014-05-08,Breiðablik,KR,1,2
+2014,2014-05-08,Valur,Keflavík,0,1
+2014,2014-05-11,Fjölnir,Valur,1,1
+2014,2014-05-12,ÍBV,Fylkir,1,3
+2014,2014-05-12,Fram,Þór,1,0
+2014,2014-05-12,Stjarnan,Víkingur R.,0,0
+2014,2014-05-12,Keflavík,Breiðablik,2,0
+2014,2014-05-12,KR,FH,0,1
+2014,2014-05-18,FH,ÍBV,1,0
+2014,2014-05-18,Þór,Stjarnan,3,4
+2014,2014-05-18,Keflavík,KR,0,1
+2014,2014-05-18,Breiðablik,Fjölnir,2,2
+2014,2014-05-19,Víkingur R.,Fylkir,1,2
+2014,2014-05-19,Valur,Fram,5,3
+2014,2014-05-22,ÍBV,Víkingur R.,1,2
+2014,2014-05-22,Fjölnir,KR,1,1
+2014,2014-05-22,Stjarnan,Valur,1,1
+2014,2014-05-22,Fram,Breiðablik,1,1
+2014,2014-05-22,Þór,Fylkir,5,2
+2014,2014-05-22,Keflavík,FH,1,1
+2014,2014-06-01,Þór,ÍBV,1,1
+2014,2014-06-01,Keflavík,Fjölnir,1,1
+2014,2014-06-01,FH,Víkingur R.,1,0
+2014,2014-06-02,Valur,Fylkir,1,0
+2014,2014-06-02,KR,Fram,3,2
+2014,2014-06-02,Breiðablik,Stjarnan,1,1
+2014,2014-06-09,Víkingur R.,Þór,3,2
+2014,2014-06-09,ÍBV,Valur,2,2
+2014,2014-06-10,Fram,Keflavík,1,1
+2014,2014-06-11,Fjölnir,FH,0,1
+2014,2014-06-11,Fylkir,Breiðablik,1,1
+2014,2014-06-11,Stjarnan,KR,2,1
+2014,2014-06-15,FH,Þór,1,1
+2014,2014-06-15,Breiðablik,ÍBV,1,1
+2014,2014-06-15,Valur,Víkingur R.,1,2
+2014,2014-06-15,Fjölnir,Fram,1,4
+2014,2014-06-15,KR,Fylkir,1,0
+2014,2014-06-15,Keflavík,Stjarnan,2,2
+2014,2014-06-22,ÍBV,KR,2,3
+2014,2014-06-22,Þór,Valur,0,1
+2014,2014-06-22,Fylkir,Keflavík,2,4
+2014,2014-06-22,Víkingur R.,Breiðablik,1,0
+2014,2014-06-22,Stjarnan,Fjölnir,2,1
+2014,2014-06-23,Fram,FH,0,4
+2014,2014-06-27,Fram,Stjarnan,1,2
+2014,2014-06-27,FH,Valur,2,1
+2014,2014-07-02,Keflavík,ÍBV,1,2
+2014,2014-07-02,Breiðablik,Þór,3,2
+2014,2014-07-02,KR,Víkingur R.,2,0
+2014,2014-07-02,Fjölnir,Fylkir,3,3
+2014,2014-07-10,Þór,KR,2,0
+2014,2014-07-13,ÍBV,Fjölnir,4,2
+2014,2014-07-13,Stjarnan,FH,2,2
+2014,2014-07-14,Víkingur R.,Keflavík,3,1
+2014,2014-07-14,Fylkir,Fram,2,0
+2014,2014-07-14,Valur,Breiðablik,1,2
+2014,2014-07-19,Valur,KR,1,4
+2014,2014-07-20,ÍBV,Fram,2,0
+2014,2014-07-20,Þór,Keflavík,0,0
+2014,2014-07-20,Fylkir,Stjarnan,1,3
+2014,2014-07-21,Breiðablik,FH,2,4
+2014,2014-07-21,Víkingur R.,Fjölnir,1,0
+2014,2014-07-27,Fjölnir,Þór,4,1
+2014,2014-07-27,Stjarnan,ÍBV,2,0
+2014,2014-07-27,Fylkir,FH,0,2
+2014,2014-07-27,Keflavík,Valur,1,2
+2014,2014-07-27,Fram,Víkingur R.,0,3
+2014,2014-07-27,KR,Breiðablik,1,1
+2014,2014-08-06,Fylkir,ÍBV,3,1
+2014,2014-08-06,Þór,Fram,0,2
+2014,2014-08-06,Breiðablik,Keflavík,4,4
+2014,2014-08-06,Valur,Fjölnir,4,3
+2014,2014-08-10,ÍBV,FH,1,1
+2014,2014-08-10,Fylkir,Víkingur R.,1,1
+2014,2014-08-11,Fram,Valur,1,0
+2014,2014-08-11,KR,Keflavík,2,0
+2014,2014-08-11,Fjölnir,Breiðablik,1,1
+2014,2014-08-11,Stjarnan,Þór,2,1
+2014,2014-08-15,Valur,Stjarnan,1,2
+2014,2014-08-18,Víkingur R.,ÍBV,1,2
+2014,2014-08-18,Fylkir,Þór,4,1
+2014,2014-08-18,Breiðablik,Fram,3,0
+2014,2014-08-20,FH,Keflavík,2,0
+2014,2014-08-20,KR,Fjölnir,1,0
+2014,2014-08-24,ÍBV,Þór,2,0
+2014,2014-08-24,Fylkir,Valur,2,0
+2014,2014-08-24,Stjarnan,Breiðablik,2,2
+2014,2014-08-25,Víkingur R.,FH,2,3
+2014,2014-08-25,Fjölnir,Keflavík,1,1
+2014,2014-08-25,Fram,KR,1,2
+2014,2014-08-31,Valur,ÍBV,3,0
+2014,2014-08-31,Breiðablik,Fylkir,2,2
+2014,2014-08-31,Keflavík,Fram,2,4
+2014,2014-08-31,FH,Fjölnir,4,0
+2014,2014-08-31,Þór,Víkingur R.,0,1
+2014,2014-08-31,KR,Stjarnan,2,3
+2014,2014-09-14,Þór,FH,0,2
+2014,2014-09-14,Fylkir,KR,0,4
+2014,2014-09-14,Víkingur R.,Valur,1,1
+2014,2014-09-14,ÍBV,Breiðablik,1,1
+2014,2014-09-14,Stjarnan,Keflavík,2,0
+2014,2014-09-15,Fram,Fjölnir,1,3
+2014,2014-09-18,Víkingur R.,Stjarnan,0,1
+2014,2014-09-18,FH,KR,1,1
+2014,2014-09-21,KR,ÍBV,3,3
+2014,2014-09-21,Keflavík,Fylkir,0,1
+2014,2014-09-21,Valur,Þór,2,0
+2014,2014-09-21,Breiðablik,Víkingur R.,4,1
+2014,2014-09-21,FH,Fram,4,2
+2014,2014-09-23,Fjölnir,Stjarnan,0,0
+2014,2014-09-28,Þór,Breiðablik,2,0
+2014,2014-09-28,Stjarnan,Fram,4,0
+2014,2014-09-28,Víkingur R.,KR,0,1
+2014,2014-09-28,Fylkir,Fjölnir,2,1
+2014,2014-09-28,ÍBV,Keflavík,0,2
+2014,2014-09-28,Valur,FH,1,4
+2014,2014-10-04,Fjölnir,ÍBV,3,0
+2014,2014-10-04,Keflavík,Víkingur R.,2,0
+2014,2014-10-04,KR,Þór,4,1
+2014,2014-10-04,Breiðablik,Valur,3,0
+2014,2014-10-04,Fram,Fylkir,4,3
+2014,2014-10-04,FH,Stjarnan,1,2
+2013,2013-05-05,ÍBV,ÍA,1,0
+2013,2013-05-05,Breiðablik,Þór,4,1
+2013,2013-05-05,Víkingur Ó.,Fram,1,2
+2013,2013-05-06,KR,Stjarnan,2,1
+2013,2013-05-06,Fylkir,Valur,1,2
+2013,2013-05-06,FH,Keflavík,2,1
+2013,2013-05-12,Þór,FH,0,3
+2013,2013-05-12,ÍBV,Breiðablik,4,1
+2013,2013-05-12,Stjarnan,Víkingur Ó.,3,2
+2013,2013-05-12,Keflavík,KR,0,2
+2013,2013-05-13,Fram,Fylkir,1,1
+2013,2013-05-13,ÍA,Valur,1,3
+2013,2013-05-16,KR,Þór,3,0
+2013,2013-05-16,Valur,Fram,1,1
+2013,2013-05-16,Breiðablik,ÍA,4,1
+2013,2013-05-16,Víkingur Ó.,Keflavík,1,3
+2013,2013-05-16,Fylkir,Stjarnan,0,1
+2013,2013-05-16,FH,ÍBV,1,1
+2013,2013-05-20,ÍBV,KR,0,2
+2013,2013-05-20,Þór,Víkingur Ó.,1,0
+2013,2013-05-20,Keflavík,Fylkir,2,2
+2013,2013-05-21,ÍA,Fram,2,0
+2013,2013-05-21,Stjarnan,Valur,1,1
+2013,2013-05-21,Breiðablik,FH,0,1
+2013,2013-05-26,Víkingur Ó.,ÍBV,0,0
+2013,2013-05-26,Valur,Keflavík,4,0
+2013,2013-05-26,FH,ÍA,2,0
+2013,2013-05-26,Fylkir,Þór,1,4
+2013,2013-05-27,Fram,Stjarnan,0,1
+2013,2013-05-27,KR,Breiðablik,1,1
+2013,2013-06-02,ÍBV,Fylkir,3,1
+2013,2013-06-09,Þór,Valur,3,5
+2013,2013-06-09,ÍA,Stjarnan,1,3
+2013,2013-06-10,Breiðablik,Víkingur Ó.,2,0
+2013,2013-06-10,Keflavík,Fram,1,2
+2013,2013-06-10,FH,KR,2,4
+2013,2013-06-16,Víkingur Ó.,FH,0,4
+2013,2013-06-16,Fram,Þór,4,1
+2013,2013-06-16,Fylkir,Breiðablik,0,1
+2013,2013-06-16,KR,ÍA,4,2
+2013,2013-06-16,Stjarnan,Keflavík,1,0
+2013,2013-06-18,Valur,ÍBV,1,1
+2013,2013-06-23,ÍBV,Fram,1,0
+2013,2013-06-23,Þór,Stjarnan,1,1
+2013,2013-06-23,KR,Víkingur Ó.,2,1
+2013,2013-06-24,FH,Fylkir,2,1
+2013,2013-06-24,ÍA,Keflavík,2,3
+2013,2013-06-24,Breiðablik,Valur,1,0
+2013,2013-06-30,Keflavík,Þór,1,3
+2013,2013-06-30,Stjarnan,ÍBV,1,0
+2013,2013-06-30,Valur,FH,1,1
+2013,2013-06-30,Fram,Breiðablik,1,1
+2013,2013-06-30,Fylkir,KR,2,3
+2013,2013-06-30,Víkingur Ó.,ÍA,1,0
+2013,2013-07-03,ÍA,Þór,1,2
+2013,2013-07-03,Víkingur Ó.,Fylkir,0,0
+2013,2013-07-03,FH,Fram,2,1
+2013,2013-07-11,Stjarnan,FH,2,1
+2013,2013-07-14,Þór,ÍBV,1,3
+2013,2013-07-14,Keflavík,Breiðablik,1,2
+2013,2013-07-14,Fram,KR,2,1
+2013,2013-07-15,Valur,Víkingur Ó.,0,0
+2013,2013-07-15,Fylkir,ÍA,1,1
+2013,2013-07-20,Keflavík,FH,0,4
+2013,2013-07-21,ÍA,ÍBV,2,1
+2013,2013-07-21,Þór,Breiðablik,1,2
+2013,2013-07-21,Valur,Fylkir,1,3
+2013,2013-07-21,Stjarnan,KR,3,1
+2013,2013-07-22,Fram,Víkingur Ó.,3,4
+2013,2013-07-27,FH,Þór,1,0
+2013,2013-07-28,Víkingur Ó.,Stjarnan,1,1
+2013,2013-07-28,Breiðablik,ÍBV,3,1
+2013,2013-07-28,Fylkir,Fram,3,0
+2013,2013-07-28,KR,Keflavík,3,0
+2013,2013-07-29,Valur,ÍA,6,4
+2013,2013-08-03,ÍBV,FH,1,2
+2013,2013-08-07,Fram,Valur,0,4
+2013,2013-08-07,Þór,KR,1,3
+2013,2013-08-07,Stjarnan,Fylkir,1,2
+2013,2013-08-07,Keflavík,Víkingur Ó.,2,0
+2013,2013-08-11,Víkingur Ó.,Þór,1,1
+2013,2013-08-11,KR,ÍBV,3,1
+2013,2013-08-11,FH,Breiðablik,0,0
+2013,2013-08-11,Fram,ÍA,1,0
+2013,2013-08-11,Fylkir,Keflavík,3,0
+2013,2013-08-11,Valur,Stjarnan,1,1
+2013,2013-08-18,ÍA,FH,2,6
+2013,2013-08-18,ÍBV,Víkingur Ó.,1,1
+2013,2013-08-18,Keflavík,Valur,2,0
+2013,2013-08-19,Þór,Fylkir,2,2
+2013,2013-08-22,ÍBV,Keflavík,1,1
+2013,2013-08-22,ÍA,Breiðablik,2,2
+2013,2013-08-22,Stjarnan,Fram,3,2
+2013,2013-08-25,Valur,Þór,2,2
+2013,2013-08-25,Fylkir,ÍBV,0,1
+2013,2013-08-25,Víkingur Ó.,Breiðablik,0,0
+2013,2013-08-25,KR,FH,3,1
+2013,2013-08-26,Fram,Keflavík,2,3
+2013,2013-08-26,Stjarnan,ÍA,1,0
+2013,2013-08-29,KR,Valur,3,1
+2013,2013-08-29,Breiðablik,Stjarnan,2,1
+2013,2013-09-01,Þór,Fram,1,1
+2013,2013-09-01,Breiðablik,Fylkir,1,4
+2013,2013-09-01,FH,Víkingur Ó.,2,2
+2013,2013-09-01,Keflavík,Stjarnan,0,2
+2013,2013-09-12,Keflavík,ÍA,5,4
+2013,2013-09-12,Víkingur Ó.,KR,0,1
+2013,2013-09-12,Fylkir,FH,0,1
+2013,2013-09-12,Stjarnan,Þór,3,1
+2013,2013-09-13,Fram,ÍBV,0,1
+2013,2013-09-13,Valur,Breiðablik,1,1
+2013,2013-09-16,FH,Valur,3,3
+2013,2013-09-16,Breiðablik,Fram,1,2
+2013,2013-09-16,KR,Fylkir,4,1
+2013,2013-09-16,ÍBV,Stjarnan,1,0
+2013,2013-09-18,ÍA,Víkingur Ó.,0,5
+2013,2013-09-18,Þór,Keflavík,2,2
+2013,2013-09-19,Breiðablik,KR,3,0
+2013,2013-09-19,ÍBV,Valur,0,2
+2013,2013-09-22,Fram,FH,0,2
+2013,2013-09-22,Keflavík,ÍBV,4,2
+2013,2013-09-22,Valur,KR,1,2
+2013,2013-09-22,Fylkir,Víkingur Ó.,2,1
+2013,2013-09-22,Stjarnan,Breiðablik,3,2
+2013,2013-09-22,Þór,ÍA,1,0
+2013,2013-09-25,ÍA,KR,3,1
+2013,2013-09-28,ÍBV,Þór,1,2
+2013,2013-09-28,Breiðablik,Keflavík,3,2
+2013,2013-09-28,FH,Stjarnan,4,0
+2013,2013-09-28,ÍA,Fylkir,1,3
+2013,2013-09-28,KR,Fram,2,1
+2013,2013-09-28,Víkingur Ó.,Valur,0,5
+2012,2012-05-06,Selfoss,ÍBV,2,1
+2012,2012-05-06,Breiðablik,ÍA,0,1
+2012,2012-05-06,FH,Grindavík,1,1
+2012,2012-05-06,Fylkir,Keflavík,1,1
+2012,2012-05-06,KR,Stjarnan,2,2
+2012,2012-05-07,Fram,Valur,0,1
+2012,2012-05-10,ÍBV,Breiðablik,0,0
+2012,2012-05-10,FH,Fram,1,0
+2012,2012-05-10,Stjarnan,Fylkir,2,2
+2012,2012-05-10,Grindavík,Keflavík,0,4
+2012,2012-05-10,Valur,Selfoss,3,1
+2012,2012-05-10,ÍA,KR,3,2
+2012,2012-05-14,Keflavík,Stjarnan,0,1
+2012,2012-05-15,Breiðablik,Valur,1,0
+2012,2012-05-15,Fram,Grindavík,4,3
+2012,2012-05-15,Selfoss,FH,0,1
+2012,2012-05-15,Fylkir,ÍA,0,1
+2012,2012-05-15,KR,ÍBV,3,2
+2012,2012-05-20,ÍBV,Fylkir,1,1
+2012,2012-05-20,ÍA,Keflavík,3,2
+2012,2012-05-20,Valur,KR,0,1
+2012,2012-05-20,FH,Breiðablik,3,0
+2012,2012-05-21,Grindavík,Stjarnan,1,4
+2012,2012-05-21,Fram,Selfoss,0,2
+2012,2012-05-23,KR,FH,2,0
+2012,2012-05-24,Stjarnan,ÍA,1,1
+2012,2012-05-24,Selfoss,Grindavík,3,3
+2012,2012-05-24,Breiðablik,Fram,0,2
+2012,2012-05-24,Fylkir,Valur,3,1
+2012,2012-05-24,Keflavík,ÍBV,1,0
+2012,2012-05-29,ÍBV,Stjarnan,4,1
+2012,2012-05-31,Selfoss,Breiðablik,0,2
+2012,2012-05-31,Valur,Keflavík,4,0
+2012,2012-06-02,FH,Fylkir,8,0
+2012,2012-06-02,Grindavík,ÍA,2,2
+2012,2012-06-02,Fram,KR,1,2
+2012,2012-06-14,Fylkir,Fram,1,0
+2012,2012-06-15,Stjarnan,Valur,3,2
+2012,2012-06-15,ÍA,ÍBV,0,4
+2012,2012-06-16,Breiðablik,Grindavík,2,0
+2012,2012-06-16,KR,Selfoss,3,1
+2012,2012-06-16,Keflavík,FH,2,4
+2012,2012-06-20,Fram,Keflavík,0,2
+2012,2012-06-20,Breiðablik,KR,2,1
+2012,2012-06-20,Valur,ÍA,2,1
+2012,2012-06-20,FH,Stjarnan,2,2
+2012,2012-06-20,Grindavík,ÍBV,1,3
+2012,2012-06-20,Selfoss,Fylkir,1,2
+2012,2012-06-29,ÍBV,Valur,2,0
+2012,2012-06-30,ÍA,FH,2,7
+2012,2012-07-01,KR,Grindavík,4,1
+2012,2012-07-02,Keflavík,Selfoss,2,2
+2012,2012-07-02,Fylkir,Breiðablik,1,1
+2012,2012-07-02,Stjarnan,Fram,4,2
+2012,2012-07-05,Grindavík,Valur,2,0
+2012,2012-07-05,Breiðablik,Keflavík,0,4
+2012,2012-07-05,Selfoss,Stjarnan,1,3
+2012,2012-07-05,KR,Fylkir,2,1
+2012,2012-07-05,Fram,ÍA,2,0
+2012,2012-07-12,Keflavík,KR,1,1
+2012,2012-07-15,ÍBV,Fram,3,2
+2012,2012-07-15,Valur,FH,3,1
+2012,2012-07-16,Fylkir,Grindavík,2,1
+2012,2012-07-16,Stjarnan,Breiðablik,1,1
+2012,2012-07-16,ÍA,Selfoss,4,0
+2012,2012-07-21,Stjarnan,KR,1,1
+2012,2012-07-22,Grindavík,FH,0,1
+2012,2012-07-23,ÍBV,Selfoss,1,0
+2012,2012-07-23,ÍA,Breiðablik,1,1
+2012,2012-07-23,Valur,Fram,0,2
+2012,2012-07-23,Keflavík,Fylkir,0,2
+2012,2012-07-29,Breiðablik,ÍBV,1,0
+2012,2012-07-29,Fylkir,Stjarnan,3,3
+2012,2012-07-29,Selfoss,Valur,0,1
+2012,2012-07-30,Fram,FH,0,1
+2012,2012-07-30,Keflavík,Grindavík,2,1
+2012,2012-07-30,KR,ÍA,2,0
+2012,2012-08-08,ÍBV,KR,2,0
+2012,2012-08-08,ÍA,Fylkir,2,1
+2012,2012-08-08,FH,Selfoss,5,2
+2012,2012-08-08,Grindavík,Fram,2,2
+2012,2012-08-08,Valur,Breiðablik,3,4
+2012,2012-08-08,Stjarnan,Keflavík,1,3
+2012,2012-08-12,Fylkir,ÍBV,0,4
+2012,2012-08-12,Selfoss,Fram,4,2
+2012,2012-08-12,KR,Valur,2,3
+2012,2012-08-12,Keflavík,ÍA,2,3
+2012,2012-08-12,Stjarnan,Grindavík,3,4
+2012,2012-08-12,Breiðablik,FH,0,1
+2012,2012-08-20,Grindavík,Selfoss,0,4
+2012,2012-08-20,Valur,Fylkir,1,2
+2012,2012-08-20,ÍBV,Keflavík,0,1
+2012,2012-08-20,Fram,Breiðablik,3,2
+2012,2012-08-23,ÍA,Stjarnan,1,2
+2012,2012-08-23,FH,KR,1,3
+2012,2012-08-26,ÍA,Grindavík,2,1
+2012,2012-08-26,Fylkir,FH,0,1
+2012,2012-08-26,Breiðablik,Selfoss,1,1
+2012,2012-08-26,Stjarnan,ÍBV,1,1
+2012,2012-08-27,KR,Fram,1,1
+2012,2012-08-27,Keflavík,Valur,0,4
+2012,2012-08-30,FH,ÍBV,2,0
+2012,2012-09-02,ÍBV,ÍA,0,0
+2012,2012-09-02,Selfoss,KR,1,0
+2012,2012-09-02,Valur,Stjarnan,0,2
+2012,2012-09-03,FH,Keflavík,3,0
+2012,2012-09-03,Grindavík,Breiðablik,2,4
+2012,2012-09-03,Fram,Fylkir,4,0
+2012,2012-09-16,ÍBV,Grindavík,2,1
+2012,2012-09-16,ÍA,Valur,1,1
+2012,2012-09-16,Keflavík,Fram,5,0
+2012,2012-09-16,Fylkir,Selfoss,2,0
+2012,2012-09-16,KR,Breiðablik,0,4
+2012,2012-09-16,Stjarnan,FH,2,2
+2012,2012-09-20,Valur,ÍBV,0,3
+2012,2012-09-20,Grindavík,KR,2,2
+2012,2012-09-20,Selfoss,Keflavík,2,1
+2012,2012-09-20,FH,ÍA,2,1
+2012,2012-09-20,Breiðablik,Fylkir,1,1
+2012,2012-09-20,Fram,Stjarnan,1,1
+2012,2012-09-23,ÍA,Fram,0,1
+2012,2012-09-23,Valur,Grindavík,4,1
+2012,2012-09-23,Stjarnan,Selfoss,4,2
+2012,2012-09-23,Fylkir,KR,3,2
+2012,2012-09-23,Keflavík,Breiðablik,2,3
+2012,2012-09-23,ÍBV,FH,2,2
+2012,2012-09-29,Fram,ÍBV,2,1
+2012,2012-09-29,Selfoss,ÍA,1,3
+2012,2012-09-29,KR,Keflavík,3,0
+2012,2012-09-29,Breiðablik,Stjarnan,2,0
+2012,2012-09-29,Grindavík,Fylkir,2,2
+2012,2012-09-29,FH,Valur,2,1
+2011,2011-05-02,ÍBV,Fram,1,0
+2011,2011-05-02,Keflavík,Stjarnan,4,2
+2011,2011-05-02,Valur,FH,1,0
+2011,2011-05-02,Fylkir,Grindavík,2,3
+2011,2011-05-03,Breiðablik,KR,2,3
+2011,2011-05-03,Víkingur R.,Þór,2,0
+2011,2011-05-07,ÍBV,Fylkir,1,2
+2011,2011-05-07,Fram,Þór,0,1
+2011,2011-05-07,Stjarnan,Víkingur R.,0,0
+2011,2011-05-08,KR,Keflavík,1,1
+2011,2011-05-08,Grindavík,Valur,0,2
+2011,2011-05-08,FH,Breiðablik,4,1
+2011,2011-05-11,Víkingur R.,KR,0,2
+2011,2011-05-11,Breiðablik,Grindavík,2,1
+2011,2011-05-11,Keflavík,FH,1,1
+2011,2011-05-11,Þór,Stjarnan,0,1
+2011,2011-05-11,Fylkir,Fram,0,0
+2011,2011-05-11,Valur,ÍBV,0,1
+2011,2011-05-15,ÍBV,Breiðablik,1,1
+2011,2011-05-15,Fylkir,Valur,2,1
+2011,2011-05-15,Fram,Stjarnan,2,5
+2011,2011-05-16,Grindavík,Keflavík,0,2
+2011,2011-05-16,FH,Víkingur R.,1,1
+2011,2011-05-16,KR,Þór,3,1
+2011,2011-05-22,Stjarnan,KR,1,1
+2011,2011-05-22,Breiðablik,Fylkir,3,1
+2011,2011-05-22,Valur,Fram,1,0
+2011,2011-05-22,Víkingur R.,Grindavík,0,0
+2011,2011-05-22,Keflavík,ÍBV,0,2
+2011,2011-05-29,ÍBV,Víkingur R.,2,0
+2011,2011-05-29,Fram,KR,1,2
+2011,2011-05-29,Valur,Breiðablik,2,0
+2011,2011-05-30,FH,Stjarnan,3,0
+2011,2011-05-30,Fylkir,Keflavík,2,1
+2011,2011-05-30,Grindavík,Þór,4,1
+2011,2011-06-06,Stjarnan,Grindavík,2,1
+2011,2011-06-06,Víkingur R.,Fylkir,1,3
+2011,2011-06-07,Þór,ÍBV,2,1
+2011,2011-06-07,Breiðablik,Fram,1,1
+2011,2011-06-07,KR,FH,2,0
+2011,2011-06-13,Þór,FH,2,2
+2011,2011-06-24,ÍBV,Stjarnan,2,1
+2011,2011-06-26,Fylkir,Þór,1,1
+2011,2011-06-26,Valur,Víkingur R.,2,1
+2011,2011-06-26,Grindavík,KR,0,3
+2011,2011-06-27,Breiðablik,Keflavík,2,1
+2011,2011-06-27,Fram,FH,1,2
+2011,2011-06-30,Keflavík,Valur,0,2
+2011,2011-07-06,Þór,Valur,0,3
+2011,2011-07-06,FH,Grindavík,7,2
+2011,2011-07-06,Víkingur R.,Breiðablik,2,2
+2011,2011-07-06,Keflavík,Fram,1,0
+2011,2011-07-06,Stjarnan,Fylkir,4,1
+2011,2011-07-09,Breiðablik,Þór,4,1
+2011,2011-07-10,ÍBV,FH,3,1
+2011,2011-07-10,Fylkir,KR,0,3
+2011,2011-07-11,Keflavík,Víkingur R.,2,1
+2011,2011-07-11,Fram,Grindavík,1,1
+2011,2011-07-11,Valur,Stjarnan,1,1
+2011,2011-07-16,Stjarnan,Breiðablik,3,2
+2011,2011-07-17,Grindavík,ÍBV,2,0
+2011,2011-07-17,FH,Fylkir,2,2
+2011,2011-07-17,KR,Valur,1,1
+2011,2011-07-18,Víkingur R.,Fram,0,1
+2011,2011-07-18,Þór,Keflavík,2,1
+2011,2011-07-24,Þór,Víkingur R.,6,1
+2011,2011-07-24,Fram,ÍBV,0,2
+2011,2011-07-24,Grindavík,Fylkir,1,4
+2011,2011-07-24,Stjarnan,Keflavík,2,3
+2011,2011-07-24,KR,Breiðablik,4,0
+2011,2011-07-25,FH,Valur,3,2
+2011,2011-08-03,Fylkir,ÍBV,1,3
+2011,2011-08-03,Valur,Grindavík,1,1
+2011,2011-08-03,Breiðablik,FH,0,1
+2011,2011-08-03,Víkingur R.,Stjarnan,1,1
+2011,2011-08-03,Þór,Fram,3,0
+2011,2011-08-07,ÍBV,Valur,1,1
+2011,2011-08-07,Stjarnan,Þór,5,1
+2011,2011-08-07,FH,Keflavík,1,0
+2011,2011-08-07,Grindavík,Breiðablik,1,1
+2011,2011-08-07,KR,Víkingur R.,3,2
+2011,2011-08-07,Fram,Fylkir,0,0
+2011,2011-08-15,Valur,Fylkir,3,1
+2011,2011-08-15,Breiðablik,ÍBV,1,2
+2011,2011-08-15,Stjarnan,Fram,2,2
+2011,2011-08-15,Víkingur R.,FH,1,3
+2011,2011-08-15,Keflavík,Grindavík,1,2
+2011,2011-08-18,Þór,KR,1,2
+2011,2011-08-21,ÍBV,Keflavík,2,1
+2011,2011-08-21,FH,Þór,2,0
+2011,2011-08-22,Fylkir,Breiðablik,1,2
+2011,2011-08-22,Grindavík,Víkingur R.,0,0
+2011,2011-08-22,KR,Stjarnan,1,1
+2011,2011-08-22,Fram,Valur,3,1
+2011,2011-08-25,KR,ÍBV,2,2
+2011,2011-08-28,Þór,Grindavík,0,0
+2011,2011-08-28,Breiðablik,Valur,1,1
+2011,2011-08-29,Keflavík,Fylkir,1,2
+2011,2011-08-29,KR,Fram,2,1
+2011,2011-08-29,Víkingur R.,ÍBV,1,3
+2011,2011-08-29,Stjarnan,FH,4,0
+2011,2011-09-11,Fram,Breiðablik,1,0
+2011,2011-09-11,ÍBV,Þór,3,1
+2011,2011-09-11,FH,KR,2,1
+2011,2011-09-11,Valur,Keflavík,0,1
+2011,2011-09-11,Fylkir,Víkingur R.,2,1
+2011,2011-09-11,Grindavík,Stjarnan,2,2
+2011,2011-09-15,Stjarnan,ÍBV,3,2
+2011,2011-09-15,Víkingur R.,Valur,0,1
+2011,2011-09-15,KR,Grindavík,1,1
+2011,2011-09-15,Keflavík,Breiðablik,1,1
+2011,2011-09-15,Þór,Fylkir,2,0
+2011,2011-09-15,FH,Fram,1,1
+2011,2011-09-18,Valur,Þór,2,1
+2011,2011-09-19,Grindavík,FH,1,3
+2011,2011-09-19,Fylkir,Stjarnan,2,3
+2011,2011-09-19,ÍBV,KR,1,1
+2011,2011-09-19,Breiðablik,Víkingur R.,2,6
+2011,2011-09-19,Fram,Keflavík,1,0
+2011,2011-09-22,Keflavík,KR,2,3
+2011,2011-09-25,FH,ÍBV,4,2
+2011,2011-09-25,Stjarnan,Valur,5,0
+2011,2011-09-25,KR,Fylkir,3,2
+2011,2011-09-25,Þór,Breiðablik,1,2
+2011,2011-09-25,Grindavík,Fram,1,2
+2011,2011-09-25,Víkingur R.,Keflavík,2,1
+2011,2011-10-01,Fram,Víkingur R.,2,1
+2011,2011-10-01,Valur,KR,0,0
+2011,2011-10-01,Keflavík,Þór,2,1
+2011,2011-10-01,Fylkir,FH,3,5
+2011,2011-10-01,ÍBV,Grindavík,0,2
+2011,2011-10-01,Breiðablik,Stjarnan,4,3
+2010,2010-05-10,Valur,FH,2,2
+2010,2010-05-11,KR,Haukar,2,2
+2010,2010-05-11,Breiðablik,Keflavík,0,1
+2010,2010-05-11,Stjarnan,Grindavík,4,0
+2010,2010-05-11,Selfoss,Fylkir,1,3
+2010,2010-05-11,Fram,ÍBV,2,0
+2010,2010-05-16,Breiðablik,Fram,2,2
+2010,2010-05-16,KR,Selfoss,1,2
+2010,2010-05-16,Fylkir,Stjarnan,3,1
+2010,2010-05-16,Haukar,FH,0,1
+2010,2010-05-17,Valur,ÍBV,1,1
+2010,2010-05-17,Grindavík,Keflavík,0,1
+2010,2010-05-20,Valur,Breiðablik,0,2
+2010,2010-05-20,Keflavík,Fylkir,2,1
+2010,2010-05-20,Selfoss,Haukar,3,0
+2010,2010-05-20,FH,ÍBV,2,3
+2010,2010-05-20,Fram,Grindavík,2,0
+2010,2010-05-20,Stjarnan,KR,2,2
+2010,2010-05-24,Haukar,ÍBV,0,3
+2010,2010-05-24,Fylkir,Fram,2,2
+2010,2010-05-24,Breiðablik,FH,2,0
+2010,2010-05-25,Grindavík,Valur,1,2
+2010,2010-05-25,Selfoss,Stjarnan,2,2
+2010,2010-05-25,KR,Keflavík,0,0
+2010,2010-05-30,ÍBV,Breiðablik,1,1
+2010,2010-05-31,Keflavík,Selfoss,2,1
+2010,2010-05-31,Stjarnan,Haukar,2,2
+2010,2010-05-31,FH,Grindavík,2,1
+2010,2010-05-31,Valur,Fylkir,5,2
+2010,2010-06-06,Grindavík,ÍBV,1,2
+2010,2010-06-06,Selfoss,Fram,1,2
+2010,2010-06-07,Stjarnan,Keflavík,4,0
+2010,2010-06-07,Fylkir,FH,2,2
+2010,2010-06-07,Haukar,Breiðablik,2,4
+2010,2010-06-07,KR,Valur,1,2
+2010,2010-06-10,Fram,KR,2,3
+2010,2010-06-13,ÍBV,Fylkir,1,0
+2010,2010-06-14,Keflavík,Haukar,1,1
+2010,2010-06-14,Valur,Selfoss,2,1
+2010,2010-06-14,Breiðablik,Grindavík,2,3
+2010,2010-06-14,Fram,Stjarnan,2,1
+2010,2010-06-14,FH,KR,3,2
+2010,2010-06-20,Fylkir,Breiðablik,2,4
+2010,2010-06-20,Stjarnan,Valur,1,1
+2010,2010-06-20,KR,ÍBV,1,0
+2010,2010-06-21,Keflavík,Fram,1,1
+2010,2010-06-21,Selfoss,FH,0,2
+2010,2010-06-21,Haukar,Grindavík,2,3
+2010,2010-06-25,ÍBV,Selfoss,3,0
+2010,2010-06-27,Breiðablik,KR,2,1
+2010,2010-06-27,FH,Stjarnan,1,3
+2010,2010-06-27,Grindavík,Fylkir,1,2
+2010,2010-06-27,Fram,Haukar,0,0
+2010,2010-06-27,Valur,Keflavík,0,2
+2010,2010-07-04,Stjarnan,ÍBV,0,2
+2010,2010-07-04,KR,Grindavík,1,0
+2010,2010-07-04,Keflavík,FH,1,1
+2010,2010-07-05,Haukar,Fylkir,1,1
+2010,2010-07-05,Selfoss,Breiðablik,1,3
+2010,2010-07-05,Fram,Valur,2,2
+2010,2010-07-08,Valur,Haukar,2,2
+2010,2010-07-08,ÍBV,Keflavík,2,1
+2010,2010-07-08,Grindavík,Selfoss,1,1
+2010,2010-07-08,Breiðablik,Stjarnan,4,0
+2010,2010-07-08,FH,Fram,4,1
+2010,2010-07-17,ÍBV,Fram,1,0
+2010,2010-07-18,Haukar,KR,3,3
+2010,2010-07-18,FH,Valur,1,1
+2010,2010-07-18,Fylkir,Selfoss,5,2
+2010,2010-07-18,Keflavík,Breiðablik,0,2
+2010,2010-07-19,Grindavík,Stjarnan,1,1
+2010,2010-07-25,ÍBV,Valur,3,1
+2010,2010-07-25,Fram,Breiðablik,3,1
+2010,2010-07-25,Stjarnan,Fylkir,2,1
+2010,2010-07-25,Selfoss,KR,0,3
+2010,2010-07-25,FH,Haukar,3,1
+2010,2010-07-26,Keflavík,Grindavík,1,1
+2010,2010-08-04,Breiðablik,Valur,5,0
+2010,2010-08-05,Grindavík,Fram,3,0
+2010,2010-08-05,ÍBV,FH,1,3
+2010,2010-08-05,Fylkir,Keflavík,1,2
+2010,2010-08-05,KR,Stjarnan,3,1
+2010,2010-08-05,Haukar,Selfoss,2,3
+2010,2010-08-08,ÍBV,Haukar,3,2
+2010,2010-08-08,FH,Breiðablik,1,1
+2010,2010-08-08,Fram,Fylkir,1,2
+2010,2010-08-08,Stjarnan,Selfoss,3,2
+2010,2010-08-08,Valur,Grindavík,0,0
+2010,2010-08-08,Keflavík,KR,0,1
+2010,2010-08-16,Fylkir,Valur,0,1
+2010,2010-08-16,Breiðablik,ÍBV,1,1
+2010,2010-08-16,Haukar,Stjarnan,0,5
+2010,2010-08-19,Selfoss,Keflavík,3,2
+2010,2010-08-19,Grindavík,FH,3,1
+2010,2010-08-19,KR,Fram,2,1
+2010,2010-08-22,FH,Fylkir,4,2
+2010,2010-08-22,ÍBV,Grindavík,0,1
+2010,2010-08-23,Breiðablik,Haukar,0,2
+2010,2010-08-23,Fram,Selfoss,3,1
+2010,2010-08-23,Valur,KR,1,4
+2010,2010-08-23,Keflavík,Stjarnan,2,2
+2010,2010-08-26,Fylkir,KR,1,4
+2010,2010-08-28,Haukar,Keflavík,2,0
+2010,2010-08-29,Grindavík,Breiðablik,2,4
+2010,2010-08-29,Stjarnan,Fram,2,3
+2010,2010-08-29,Fylkir,ÍBV,1,2
+2010,2010-08-30,Selfoss,Valur,2,3
+2010,2010-08-30,KR,FH,0,1
+2010,2010-09-12,FH,Selfoss,2,1
+2010,2010-09-12,Valur,Stjarnan,5,1
+2010,2010-09-12,ÍBV,KR,2,4
+2010,2010-09-12,Breiðablik,Fylkir,1,0
+2010,2010-09-12,Grindavík,Haukar,1,1
+2010,2010-09-13,Fram,Keflavík,2,1
+2010,2010-09-16,Selfoss,ÍBV,0,2
+2010,2010-09-16,Keflavík,Valur,3,1
+2010,2010-09-16,Stjarnan,FH,1,4
+2010,2010-09-16,KR,Breiðablik,1,3
+2010,2010-09-16,Fylkir,Grindavík,2,0
+2010,2010-09-16,Haukar,Fram,2,1
+2010,2010-09-19,FH,Keflavík,5,3
+2010,2010-09-19,Valur,Fram,1,3
+2010,2010-09-19,Fylkir,Haukar,3,0
+2010,2010-09-19,Grindavík,KR,3,3
+2010,2010-09-19,ÍBV,Stjarnan,2,1
+2010,2010-09-19,Breiðablik,Selfoss,3,0
+2010,2010-09-25,Stjarnan,Breiðablik,0,0
+2010,2010-09-25,KR,Fylkir,3,0
+2010,2010-09-25,Fram,FH,0,3
+2010,2010-09-25,Keflavík,ÍBV,4,1
+2010,2010-09-25,Selfoss,Grindavík,5,2
+2010,2010-09-25,Haukar,Valur,2,1
+2009,2009-05-10,KR,Fjölnir,2,1
+2009,2009-05-10,Fram,ÍBV,2,0
+2009,2009-05-10,Fylkir,Valur,1,0
+2009,2009-05-10,Stjarnan,Grindavík,3,1
+2009,2009-05-10,Breiðablik,Þróttur R.,2,1
+2009,2009-05-11,Keflavík,FH,1,0
+2009,2009-05-13,ÍBV,Breiðablik,0,1
+2009,2009-05-14,FH,Fram,2,1
+2009,2009-05-14,Valur,Fjölnir,3,1
+2009,2009-05-14,Þróttur R.,Stjarnan,0,6
+2009,2009-05-14,Grindavík,KR,0,4
+2009,2009-05-14,Fylkir,Keflavík,2,0
+2009,2009-05-17,KR,Þróttur R.,0,0
+2009,2009-05-17,Stjarnan,ÍBV,3,0
+2009,2009-05-18,Fjölnir,Grindavík,3,2
+2009,2009-05-18,Fram,Fylkir,0,0
+2009,2009-05-18,Keflavík,Valur,3,0
+2009,2009-05-18,Breiðablik,FH,2,3
+2009,2009-05-23,ÍBV,KR,0,1
+2009,2009-05-23,FH,Stjarnan,5,1
+2009,2009-05-23,Keflavík,Fram,1,0
+2009,2009-05-23,Þróttur R.,Fjölnir,1,1
+2009,2009-05-24,Fylkir,Breiðablik,3,1
+2009,2009-05-25,Valur,Grindavík,1,1
+2009,2009-05-28,Fram,Valur,1,2
+2009,2009-05-28,Breiðablik,Keflavík,4,4
+2009,2009-05-28,Stjarnan,Fylkir,2,1
+2009,2009-05-28,Fjölnir,ÍBV,1,3
+2009,2009-05-28,Grindavík,Þróttur R.,2,1
+2009,2009-05-28,KR,FH,1,2
+2009,2009-06-01,Valur,Þróttur R.,2,1
+2009,2009-06-01,FH,Fjölnir,3,0
+2009,2009-06-01,Keflavík,Stjarnan,1,1
+2009,2009-06-01,ÍBV,Grindavík,3,1
+2009,2009-06-01,Fram,Breiðablik,1,1
+2009,2009-06-01,Fylkir,KR,2,2
+2009,2009-06-13,Fjölnir,Fylkir,1,3
+2009,2009-06-14,Grindavík,FH,0,3
+2009,2009-06-14,KR,Keflavík,4,1
+2009,2009-06-14,Stjarnan,Fram,4,1
+2009,2009-06-14,Þróttur R.,ÍBV,2,1
+2009,2009-06-15,Breiðablik,Valur,0,1
+2009,2009-06-21,Fram,KR,3,0
+2009,2009-06-21,Fylkir,Grindavík,2,3
+2009,2009-06-21,FH,Þróttur R.,4,0
+2009,2009-06-21,Keflavík,Fjölnir,3,1
+2009,2009-06-22,Valur,ÍBV,2,0
+2009,2009-06-22,Breiðablik,Stjarnan,2,1
+2009,2009-06-25,Stjarnan,Valur,3,0
+2009,2009-06-25,Keflavík,Þróttur R.,3,2
+2009,2009-06-25,KR,Grindavík,2,0
+2009,2009-06-25,Fram,FH,0,2
+2009,2009-06-28,Þróttur R.,Fylkir,1,2
+2009,2009-06-28,ÍBV,FH,0,3
+2009,2009-06-28,Fjölnir,Fram,1,2
+2009,2009-06-28,Grindavík,Keflavík,1,1
+2009,2009-06-29,KR,Breiðablik,3,2
+2009,2009-07-01,Fylkir,ÍBV,3,0
+2009,2009-07-02,Stjarnan,KR,1,1
+2009,2009-07-02,Breiðablik,Fjölnir,0,0
+2009,2009-07-02,Valur,FH,0,5
+2009,2009-07-09,Fjölnir,Stjarnan,3,1
+2009,2009-07-09,FH,Fylkir,3,2
+2009,2009-07-11,KR,Valur,3,4
+2009,2009-07-12,ÍBV,Keflavík,2,2
+2009,2009-07-13,Grindavík,Breiðablik,0,1
+2009,2009-07-13,Þróttur R.,Fram,1,3
+2009,2009-07-18,FH,Keflavík,2,2
+2009,2009-07-19,Fjölnir,KR,1,2
+2009,2009-07-19,Grindavík,Stjarnan,4,2
+2009,2009-07-20,Þróttur R.,Breiðablik,4,0
+2009,2009-07-20,ÍBV,Fram,1,1
+2009,2009-07-20,Valur,Fylkir,0,1
+2009,2009-07-23,Breiðablik,ÍBV,3,4
+2009,2009-07-23,Fjölnir,Valur,2,0
+2009,2009-07-23,Keflavík,Fylkir,1,0
+2009,2009-07-23,Stjarnan,Þróttur R.,5,1
+2009,2009-07-26,ÍBV,Stjarnan,1,0
+2009,2009-07-26,FH,Breiðablik,2,1
+2009,2009-07-27,Grindavík,Fjölnir,1,1
+2009,2009-07-27,Þróttur R.,KR,1,5
+2009,2009-07-27,Valur,Keflavík,2,2
+2009,2009-07-27,Fylkir,Fram,2,1
+2009,2009-08-05,Fjölnir,Þróttur R.,1,3
+2009,2009-08-06,Fram,Keflavík,5,0
+2009,2009-08-06,Grindavík,Valur,3,1
+2009,2009-08-06,Stjarnan,FH,1,4
+2009,2009-08-06,Breiðablik,Fylkir,1,0
+2009,2009-08-09,Þróttur R.,Grindavík,1,5
+2009,2009-08-09,Fylkir,Stjarnan,2,1
+2009,2009-08-09,Keflavík,Breiðablik,0,3
+2009,2009-08-09,ÍBV,Fjölnir,3,1
+2009,2009-08-09,Valur,Fram,1,2
+2009,2009-08-09,FH,KR,2,4
+2009,2009-08-15,Fjölnir,FH,1,4
+2009,2009-08-16,Breiðablik,Fram,3,3
+2009,2009-08-17,KR,Fylkir,2,4
+2009,2009-08-17,Stjarnan,Keflavík,0,0
+2009,2009-08-17,Þróttur R.,Valur,0,1
+2009,2009-08-22,Fylkir,Fjölnir,2,2
+2009,2009-08-22,Keflavík,KR,1,2
+2009,2009-08-22,Valur,Breiðablik,0,3
+2009,2009-08-22,FH,Grindavík,0,3
+2009,2009-08-22,Fram,Stjarnan,3,2
+2009,2009-08-23,ÍBV,Þróttur R.,1,0
+2009,2009-08-26,KR,ÍBV,3,0
+2009,2009-08-26,Fram,Grindavík,4,3
+2009,2009-08-29,ÍBV,Valur,1,1
+2009,2009-08-29,Fjölnir,Keflavík,3,3
+2009,2009-08-30,KR,Fram,3,1
+2009,2009-08-31,Grindavík,Fylkir,2,3
+2009,2009-08-31,Stjarnan,Breiðablik,1,3
+2009,2009-08-31,Þróttur R.,FH,0,0
+2009,2009-09-03,Grindavík,ÍBV,1,1
+2009,2009-09-13,Fylkir,Þróttur R.,2,0
+2009,2009-09-13,Valur,Stjarnan,3,3
+2009,2009-09-13,FH,ÍBV,5,0
+2009,2009-09-15,Fram,Fjölnir,3,1
+2009,2009-09-16,Breiðablik,KR,0,2
+2009,2009-09-16,Keflavík,Grindavík,1,0
+2009,2009-09-19,ÍBV,Fylkir,2,3
+2009,2009-09-20,KR,Stjarnan,7,3
+2009,2009-09-20,Grindavík,Fram,1,3
+2009,2009-09-20,FH,Valur,2,0
+2009,2009-09-20,Fjölnir,Breiðablik,0,2
+2009,2009-09-20,Þróttur R.,Keflavík,2,2
+2009,2009-09-26,Keflavík,ÍBV,6,1
+2009,2009-09-26,Valur,KR,2,5
+2009,2009-09-26,Breiðablik,Grindavík,3,0
+2009,2009-09-26,Fram,Þróttur R.,0,1
+2009,2009-09-26,Fylkir,FH,1,1
+2009,2009-09-26,Stjarnan,Fjölnir,1,1
+2008,2008-05-10,ÍA,Breiðablik,1,1
+2008,2008-05-10,Þróttur R.,Fjölnir,0,3
+2008,2008-05-10,HK,FH,0,4
+2008,2008-05-10,KR,Grindavík,3,1
+2008,2008-05-10,Fylkir,Fram,0,3
+2008,2008-05-10,Keflavík,Valur,5,3
+2008,2008-05-14,Valur,Grindavík,3,0
+2008,2008-05-15,Breiðablik,Þróttur R.,0,0
+2008,2008-05-15,Keflavík,Fylkir,2,1
+2008,2008-05-15,Fjölnir,KR,2,1
+2008,2008-05-15,Fram,HK,2,0
+2008,2008-05-15,FH,ÍA,2,0
+2008,2008-05-19,HK,Keflavík,1,2
+2008,2008-05-19,Fylkir,Valur,2,0
+2008,2008-05-19,Þróttur R.,FH,4,4
+2008,2008-05-19,Grindavík,Fjölnir,0,1
+2008,2008-05-20,ÍA,Fram,1,0
+2008,2008-05-20,KR,Breiðablik,1,2
+2008,2008-05-25,Fram,Þróttur R.,1,0
+2008,2008-05-25,Valur,Fjölnir,2,1
+2008,2008-05-25,Keflavík,ÍA,3,1
+2008,2008-05-25,Fylkir,HK,2,1
+2008,2008-05-25,FH,KR,2,0
+2008,2008-05-26,Breiðablik,Grindavík,3,6
+2008,2008-06-01,Þróttur R.,Keflavík,3,2
+2008,2008-06-01,Fjölnir,Breiðablik,1,2
+2008,2008-06-01,ÍA,Fylkir,2,3
+2008,2008-06-02,Grindavík,FH,0,3
+2008,2008-06-02,KR,Fram,2,0
+2008,2008-06-02,HK,Valur,4,2
+2008,2008-06-05,Fylkir,Þróttur R.,2,3
+2008,2008-06-08,FH,Fjölnir,2,0
+2008,2008-06-08,Keflavík,KR,4,2
+2008,2008-06-08,Valur,Breiðablik,1,0
+2008,2008-06-08,HK,ÍA,1,1
+2008,2008-06-08,Fram,Grindavík,0,1
+2008,2008-06-11,Fjölnir,Fylkir,1,0
+2008,2008-06-15,ÍA,Valur,0,0
+2008,2008-06-15,KR,Fylkir,3,0
+2008,2008-06-15,Þróttur R.,HK,2,1
+2008,2008-06-15,Grindavík,Keflavík,0,1
+2008,2008-06-16,Fjölnir,Fram,0,1
+2008,2008-06-16,Breiðablik,FH,4,1
+2008,2008-06-23,ÍA,Þróttur R.,1,1
+2008,2008-06-23,HK,KR,0,3
+2008,2008-06-23,Keflavík,Fjölnir,1,2
+2008,2008-06-23,Fram,Breiðablik,2,1
+2008,2008-06-24,Valur,FH,0,1
+2008,2008-06-25,Fylkir,Grindavík,0,1
+2008,2008-06-29,Þróttur R.,Valur,0,3
+2008,2008-06-29,Grindavík,HK,2,2
+2008,2008-06-29,FH,Fram,2,1
+2008,2008-06-30,Breiðablik,Keflavík,2,2
+2008,2008-06-30,KR,ÍA,2,0
+2008,2008-07-06,Valur,Fram,2,0
+2008,2008-07-06,Þróttur R.,KR,0,1
+2008,2008-07-06,Keflavík,FH,1,0
+2008,2008-07-07,Fylkir,Breiðablik,0,2
+2008,2008-07-07,ÍA,Grindavík,1,2
+2008,2008-07-07,HK,Fjölnir,1,6
+2008,2008-07-10,KR,Valur,1,2
+2008,2008-07-13,Fjölnir,ÍA,2,0
+2008,2008-07-13,FH,Fylkir,1,2
+2008,2008-07-14,Grindavík,Þróttur R.,2,2
+2008,2008-07-14,Fram,Keflavík,0,2
+2008,2008-07-14,Breiðablik,HK,2,1
+2008,2008-07-19,Valur,Keflavík,1,1
+2008,2008-07-20,Breiðablik,ÍA,6,1
+2008,2008-07-20,FH,HK,4,0
+2008,2008-07-21,Fram,Fylkir,3,0
+2008,2008-07-21,Fjölnir,Þróttur R.,3,4
+2008,2008-07-21,Grindavík,KR,2,1
+2008,2008-07-27,ÍA,FH,2,5
+2008,2008-07-27,Grindavík,Valur,3,5
+2008,2008-07-28,Fylkir,Keflavík,3,3
+2008,2008-07-28,HK,Fram,0,2
+2008,2008-07-28,Þróttur R.,Breiðablik,2,2
+2008,2008-07-29,KR,Fjölnir,2,0
+2008,2008-08-06,Fram,ÍA,2,0
+2008,2008-08-06,FH,Þróttur R.,2,0
+2008,2008-08-06,Keflavík,HK,3,2
+2008,2008-08-06,Breiðablik,KR,1,1
+2008,2008-08-07,Fjölnir,Grindavík,0,1
+2008,2008-08-07,Valur,Fylkir,2,0
+2008,2008-08-10,KR,FH,1,2
+2008,2008-08-10,Þróttur R.,Fram,1,1
+2008,2008-08-11,Fjölnir,Valur,2,3
+2008,2008-08-11,ÍA,Keflavík,1,4
+2008,2008-08-11,Grindavík,Breiðablik,2,2
+2008,2008-08-11,HK,Fylkir,1,1
+2008,2008-08-17,Fylkir,ÍA,2,2
+2008,2008-08-17,Breiðablik,Fjölnir,4,1
+2008,2008-08-17,Fram,KR,0,2
+2008,2008-08-17,FH,Grindavík,0,1
+2008,2008-08-17,Keflavík,Þróttur R.,5,0
+2008,2008-08-17,Valur,HK,0,1
+2008,2008-08-24,Þróttur R.,Fylkir,0,0
+2008,2008-08-24,Breiðablik,Valur,0,2
+2008,2008-08-24,KR,Keflavík,2,2
+2008,2008-08-24,Grindavík,Fram,0,2
+2008,2008-08-24,Fjölnir,FH,3,3
+2008,2008-08-24,ÍA,HK,1,2
+2008,2008-08-27,Fylkir,KR,0,2
+2008,2008-08-27,Fram,Fjölnir,3,1
+2008,2008-08-31,HK,Þróttur R.,4,0
+2008,2008-08-31,Valur,ÍA,0,1
+2008,2008-08-31,Keflavík,Grindavík,3,0
+2008,2008-09-13,Grindavík,Fylkir,1,3
+2008,2008-09-13,KR,HK,2,1
+2008,2008-09-13,FH,Valur,3,0
+2008,2008-09-13,Fjölnir,Keflavík,1,2
+2008,2008-09-13,Breiðablik,Fram,3,0
+2008,2008-09-14,Þróttur R.,ÍA,4,1
+2008,2008-09-17,Keflavík,Breiðablik,3,1
+2008,2008-09-17,Fram,FH,4,1
+2008,2008-09-18,Fylkir,Fjölnir,0,3
+2008,2008-09-18,ÍA,KR,0,0
+2008,2008-09-18,Valur,Þróttur R.,2,0
+2008,2008-09-18,HK,Grindavík,0,2
+2008,2008-09-21,Breiðablik,Fylkir,2,3
+2008,2008-09-21,KR,Þróttur R.,5,2
+2008,2008-09-21,Fram,Valur,2,1
+2008,2008-09-21,Grindavík,ÍA,1,1
+2008,2008-09-21,FH,Keflavík,3,2
+2008,2008-09-21,Fjölnir,HK,3,1
+2008,2008-09-24,FH,Breiðablik,3,0
+2008,2008-09-27,ÍA,Fjölnir,0,3
+2008,2008-09-27,Þróttur R.,Grindavík,0,1
+2008,2008-09-27,Keflavík,Fram,1,2
+2008,2008-09-27,Fylkir,FH,0,2
+2008,2008-09-27,Valur,KR,0,1
+2008,2008-09-27,HK,Breiðablik,2,1
+2007,2007-05-12,ÍA,FH,2,3
+2007,2007-05-13,Valur,Fram,1,1
+2007,2007-05-13,Víkingur R.,HK,0,0
+2007,2007-05-13,Breiðablik,Fylkir,0,1
+2007,2007-05-14,KR,Keflavík,1,2
+2007,2007-05-20,Fylkir,Valur,1,2
+2007,2007-05-20,Fram,Víkingur R.,0,2
+2007,2007-05-20,KR,Breiðablik,1,1
+2007,2007-05-20,Keflavík,FH,1,2
+2007,2007-05-21,HK,ÍA,1,0
+2007,2007-05-24,Breiðablik,Keflavík,2,2
+2007,2007-05-24,Víkingur R.,Fylkir,0,1
+2007,2007-05-24,FH,HK,4,0
+2007,2007-05-24,ÍA,Fram,2,2
+2007,2007-05-24,Valur,KR,2,1
+2007,2007-05-28,Fylkir,ÍA,2,2
+2007,2007-05-28,Breiðablik,Valur,0,0
+2007,2007-05-28,Keflavík,HK,3,0
+2007,2007-05-28,KR,Víkingur R.,1,2
+2007,2007-05-29,Fram,FH,0,2
+2007,2007-06-08,Víkingur R.,Breiðablik,1,1
+2007,2007-06-09,Valur,Keflavík,2,2
+2007,2007-06-10,FH,Fylkir,0,0
+2007,2007-06-10,HK,Fram,2,1
+2007,2007-06-10,ÍA,KR,3,1
+2007,2007-06-13,Valur,Víkingur R.,3,1
+2007,2007-06-14,Keflavík,Fram,2,1
+2007,2007-06-14,Breiðablik,ÍA,3,0
+2007,2007-06-14,Fylkir,HK,1,0
+2007,2007-06-14,KR,FH,0,2
+2007,2007-06-18,Fram,Fylkir,3,1
+2007,2007-06-19,ÍA,Valur,2,1
+2007,2007-06-20,HK,KR,2,0
+2007,2007-06-20,Víkingur R.,Keflavík,1,2
+2007,2007-06-20,FH,Breiðablik,2,1
+2007,2007-06-26,Víkingur R.,ÍA,0,3
+2007,2007-06-26,Breiðablik,HK,3,0
+2007,2007-06-27,Keflavík,Fylkir,1,0
+2007,2007-06-27,Valur,FH,4,1
+2007,2007-06-28,KR,Fram,2,1
+2007,2007-07-03,Fram,Breiðablik,1,0
+2007,2007-07-03,FH,Víkingur R.,4,1
+2007,2007-07-04,HK,Valur,1,4
+2007,2007-07-04,Fylkir,KR,0,0
+2007,2007-07-04,ÍA,Keflavík,2,1
+2007,2007-07-14,FH,ÍA,1,1
+2007,2007-07-15,Keflavík,KR,1,1
+2007,2007-07-16,Fylkir,Breiðablik,0,3
+2007,2007-07-16,HK,Víkingur R.,2,2
+2007,2007-07-16,Fram,Valur,0,2
+2007,2007-07-24,Valur,Fylkir,2,4
+2007,2007-07-25,Breiðablik,KR,1,1
+2007,2007-07-25,Víkingur R.,Fram,2,1
+2007,2007-07-26,ÍA,HK,4,1
+2007,2007-07-28,FH,Keflavík,3,2
+2007,2007-08-08,KR,Valur,0,3
+2007,2007-08-09,Keflavík,Breiðablik,0,3
+2007,2007-08-09,Fram,ÍA,2,4
+2007,2007-08-09,Fylkir,Víkingur R.,1,0
+2007,2007-08-16,Víkingur R.,KR,0,1
+2007,2007-08-16,FH,Fram,3,3
+2007,2007-08-16,ÍA,Fylkir,0,2
+2007,2007-08-16,Valur,Breiðablik,2,2
+2007,2007-08-16,HK,Keflavík,2,1
+2007,2007-08-19,HK,FH,2,2
+2007,2007-08-26,Keflavík,Valur,1,3
+2007,2007-08-26,Fylkir,FH,1,2
+2007,2007-08-26,Breiðablik,Víkingur R.,1,1
+2007,2007-08-26,KR,ÍA,1,1
+2007,2007-08-26,Fram,HK,3,0
+2007,2007-08-30,FH,KR,5,1
+2007,2007-08-30,HK,Fylkir,1,2
+2007,2007-08-30,ÍA,Breiðablik,2,1
+2007,2007-08-30,Fram,Keflavík,2,2
+2007,2007-09-02,Víkingur R.,Valur,1,5
+2007,2007-09-16,KR,HK,3,2
+2007,2007-09-16,Breiðablik,FH,4,3
+2007,2007-09-16,Keflavík,Víkingur R.,0,0
+2007,2007-09-16,Fylkir,Fram,1,1
+2007,2007-09-17,Valur,ÍA,2,2
+2007,2007-09-23,Fram,KR,1,1
+2007,2007-09-23,ÍA,Víkingur R.,1,0
+2007,2007-09-23,FH,Valur,0,2
+2007,2007-09-23,HK,Breiðablik,1,1
+2007,2007-09-23,Fylkir,Keflavík,4,0
+2007,2007-09-29,Víkingur R.,FH,1,3
+2007,2007-09-29,Keflavík,ÍA,3,3
+2007,2007-09-29,Breiðablik,Fram,2,2
+2007,2007-09-29,KR,Fylkir,1,1
+2007,2007-09-29,Valur,HK,1,0
+2006,2006-05-14,Víkingur R.,Fylkir,0,2
+2006,2006-05-14,Grindavík,ÍA,3,2
+2006,2006-05-14,ÍBV,Keflavík,2,1
+2006,2006-05-14,KR,FH,0,3
+2006,2006-05-15,Breiðablik,Valur,2,1
+2006,2006-05-19,Keflavík,Víkingur R.,2,1
+2006,2006-05-19,Fylkir,Grindavík,2,1
+2006,2006-05-20,Breiðablik,ÍBV,4,1
+2006,2006-05-20,ÍA,KR,1,2
+2006,2006-05-21,Valur,FH,0,2
+2006,2006-05-24,KR,Fylkir,1,0
+2006,2006-05-24,Grindavík,Keflavík,1,1
+2006,2006-05-25,Víkingur R.,Breiðablik,4,1
+2006,2006-05-25,ÍBV,Valur,0,3
+2006,2006-05-25,FH,ÍA,2,1
+2006,2006-05-28,ÍBV,Víkingur R.,0,1
+2006,2006-05-28,Keflavík,KR,3,0
+2006,2006-05-28,Fylkir,FH,1,2
+2006,2006-05-29,Breiðablik,Grindavík,2,3
+2006,2006-05-29,Valur,ÍA,2,1
+2006,2006-06-05,ÍA,Fylkir,0,1
+2006,2006-06-05,Grindavík,ÍBV,0,0
+2006,2006-06-05,Víkingur R.,Valur,3,1
+2006,2006-06-05,FH,Keflavík,2,1
+2006,2006-06-06,KR,Breiðablik,3,2
+2006,2006-06-08,Keflavík,ÍA,0,1
+2006,2006-06-08,Valur,Fylkir,3,1
+2006,2006-06-08,Víkingur R.,Grindavík,0,0
+2006,2006-06-11,Breiðablik,FH,1,1
+2006,2006-06-12,Fylkir,Keflavík,2,1
+2006,2006-06-12,ÍBV,KR,2,0
+2006,2006-06-15,ÍA,Breiðablik,2,1
+2006,2006-06-15,KR,Víkingur R.,1,0
+2006,2006-06-15,Grindavík,Valur,1,1
+2006,2006-06-15,FH,ÍBV,3,1
+2006,2006-06-21,Valur,Keflavík,0,0
+2006,2006-06-22,ÍBV,ÍA,2,1
+2006,2006-06-22,Víkingur R.,FH,0,0
+2006,2006-06-22,Grindavík,KR,5,0
+2006,2006-06-22,Breiðablik,Fylkir,3,2
+2006,2006-06-28,Keflavík,Breiðablik,5,0
+2006,2006-06-28,ÍA,Víkingur R.,1,4
+2006,2006-06-28,FH,Grindavík,2,0
+2006,2006-06-28,Fylkir,ÍBV,1,1
+2006,2006-06-29,KR,Valur,1,1
+2006,2006-07-06,FH,KR,2,0
+2006,2006-07-07,ÍA,Grindavík,2,1
+2006,2006-07-09,Valur,Breiðablik,1,1
+2006,2006-07-10,Fylkir,Víkingur R.,1,0
+2006,2006-07-13,Keflavík,ÍBV,6,2
+2006,2006-07-16,FH,Valur,1,2
+2006,2006-07-17,KR,ÍA,2,3
+2006,2006-07-18,ÍBV,Breiðablik,0,1
+2006,2006-07-18,Grindavík,Fylkir,1,1
+2006,2006-07-18,Víkingur R.,Keflavík,1,1
+2006,2006-07-27,Breiðablik,Víkingur R.,1,0
+2006,2006-07-30,ÍA,FH,0,1
+2006,2006-07-31,Fylkir,KR,1,2
+2006,2006-07-31,Valur,ÍBV,5,0
+2006,2006-07-31,Keflavík,Grindavík,2,0
+2006,2006-08-09,KR,Keflavík,2,2
+2006,2006-08-10,Víkingur R.,ÍBV,5,0
+2006,2006-08-10,Grindavík,Breiðablik,4,2
+2006,2006-08-10,FH,Fylkir,2,2
+2006,2006-08-10,ÍA,Valur,1,1
+2006,2006-08-20,Fylkir,ÍA,3,3
+2006,2006-08-20,Breiðablik,KR,0,1
+2006,2006-08-20,Keflavík,FH,2,1
+2006,2006-08-20,ÍBV,Grindavík,2,1
+2006,2006-08-20,Valur,Víkingur R.,0,0
+2006,2006-08-24,ÍA,Keflavík,1,0
+2006,2006-08-24,KR,ÍBV,2,0
+2006,2006-08-24,Grindavík,Víkingur R.,1,1
+2006,2006-08-27,FH,Breiðablik,1,1
+2006,2006-08-27,Fylkir,Valur,0,1
+2006,2006-09-10,Breiðablik,ÍA,2,2
+2006,2006-09-10,Víkingur R.,KR,0,1
+2006,2006-09-10,Keflavík,Fylkir,1,1
+2006,2006-09-10,ÍBV,FH,1,1
+2006,2006-09-11,Valur,Grindavík,2,1
+2006,2006-09-16,Keflavík,Valur,1,1
+2006,2006-09-16,ÍA,ÍBV,4,2
+2006,2006-09-16,KR,Grindavík,3,0
+2006,2006-09-16,FH,Víkingur R.,4,0
+2006,2006-09-16,Fylkir,Breiðablik,1,1
+2006,2006-09-23,Víkingur R.,ÍA,1,1
+2006,2006-09-23,Breiðablik,Keflavík,2,1
+2006,2006-09-23,ÍBV,Fylkir,2,0
+2006,2006-09-23,Grindavík,FH,1,1
+2006,2006-09-23,Valur,KR,2,2
+2005,2005-05-16,Fram,ÍBV,3,0
+2005,2005-05-16,Valur,Grindavík,3,1
+2005,2005-05-16,ÍA,Þróttur R.,1,0
+2005,2005-05-16,Keflavík,FH,0,3
+2005,2005-05-17,Fylkir,KR,1,2
+2005,2005-05-22,Þróttur R.,Fylkir,1,2
+2005,2005-05-22,ÍBV,Keflavík,2,3
+2005,2005-05-22,Grindavík,FH,1,5
+2005,2005-05-22,KR,Fram,1,0
+2005,2005-05-23,Valur,ÍA,2,0
+2005,2005-05-26,ÍA,Grindavík,3,2
+2005,2005-05-26,FH,ÍBV,3,0
+2005,2005-05-26,Keflavík,KR,2,1
+2005,2005-05-26,Fylkir,Valur,1,2
+2005,2005-05-27,Fram,Þróttur R.,3,0
+2005,2005-05-29,KR,FH,0,1
+2005,2005-05-30,Grindavík,ÍBV,2,1
+2005,2005-05-30,ÍA,Fylkir,0,3
+2005,2005-05-31,Þróttur R.,Keflavík,2,2
+2005,2005-05-31,Valur,Fram,3,0
+2005,2005-06-11,Fram,ÍA,0,0
+2005,2005-06-11,FH,Þróttur R.,3,1
+2005,2005-06-12,ÍBV,KR,2,1
+2005,2005-06-12,Keflavík,Valur,1,5
+2005,2005-06-12,Fylkir,Grindavík,2,1
+2005,2005-06-15,ÍA,Keflavík,1,2
+2005,2005-06-15,Valur,FH,0,1
+2005,2005-06-16,Grindavík,KR,0,0
+2005,2005-06-16,Fylkir,Fram,1,1
+2005,2005-06-16,Þróttur R.,ÍBV,4,0
+2005,2005-06-23,Keflavík,Fylkir,2,2
+2005,2005-06-23,Fram,Grindavík,0,1
+2005,2005-06-23,KR,Þróttur R.,3,2
+2005,2005-06-23,FH,ÍA,2,0
+2005,2005-06-23,ÍBV,Valur,1,0
+2005,2005-06-26,Fram,Keflavík,2,3
+2005,2005-06-26,Fylkir,FH,2,5
+2005,2005-06-26,Grindavík,Þróttur R.,1,1
+2005,2005-06-27,Valur,KR,3,0
+2005,2005-06-29,ÍA,ÍBV,2,0
+2005,2005-06-30,FH,Fram,3,1
+2005,2005-06-30,Þróttur R.,Valur,0,2
+2005,2005-06-30,Keflavík,Grindavík,1,1
+2005,2005-07-02,ÍBV,Fylkir,0,3
+2005,2005-07-07,KR,ÍA,0,2
+2005,2005-07-08,FH,Keflavík,2,0
+2005,2005-07-10,ÍBV,Fram,2,0
+2005,2005-07-11,KR,Fylkir,1,3
+2005,2005-07-12,Grindavík,Valur,0,1
+2005,2005-07-12,Þróttur R.,ÍA,0,0
+2005,2005-07-17,Fram,KR,0,4
+2005,2005-07-17,Fylkir,Þróttur R.,0,1
+2005,2005-07-18,Keflavík,ÍBV,2,2
+2005,2005-07-24,ÍBV,FH,0,1
+2005,2005-07-24,KR,Keflavík,1,3
+2005,2005-07-25,Þróttur R.,Fram,0,1
+2005,2005-07-26,Grindavík,ÍA,1,3
+2005,2005-07-27,Valur,Fylkir,3,1
+2005,2005-08-07,FH,KR,2,0
+2005,2005-08-07,Fylkir,ÍA,2,3
+2005,2005-08-07,Keflavík,Þróttur R.,3,3
+2005,2005-08-08,Fram,Valur,2,1
+2005,2005-08-10,FH,Grindavík,8,0
+2005,2005-08-11,ÍA,Valur,1,2
+2005,2005-08-14,KR,ÍBV,1,0
+2005,2005-08-14,Grindavík,Fylkir,3,0
+2005,2005-08-14,ÍA,Fram,1,2
+2005,2005-08-15,Valur,Keflavík,0,0
+2005,2005-08-15,Þróttur R.,FH,1,5
+2005,2005-08-18,ÍBV,Grindavík,5,1
+2005,2005-08-21,ÍBV,Þróttur R.,2,0
+2005,2005-08-21,FH,Valur,2,0
+2005,2005-08-21,KR,Grindavík,3,1
+2005,2005-08-21,Keflavík,ÍA,0,1
+2005,2005-08-22,Fram,Fylkir,1,2
+2005,2005-08-28,Grindavík,Fram,3,1
+2005,2005-08-28,ÍA,FH,2,1
+2005,2005-08-28,Þróttur R.,KR,0,1
+2005,2005-08-29,Valur,ÍBV,1,1
+2005,2005-08-30,Fylkir,Keflavík,0,1
+2005,2005-09-11,FH,Fylkir,1,2
+2005,2005-09-11,Keflavík,Fram,2,1
+2005,2005-09-11,KR,Valur,2,0
+2005,2005-09-11,ÍBV,ÍA,0,2
+2005,2005-09-11,Þróttur R.,Grindavík,3,2
+2005,2005-09-17,Grindavík,Keflavík,2,1
+2005,2005-09-17,ÍA,KR,2,1
+2005,2005-09-17,Fylkir,ÍBV,1,0
+2005,2005-09-17,Fram,FH,1,5
+2005,2005-09-17,Valur,Þróttur R.,1,2
+2004,2004-05-15,KR,FH,0,1
+2004,2004-05-16,Grindavík,ÍBV,1,1
+2004,2004-05-16,KA,Keflavík,1,2
+2004,2004-05-16,ÍA,Fylkir,1,1
+2004,2004-05-16,Fram,Víkingur R.,3,0
+2004,2004-05-20,ÍA,Grindavík,0,0
+2004,2004-05-20,ÍBV,Fram,1,1
+2004,2004-05-20,Keflavík,KR,3,1
+2004,2004-05-21,Víkingur R.,KA,0,1
+2004,2004-05-22,Fylkir,FH,1,0
+2004,2004-05-25,Fram,ÍA,0,2
+2004,2004-05-27,KR,Víkingur R.,2,1
+2004,2004-05-27,KA,ÍBV,0,1
+2004,2004-05-27,Grindavík,Fylkir,0,2
+2004,2004-05-28,FH,Keflavík,1,1
+2004,2004-06-01,Grindavík,Fram,3,2
+2004,2004-06-01,ÍA,KA,2,1
+2004,2004-06-01,ÍBV,KR,2,2
+2004,2004-06-01,Víkingur R.,FH,1,1
+2004,2004-06-02,Fylkir,Keflavík,2,0
+2004,2004-06-07,FH,ÍBV,2,1
+2004,2004-06-07,Fram,Fylkir,1,1
+2004,2004-06-07,KA,Grindavík,1,1
+2004,2004-06-07,Keflavík,Víkingur R.,1,0
+2004,2004-06-09,KR,ÍA,1,0
+2004,2004-06-15,Fylkir,Víkingur R.,2,1
+2004,2004-06-15,ÍBV,Keflavík,4,0
+2004,2004-06-16,Grindavík,KR,0,0
+2004,2004-06-16,Fram,KA,0,1
+2004,2004-06-16,ÍA,FH,2,2
+2004,2004-06-21,KR,Fram,3,0
+2004,2004-06-23,KA,Fylkir,0,2
+2004,2004-06-23,FH,Grindavík,4,1
+2004,2004-06-23,Keflavík,ÍA,0,2
+2004,2004-06-23,Víkingur R.,ÍBV,3,2
+2004,2004-06-27,KA,KR,3,2
+2004,2004-06-28,Fram,FH,1,2
+2004,2004-06-28,Grindavík,Keflavík,3,2
+2004,2004-06-29,Fylkir,ÍBV,1,2
+2004,2004-06-29,ÍA,Víkingur R.,0,2
+2004,2004-07-06,FH,KR,1,1
+2004,2004-07-07,Fylkir,ÍA,2,2
+2004,2004-07-08,Keflavík,Fram,1,1
+2004,2004-07-08,Víkingur R.,Grindavík,1,0
+2004,2004-07-10,ÍBV,ÍA,0,1
+2004,2004-07-10,KR,Fylkir,1,1
+2004,2004-07-11,FH,KA,2,2
+2004,2004-07-13,Víkingur R.,Fram,0,0
+2004,2004-07-14,ÍBV,Grindavík,2,0
+2004,2004-07-14,Keflavík,KA,1,0
+2004,2004-07-18,KA,Víkingur R.,0,2
+2004,2004-07-18,Fram,ÍBV,1,2
+2004,2004-07-18,KR,Keflavík,1,1
+2004,2004-07-19,Grindavík,ÍA,1,1
+2004,2004-07-19,FH,Fylkir,1,0
+2004,2004-07-25,ÍA,Fram,0,4
+2004,2004-07-25,Víkingur R.,KR,1,2
+2004,2004-07-25,Keflavík,FH,0,1
+2004,2004-07-26,Fylkir,Grindavík,1,1
+2004,2004-07-28,ÍBV,KA,4,0
+2004,2004-08-08,KR,ÍBV,0,0
+2004,2004-08-08,KA,ÍA,0,5
+2004,2004-08-08,FH,Víkingur R.,0,0
+2004,2004-08-08,Keflavík,Fylkir,4,2
+2004,2004-08-09,Fram,Grindavík,2,1
+2004,2004-08-13,Víkingur R.,Keflavík,2,3
+2004,2004-08-15,ÍBV,FH,1,3
+2004,2004-08-15,Grindavík,KA,2,0
+2004,2004-08-15,Fylkir,Fram,1,0
+2004,2004-08-15,ÍA,KR,0,0
+2004,2004-08-21,KA,Fram,0,0
+2004,2004-08-22,FH,ÍA,2,2
+2004,2004-08-22,Keflavík,ÍBV,2,5
+2004,2004-08-22,Víkingur R.,Fylkir,1,3
+2004,2004-08-23,KR,Grindavík,2,3
+2004,2004-08-29,ÍBV,Víkingur R.,3,0
+2004,2004-08-30,Fylkir,KA,0,1
+2004,2004-08-31,ÍA,Keflavík,2,1
+2004,2004-08-31,Grindavík,FH,0,4
+2004,2004-08-31,Fram,KR,1,0
+2004,2004-09-12,Víkingur R.,ÍA,1,4
+2004,2004-09-12,KR,KA,2,1
+2004,2004-09-12,FH,Fram,4,1
+2004,2004-09-12,ÍBV,Fylkir,3,1
+2004,2004-09-12,Keflavík,Grindavík,3,4
+2004,2004-09-19,ÍA,ÍBV,2,1
+2004,2004-09-19,Fram,Keflavík,1,6
+2004,2004-09-19,KA,FH,1,2
+2004,2004-09-19,Fylkir,KR,3,1
+2004,2004-09-19,Grindavík,Víkingur R.,3,3
+2003,2003-05-18,Grindavík,Valur,1,2
+2003,2003-05-18,FH,ÍA,1,1
+2003,2003-05-18,ÍBV,KA,2,3
+2003,2003-05-18,Fylkir,Fram,3,1
+2003,2003-05-19,Þróttur R.,KR,1,2
+2003,2003-05-24,ÍA,Þróttur R.,3,1
+2003,2003-05-24,KA,FH,0,0
+2003,2003-05-24,Valur,ÍBV,4,1
+2003,2003-05-25,Fram,KR,1,1
+2003,2003-05-26,Fylkir,Grindavík,2,0
+2003,2003-05-29,FH,Valur,4,0
+2003,2003-05-29,Þróttur R.,KA,3,1
+2003,2003-05-29,ÍBV,Fylkir,1,0
+2003,2003-05-29,KR,ÍA,1,0
+2003,2003-05-30,Grindavík,Fram,3,2
+2003,2003-06-01,Fylkir,FH,3,0
+2003,2003-06-02,Valur,Þróttur R.,0,1
+2003,2003-06-03,KA,KR,3,0
+2003,2003-06-03,Fram,ÍA,0,0
+2003,2003-06-03,Grindavík,ÍBV,0,2
+2003,2003-06-16,KR,Valur,2,1
+2003,2003-06-16,ÍA,KA,1,1
+2003,2003-06-18,Þróttur R.,Fylkir,2,1
+2003,2003-06-18,FH,Grindavík,2,1
+2003,2003-06-19,ÍBV,Fram,5,0
+2003,2003-06-21,Grindavík,Þróttur R.,2,1
+2003,2003-06-22,ÍBV,FH,1,3
+2003,2003-06-22,Valur,ÍA,1,3
+2003,2003-06-22,Fylkir,KR,2,1
+2003,2003-06-25,KA,Valur,1,2
+2003,2003-06-25,FH,Fram,2,3
+2003,2003-06-25,ÍA,Fylkir,1,1
+2003,2003-06-25,KR,Grindavík,1,2
+2003,2003-06-26,Þróttur R.,ÍBV,2,0
+2003,2003-07-05,ÍBV,KR,0,0
+2003,2003-07-05,FH,Þróttur R.,1,4
+2003,2003-07-06,Fylkir,KA,1,0
+2003,2003-07-06,Fram,Valur,2,1
+2003,2003-07-07,Grindavík,ÍA,3,2
+2003,2003-07-08,KR,FH,2,1
+2003,2003-07-09,Þróttur R.,Fram,2,1
+2003,2003-07-10,KA,Grindavík,1,2
+2003,2003-07-10,Valur,Fylkir,1,0
+2003,2003-07-10,ÍA,ÍBV,0,3
+2003,2003-07-12,KR,Þróttur R.,2,1
+2003,2003-07-13,KA,ÍBV,3,1
+2003,2003-07-14,Fram,Fylkir,1,2
+2003,2003-07-15,Valur,Grindavík,1,2
+2003,2003-07-17,Fram,KA,2,3
+2003,2003-07-17,ÍA,FH,0,0
+2003,2003-07-24,ÍBV,Valur,2,1
+2003,2003-07-24,Þróttur R.,ÍA,1,3
+2003,2003-07-24,Grindavík,Fylkir,1,1
+2003,2003-07-24,FH,KA,3,2
+2003,2003-07-27,KR,Fram,3,1
+2003,2003-07-28,Valur,FH,2,3
+2003,2003-07-29,Fylkir,ÍBV,3,0
+2003,2003-07-30,ÍA,KR,2,3
+2003,2003-07-31,Fram,Grindavík,2,0
+2003,2003-07-31,KA,Þróttur R.,3,0
+2003,2003-08-10,ÍBV,Grindavík,1,0
+2003,2003-08-10,KR,KA,2,1
+2003,2003-08-10,ÍA,Fram,2,1
+2003,2003-08-10,FH,Fylkir,1,2
+2003,2003-08-11,Þróttur R.,Valur,0,1
+2003,2003-08-14,Valur,KR,1,1
+2003,2003-08-16,Fram,ÍBV,2,1
+2003,2003-08-17,Grindavík,FH,1,3
+2003,2003-08-17,KA,ÍA,2,3
+2003,2003-08-18,Fylkir,Þróttur R.,1,5
+2003,2003-08-23,ÍA,Valur,2,0
+2003,2003-08-24,KA,Fram,0,1
+2003,2003-08-24,KR,Fylkir,4,0
+2003,2003-08-24,Þróttur R.,Grindavík,2,3
+2003,2003-08-25,FH,ÍBV,2,1
+2003,2003-08-30,ÍBV,Þróttur R.,1,1
+2003,2003-08-31,Valur,KA,2,2
+2003,2003-08-31,Fram,FH,1,0
+2003,2003-09-01,Grindavík,KR,1,3
+2003,2003-09-01,Fylkir,ÍA,0,1
+2003,2003-09-14,ÍA,Grindavík,2,1
+2003,2003-09-14,Þróttur R.,FH,0,3
+2003,2003-09-14,Valur,Fram,2,0
+2003,2003-09-14,KA,Fylkir,2,1
+2003,2003-09-14,KR,ÍBV,0,2
+2003,2003-09-20,ÍBV,ÍA,1,1
+2003,2003-09-20,Fram,Þróttur R.,1,0
+2003,2003-09-20,FH,KR,7,0
+2003,2003-09-20,Grindavík,KA,1,1
+2003,2003-09-20,Fylkir,Valur,6,2
+2002,2002-05-20,KA,ÍBV,1,1
+2002,2002-05-20,ÍA,Þór,0,1
+2002,2002-05-20,KR,Grindavík,2,2
+2002,2002-05-20,Keflavík,Fram,1,1
+2002,2002-05-20,FH,Fylkir,0,3
+2002,2002-05-24,KR,ÍA,3,1
+2002,2002-05-25,Fylkir,KA,1,1
+2002,2002-05-25,Grindavík,Fram,1,1
+2002,2002-05-25,Þór,FH,4,4
+2002,2002-05-25,ÍBV,Keflavík,1,2
+2002,2002-05-28,Fram,ÍBV,1,2
+2002,2002-05-29,ÍA,Grindavík,1,3
+2002,2002-05-29,FH,KR,1,0
+2002,2002-05-29,Keflavík,Fylkir,3,1
+2002,2002-05-30,KA,Þór,1,0
+2002,2002-06-01,Grindavík,ÍBV,3,2
+2002,2002-06-01,ÍA,FH,0,0
+2002,2002-06-02,KR,KA,2,0
+2002,2002-06-02,Þór,Keflavík,1,1
+2002,2002-06-03,Fylkir,Fram,3,3
+2002,2002-06-08,ÍBV,Fylkir,0,1
+2002,2002-06-08,KA,ÍA,1,1
+2002,2002-06-09,FH,Grindavík,3,2
+2002,2002-06-09,Fram,Þór,3,1
+2002,2002-06-10,Keflavík,KR,0,1
+2002,2002-06-19,FH,KA,0,1
+2002,2002-06-19,Fylkir,Grindavík,2,0
+2002,2002-06-19,ÍA,Keflavík,5,2
+2002,2002-06-19,Þór,ÍBV,1,1
+2002,2002-06-20,KR,Fram,1,0
+2002,2002-06-23,ÍBV,KR,3,0
+2002,2002-06-23,Fylkir,Þór,4,2
+2002,2002-06-23,KA,Grindavík,0,1
+2002,2002-06-24,Fram,ÍA,3,2
+2002,2002-06-26,Keflavík,FH,1,1
+2002,2002-06-27,ÍA,ÍBV,4,1
+2002,2002-06-27,KR,Fylkir,1,1
+2002,2002-06-27,Grindavík,Þór,2,4
+2002,2002-06-30,KA,Keflavík,4,1
+2002,2002-07-06,Þór,KR,0,2
+2002,2002-07-07,Fylkir,ÍA,1,3
+2002,2002-07-08,Keflavík,Grindavík,2,2
+2002,2002-07-09,Fram,KA,0,1
+2002,2002-07-10,ÍBV,FH,2,0
+2002,2002-07-11,Þór,ÍA,0,2
+2002,2002-07-14,ÍBV,KA,1,1
+2002,2002-07-14,Fram,Keflavík,1,1
+2002,2002-07-15,Grindavík,KR,0,1
+2002,2002-07-18,Fylkir,FH,2,1
+2002,2002-07-25,Fram,Grindavík,0,3
+2002,2002-07-25,Keflavík,ÍBV,1,0
+2002,2002-07-26,KA,Fylkir,0,2
+2002,2002-07-27,ÍA,KR,1,2
+2002,2002-07-28,FH,Þór,5,2
+2002,2002-07-31,ÍBV,Fram,0,1
+2002,2002-08-01,KR,FH,2,2
+2002,2002-08-01,Þór,KA,0,1
+2002,2002-08-01,Fylkir,Keflavík,2,0
+2002,2002-08-01,Grindavík,ÍA,2,1
+2002,2002-08-08,FH,Fram,3,1
+2002,2002-08-10,ÍBV,Grindavík,0,0
+2002,2002-08-11,KA,KR,1,2
+2002,2002-08-11,Fram,Fylkir,2,3
+2002,2002-08-11,Keflavík,Þór,2,2
+2002,2002-08-12,FH,ÍA,1,1
+2002,2002-08-17,ÍA,KA,1,1
+2002,2002-08-18,Þór,Fram,2,1
+2002,2002-08-18,KR,Keflavík,2,2
+2002,2002-08-18,Grindavík,FH,2,1
+2002,2002-08-19,Fylkir,ÍBV,1,0
+2002,2002-08-24,ÍBV,Þór,3,1
+2002,2002-08-25,Grindavík,Fylkir,3,1
+2002,2002-08-25,KA,FH,1,1
+2002,2002-08-25,Keflavík,ÍA,0,2
+2002,2002-08-26,Fram,KR,2,4
+2002,2002-08-31,ÍA,Fram,1,1
+2002,2002-09-02,KR,ÍBV,1,1
+2002,2002-09-02,Þór,Fylkir,0,1
+2002,2002-09-02,FH,Keflavík,0,0
+2002,2002-09-02,Grindavík,KA,0,0
+2002,2002-09-15,Fylkir,KR,1,1
+2002,2002-09-15,Fram,FH,5,4
+2002,2002-09-15,Þór,Grindavík,1,5
+2002,2002-09-15,Keflavík,KA,2,3
+2002,2002-09-15,ÍBV,ÍA,4,1
+2002,2002-09-21,FH,ÍBV,2,1
+2002,2002-09-21,KR,Þór,5,0
+2002,2002-09-21,KA,Fram,0,3
+2002,2002-09-21,Grindavík,Keflavík,1,4
+2002,2002-09-21,ÍA,Fylkir,2,0
+2001,2001-05-15,Fylkir,KR,1,0
+2001,2001-05-17,Breiðablik,ÍBV,1,0
+2001,2001-05-17,Grindavík,Keflavík,1,2
+2001,2001-05-17,ÍA,FH,2,2
+2001,2001-05-17,Fram,Valur,2,3
+2001,2001-05-20,Breiðablik,Fram,1,0
+2001,2001-05-20,Keflavík,Fylkir,2,1
+2001,2001-05-20,Valur,Grindavík,1,0
+2001,2001-05-21,KR,ÍA,2,1
+2001,2001-05-21,ÍBV,FH,0,0
+2001,2001-05-27,FH,KR,2,0
+2001,2001-05-27,Fylkir,Valur,0,0
+2001,2001-05-27,ÍA,Keflavík,2,0
+2001,2001-05-27,Grindavík,Breiðablik,2,1
+2001,2001-05-29,Fram,ÍBV,0,1
+2001,2001-06-09,ÍBV,KR,1,0
+2001,2001-06-09,Fram,Grindavík,1,2
+2001,2001-06-10,Breiðablik,Fylkir,0,2
+2001,2001-06-10,Keflavík,FH,3,1
+2001,2001-06-11,Valur,ÍA,0,2
+2001,2001-06-18,Fylkir,Fram,4,2
+2001,2001-06-18,KR,Keflavík,2,0
+2001,2001-06-18,ÍA,Breiðablik,3,1
+2001,2001-06-19,FH,Valur,1,0
+2001,2001-06-20,Grindavík,ÍBV,3,1
+2001,2001-06-21,KR,Fylkir,0,0
+2001,2001-06-24,Breiðablik,FH,1,2
+2001,2001-06-24,Fram,ÍA,1,0
+2001,2001-06-24,ÍBV,Keflavík,1,0
+2001,2001-06-25,Valur,KR,4,2
+2001,2001-06-27,ÍA,Grindavík,3,1
+2001,2001-06-27,FH,Fram,1,0
+2001,2001-06-27,Fylkir,ÍBV,4,0
+2001,2001-06-28,Keflavík,Valur,1,1
+2001,2001-06-28,KR,Breiðablik,1,1
+2001,2001-07-01,ÍBV,Valur,2,0
+2001,2001-07-01,Fram,KR,0,1
+2001,2001-07-02,Fylkir,ÍA,2,1
+2001,2001-07-02,Breiðablik,Keflavík,2,4
+2001,2001-07-09,Keflavík,Fram,2,2
+2001,2001-07-09,FH,Fylkir,0,0
+2001,2001-07-10,ÍA,ÍBV,0,0
+2001,2001-07-10,Valur,Breiðablik,2,0
+2001,2001-07-15,ÍBV,Breiðablik,1,0
+2001,2001-07-15,FH,ÍA,0,1
+2001,2001-07-16,Valur,Fram,3,2
+2001,2001-07-16,Keflavík,Grindavík,0,2
+2001,2001-07-19,Grindavík,Fylkir,0,4
+2001,2001-07-26,Grindavík,Valur,2,0
+2001,2001-07-26,FH,ÍBV,0,1
+2001,2001-07-26,Fylkir,Keflavík,2,2
+2001,2001-07-29,Grindavík,FH,1,2
+2001,2001-07-29,Fram,Breiðablik,2,1
+2001,2001-07-29,ÍA,KR,2,0
+2001,2001-08-01,ÍBV,Fram,1,3
+2001,2001-08-01,Valur,Fylkir,1,3
+2001,2001-08-02,Keflavík,ÍA,0,1
+2001,2001-08-02,Breiðablik,Grindavík,2,4
+2001,2001-08-02,KR,FH,1,2
+2001,2001-08-12,FH,Keflavík,2,2
+2001,2001-08-12,KR,ÍBV,0,2
+2001,2001-08-13,Fylkir,Breiðablik,0,1
+2001,2001-08-13,ÍA,Valur,2,0
+2001,2001-08-13,Grindavík,Fram,1,3
+2001,2001-08-19,Breiðablik,ÍA,2,3
+2001,2001-08-19,Keflavík,KR,3,1
+2001,2001-08-19,ÍBV,Grindavík,3,0
+2001,2001-08-19,Fram,Fylkir,3,0
+2001,2001-08-20,Valur,FH,1,2
+2001,2001-08-22,KR,Grindavík,2,0
+2001,2001-08-26,KR,Valur,0,0
+2001,2001-08-26,FH,Breiðablik,3,0
+2001,2001-08-26,Keflavík,ÍBV,0,2
+2001,2001-08-27,ÍA,Fram,1,0
+2001,2001-08-27,Fylkir,Grindavík,2,3
+2001,2001-09-08,Grindavík,ÍA,3,0
+2001,2001-09-08,Valur,Keflavík,1,1
+2001,2001-09-08,ÍBV,Fylkir,3,1
+2001,2001-09-08,Breiðablik,KR,0,0
+2001,2001-09-09,Fram,FH,1,1
+2001,2001-09-16,Keflavík,Breiðablik,2,1
+2001,2001-09-16,FH,Grindavík,0,2
+2001,2001-09-16,Valur,ÍBV,1,2
+2001,2001-09-16,KR,Fram,2,1
+2001,2001-09-17,ÍA,Fylkir,3,0
+2001,2001-09-22,Breiðablik,Valur,2,1
+2001,2001-09-22,Fram,Keflavík,5,3
+2001,2001-09-22,Fylkir,FH,0,2
+2001,2001-09-22,Grindavík,KR,0,2
+2001,2001-09-23,ÍBV,ÍA,2,2
+2000,2000-05-16,Stjarnan,Grindavík,0,0
+2000,2000-05-18,Keflavík,Breiðablik,1,0
+2000,2000-05-18,ÍA,Leiftur,1,0
+2000,2000-05-18,Fram,KR,0,1
+2000,2000-05-19,ÍBV,Fylkir,2,2
+2000,2000-05-21,Grindavík,Fram,3,0
+2000,2000-05-21,KR,Keflavík,2,3
+2000,2000-05-22,Fylkir,Leiftur,1,1
+2000,2000-05-22,Breiðablik,ÍA,0,1
+2000,2000-05-22,ÍBV,Stjarnan,2,0
+2000,2000-05-27,ÍA,KR,0,2
+2000,2000-05-28,Stjarnan,Fylkir,0,1
+2000,2000-05-28,Fram,ÍBV,1,1
+2000,2000-05-28,Leiftur,Breiðablik,2,6
+2000,2000-05-29,Keflavík,Grindavík,2,2
+2000,2000-05-31,KR,Leiftur,1,0
+2000,2000-06-01,ÍBV,Keflavík,5,0
+2000,2000-06-01,Fylkir,Breiðablik,5,0
+2000,2000-06-01,Stjarnan,Fram,1,2
+2000,2000-06-01,Grindavík,ÍA,1,0
+2000,2000-06-05,ÍA,ÍBV,0,0
+2000,2000-06-06,Leiftur,Grindavík,0,0
+2000,2000-06-06,Keflavík,Stjarnan,1,0
+2000,2000-06-06,Fram,Fylkir,1,2
+2000,2000-06-06,Breiðablik,KR,1,2
+2000,2000-06-10,ÍBV,Leiftur,0,0
+2000,2000-06-10,Grindavík,Breiðablik,3,0
+2000,2000-06-10,Stjarnan,ÍA,0,1
+2000,2000-06-10,Fylkir,KR,1,1
+2000,2000-06-12,Fram,Keflavík,0,0
+2000,2000-06-22,Breiðablik,ÍBV,2,0
+2000,2000-06-22,ÍA,Fram,2,2
+2000,2000-06-22,KR,Grindavík,1,1
+2000,2000-06-22,Keflavík,Fylkir,1,1
+2000,2000-06-25,ÍBV,KR,1,1
+2000,2000-06-26,Stjarnan,Breiðablik,2,1
+2000,2000-06-26,Keflavík,ÍA,0,2
+2000,2000-06-27,Fylkir,Grindavík,2,0
+2000,2000-06-29,KR,Fram,1,2
+2000,2000-07-08,KR,Stjarnan,3,0
+2000,2000-07-10,Grindavík,ÍBV,1,0
+2000,2000-07-10,ÍA,Fylkir,0,1
+2000,2000-07-10,Breiðablik,Fram,1,0
+2000,2000-07-13,Fram,Leiftur,3,1
+2000,2000-07-16,Leiftur,ÍA,2,2
+2000,2000-07-16,Fylkir,ÍBV,2,3
+2000,2000-07-17,Grindavík,Stjarnan,2,0
+2000,2000-07-17,Breiðablik,Keflavík,2,1
+2000,2000-07-20,Leiftur,Keflavík,4,2
+2000,2000-07-22,ÍBV,ÍA,1,0
+2000,2000-07-23,Leiftur,Fylkir,1,7
+2000,2000-07-23,Stjarnan,ÍBV,2,0
+2000,2000-07-23,Keflavík,KR,1,0
+2000,2000-07-24,Fram,Grindavík,3,1
+2000,2000-07-25,ÍA,Breiðablik,3,1
+2000,2000-07-30,Breiðablik,Leiftur,5,0
+2000,2000-07-30,Grindavík,Keflavík,0,0
+2000,2000-07-30,KR,ÍA,1,0
+2000,2000-07-30,ÍBV,Fram,6,1
+2000,2000-07-31,Fylkir,Stjarnan,5,1
+2000,2000-08-03,Keflavík,ÍBV,1,2
+2000,2000-08-03,Fram,Stjarnan,1,2
+2000,2000-08-03,Breiðablik,Fylkir,0,0
+2000,2000-08-03,ÍA,Grindavík,2,1
+2000,2000-08-09,KR,Breiðablik,3,2
+2000,2000-08-09,Stjarnan,Keflavík,1,1
+2000,2000-08-09,Fylkir,Fram,1,0
+2000,2000-08-09,Grindavík,Leiftur,2,2
+2000,2000-08-13,Leiftur,Stjarnan,3,3
+2000,2000-08-20,Leiftur,ÍBV,0,1
+2000,2000-08-20,KR,Fylkir,2,1
+2000,2000-08-20,ÍA,Stjarnan,0,0
+2000,2000-08-20,Keflavík,Fram,3,3
+2000,2000-08-22,Breiðablik,Grindavík,3,4
+2000,2000-08-24,Leiftur,KR,0,0
+2000,2000-08-27,Grindavík,KR,0,1
+2000,2000-08-27,Stjarnan,Leiftur,2,1
+2000,2000-08-27,Fylkir,Keflavík,4,0
+2000,2000-08-28,ÍBV,Breiðablik,4,1
+2000,2000-08-28,Fram,ÍA,1,4
+2000,2000-09-10,ÍA,Keflavík,2,2
+2000,2000-09-10,Grindavík,Fylkir,2,1
+2000,2000-09-10,Breiðablik,Stjarnan,3,3
+2000,2000-09-10,KR,ÍBV,1,0
+2000,2000-09-10,Leiftur,Fram,2,1
+2000,2000-09-16,Stjarnan,KR,1,4
+2000,2000-09-16,Fram,Breiðablik,1,1
+2000,2000-09-16,Fylkir,ÍA,2,1
+2000,2000-09-16,ÍBV,Grindavík,1,2
+2000,2000-09-16,Keflavík,Leiftur,2,5
+1999,1999-05-18,KR,ÍA,1,0
+1999,1999-05-20,ÍBV,Leiftur,5,0
+1999,1999-05-20,Grindavík,Fram,1,1
+1999,1999-05-20,Víkingur R.,Keflavík,2,1
+1999,1999-05-20,Breiðablik,Valur,2,0
+1999,1999-05-24,Fram,Keflavík,2,0
+1999,1999-05-24,ÍA,Víkingur R.,1,1
+1999,1999-05-24,Grindavík,Breiðablik,1,0
+1999,1999-05-24,Valur,ÍBV,0,0
+1999,1999-05-27,KR,Valur,5,1
+1999,1999-05-27,ÍBV,Grindavík,2,1
+1999,1999-05-27,Breiðablik,Fram,1,1
+1999,1999-05-27,Keflavík,ÍA,2,0
+1999,1999-05-29,Víkingur R.,Leiftur,0,3
+1999,1999-05-31,Fram,ÍA,0,0
+1999,1999-06-01,Leiftur,Keflavík,1,0
+1999,1999-06-01,Breiðablik,ÍBV,1,0
+1999,1999-06-01,Valur,Víkingur R.,1,1
+1999,1999-06-01,Grindavík,KR,1,3
+1999,1999-06-12,KR,Breiðablik,0,0
+1999,1999-06-12,Keflavík,Valur,4,4
+1999,1999-06-12,ÍA,Leiftur,0,0
+1999,1999-06-12,ÍBV,Fram,1,1
+1999,1999-06-13,Víkingur R.,Grindavík,1,1
+1999,1999-06-19,ÍBV,KR,2,1
+1999,1999-06-20,Breiðablik,Víkingur R.,1,1
+1999,1999-06-20,Fram,Leiftur,2,0
+1999,1999-06-20,Grindavík,Keflavík,2,0
+1999,1999-06-23,ÍA,Grindavík,1,0
+1999,1999-06-23,Víkingur R.,ÍBV,1,2
+1999,1999-06-24,Keflavík,Breiðablik,2,1
+1999,1999-06-24,KR,Fram,3,1
+1999,1999-06-24,Leiftur,Valur,0,0
+1999,1999-06-27,Leiftur,KR,1,1
+1999,1999-07-04,KR,Víkingur R.,4,1
+1999,1999-07-04,ÍBV,Keflavík,1,0
+1999,1999-07-04,Grindavík,Leiftur,0,1
+1999,1999-07-05,Fram,Valur,2,2
+1999,1999-07-14,Víkingur R.,Fram,0,2
+1999,1999-07-15,Valur,Grindavík,2,1
+1999,1999-07-15,Keflavík,KR,1,3
+1999,1999-07-15,Leiftur,Breiðablik,2,2
+1999,1999-07-16,ÍA,ÍBV,1,1
+1999,1999-07-21,Valur,Breiðablik,2,1
+1999,1999-07-22,ÍA,KR,0,2
+1999,1999-07-22,Keflavík,Víkingur R.,3,2
+1999,1999-07-22,Fram,Grindavík,1,3
+1999,1999-07-24,Leiftur,ÍBV,0,3
+1999,1999-07-26,Valur,ÍA,1,2
+1999,1999-07-28,KR,Leiftur,1,1
+1999,1999-07-29,Breiðablik,Grindavík,4,1
+1999,1999-07-29,Keflavík,Fram,2,1
+1999,1999-07-29,Víkingur R.,ÍA,1,2
+1999,1999-08-07,Leiftur,Víkingur R.,1,0
+1999,1999-08-08,ÍA,Keflavík,2,2
+1999,1999-08-08,Grindavík,ÍBV,1,2
+1999,1999-08-08,Valur,KR,1,2
+1999,1999-08-10,Fram,Breiðablik,2,2
+1999,1999-08-15,ÍBV,Breiðablik,2,1
+1999,1999-08-15,KR,Grindavík,2,1
+1999,1999-08-15,Keflavík,Leiftur,2,2
+1999,1999-08-15,ÍA,Fram,1,0
+1999,1999-08-16,Víkingur R.,Valur,5,4
+1999,1999-08-18,Breiðablik,ÍA,1,3
+1999,1999-08-21,Leiftur,ÍA,1,4
+1999,1999-08-21,Breiðablik,KR,0,3
+1999,1999-08-21,Grindavík,Víkingur R.,2,2
+1999,1999-08-22,Valur,Keflavík,2,3
+1999,1999-08-22,Fram,ÍBV,0,2
+1999,1999-08-25,ÍBV,Valur,2,2
+1999,1999-08-27,Víkingur R.,Breiðablik,1,0
+1999,1999-08-28,Keflavík,Grindavík,2,3
+1999,1999-08-29,KR,ÍBV,3,0
+1999,1999-08-29,Leiftur,Fram,3,3
+1999,1999-08-29,ÍA,Valur,0,1
+1999,1999-08-31,Breiðablik,Keflavík,2,1
+1999,1999-09-01,ÍBV,Víkingur R.,3,0
+1999,1999-09-01,Grindavík,ÍA,2,2
+1999,1999-09-01,Fram,KR,0,2
+1999,1999-09-02,Valur,Leiftur,2,4
+1999,1999-09-11,Valur,Fram,2,1
+1999,1999-09-11,Keflavík,ÍBV,1,1
+1999,1999-09-11,ÍA,Breiðablik,2,3
+1999,1999-09-11,Leiftur,Grindavík,2,1
+1999,1999-09-11,Víkingur R.,KR,0,4
+1999,1999-09-18,KR,Keflavík,3,2
+1999,1999-09-18,ÍBV,ÍA,2,0
+1999,1999-09-18,Breiðablik,Leiftur,0,0
+1999,1999-09-18,Fram,Víkingur R.,3,2
+1999,1999-09-18,Grindavík,Valur,3,1
+1998,1998-05-18,Þróttur R.,ÍBV,3,3
+1998,1998-05-19,Leiftur,Fram,2,0
+1998,1998-05-19,KR,Valur,0,0
+1998,1998-05-19,ÍA,Keflavík,1,1
+1998,1998-05-19,Grindavík,ÍR,1,1
+1998,1998-05-23,Grindavík,Leiftur,3,1
+1998,1998-05-23,Valur,Þróttur R.,3,3
+1998,1998-05-23,ÍBV,ÍA,3,1
+1998,1998-05-23,ÍR,Keflavík,1,2
+1998,1998-05-24,Fram,KR,0,2
+1998,1998-05-27,KR,Grindavík,1,1
+1998,1998-05-28,Keflavík,ÍBV,0,3
+1998,1998-05-28,Leiftur,ÍR,1,0
+1998,1998-05-28,Þróttur R.,Fram,0,0
+1998,1998-05-28,ÍA,Valur,1,1
+1998,1998-06-01,Fram,ÍA,1,1
+1998,1998-06-01,Grindavík,Þróttur R.,0,1
+1998,1998-06-01,ÍR,ÍBV,1,0
+1998,1998-06-01,Leiftur,KR,0,0
+1998,1998-06-02,Valur,Keflavík,0,1
+1998,1998-06-08,Þróttur R.,Leiftur,1,2
+1998,1998-06-09,Keflavík,Fram,1,0
+1998,1998-06-09,ÍA,Grindavík,3,0
+1998,1998-06-09,ÍBV,Valur,6,1
+1998,1998-06-09,KR,ÍR,3,0
+1998,1998-06-13,Fram,ÍBV,0,2
+1998,1998-06-14,ÍR,Valur,3,2
+1998,1998-06-14,Leiftur,ÍA,0,4
+1998,1998-06-14,Grindavík,Keflavík,2,1
+1998,1998-06-14,KR,Þróttur R.,1,1
+1998,1998-06-24,Keflavík,Leiftur,1,0
+1998,1998-06-24,Valur,Fram,1,2
+1998,1998-06-24,ÍA,KR,1,1
+1998,1998-06-24,ÍBV,Grindavík,2,0
+1998,1998-06-25,Þróttur R.,ÍR,3,1
+1998,1998-06-28,ÍA,ÍBV,1,0
+1998,1998-07-05,Leiftur,ÍBV,5,1
+1998,1998-07-05,ÍR,Fram,0,3
+1998,1998-07-05,Grindavík,Valur,2,2
+1998,1998-07-05,KR,Keflavík,0,0
+1998,1998-07-06,Þróttur R.,ÍA,1,2
+1998,1998-07-09,ÍBV,KR,3,1
+1998,1998-07-09,Keflavík,Þróttur R.,1,5
+1998,1998-07-09,ÍA,ÍR,2,1
+1998,1998-07-09,Valur,Leiftur,1,0
+1998,1998-07-10,Fram,Grindavík,0,0
+1998,1998-07-18,Keflavík,ÍA,0,1
+1998,1998-07-18,ÍBV,Þróttur R.,3,0
+1998,1998-07-19,ÍR,Grindavík,4,2
+1998,1998-07-19,Fram,Leiftur,0,0
+1998,1998-07-20,Valur,KR,0,3
+1998,1998-07-29,Þróttur R.,Valur,0,3
+1998,1998-07-30,Leiftur,Grindavík,3,2
+1998,1998-07-30,KR,Fram,2,0
+1998,1998-07-30,Keflavík,ÍR,1,0
+1998,1998-08-08,ÍBV,Keflavík,4,0
+1998,1998-08-08,Valur,ÍA,4,2
+1998,1998-08-09,Grindavík,KR,0,4
+1998,1998-08-09,ÍR,Leiftur,1,1
+1998,1998-08-10,Fram,Þróttur R.,4,2
+1998,1998-08-15,KR,Leiftur,1,0
+1998,1998-08-16,Keflavík,Valur,2,2
+1998,1998-08-16,ÍBV,ÍR,4,1
+1998,1998-08-16,ÍA,Fram,0,4
+1998,1998-08-16,Þróttur R.,Grindavík,1,6
+1998,1998-08-22,Grindavík,ÍA,0,3
+1998,1998-08-22,Valur,ÍBV,0,0
+1998,1998-08-23,ÍR,KR,0,1
+1998,1998-08-23,Leiftur,Þróttur R.,3,1
+1998,1998-08-23,Fram,Keflavík,2,3
+1998,1998-09-01,ÍBV,Fram,2,0
+1998,1998-09-01,Valur,ÍR,1,3
+1998,1998-09-01,ÍA,Leiftur,1,0
+1998,1998-09-01,Keflavík,Grindavík,3,0
+1998,1998-09-02,Þróttur R.,KR,0,3
+1998,1998-09-12,KR,ÍA,2,0
+1998,1998-09-12,Grindavík,ÍBV,1,0
+1998,1998-09-12,ÍR,Þróttur R.,2,2
+1998,1998-09-12,Leiftur,Keflavík,1,1
+1998,1998-09-13,Fram,Valur,3,1
+1998,1998-09-20,ÍA,Þróttur R.,2,2
+1998,1998-09-20,Valur,Grindavík,2,0
+1998,1998-09-20,Keflavík,KR,1,0
+1998,1998-09-20,Fram,ÍR,0,0
+1998,1998-09-20,ÍBV,Leiftur,2,0
+1998,1998-09-26,Þróttur R.,Keflavík,1,0
+1998,1998-09-26,Leiftur,Valur,2,1
+1998,1998-09-26,KR,ÍBV,0,2
+1998,1998-09-26,Grindavík,Fram,4,2
+1998,1998-09-26,ÍR,ÍA,1,1
+1997,1997-05-19,Skallagrímur,Leiftur,3,0
+1997,1997-05-19,Valur,Grindavík,0,0
+1997,1997-05-19,ÍBV,ÍA,3,1
+1997,1997-05-19,KR,Stjarnan,0,0
+1997,1997-05-19,Keflavík,Fram,1,0
+1997,1997-05-22,Skallagrímur,Valur,0,2
+1997,1997-05-22,Fram,ÍBV,1,1
+1997,1997-05-22,ÍA,Leiftur,0,0
+1997,1997-05-22,Stjarnan,Keflavík,1,3
+1997,1997-05-22,Grindavík,KR,1,1
+1997,1997-05-25,Valur,Leiftur,0,5
+1997,1997-05-25,ÍA,Fram,3,2
+1997,1997-05-25,KR,Skallagrímur,4,0
+1997,1997-05-25,Keflavík,Grindavík,2,0
+1997,1997-05-25,ÍBV,Stjarnan,5,0
+1997,1997-05-29,Grindavík,ÍBV,0,2
+1997,1997-05-29,Stjarnan,ÍA,0,3
+1997,1997-05-29,Valur,KR,3,1
+1997,1997-05-29,Leiftur,Fram,0,1
+1997,1997-05-29,Skallagrímur,Keflavík,0,1
+1997,1997-06-03,Fram,Stjarnan,1,0
+1997,1997-06-03,KR,Leiftur,0,0
+1997,1997-06-03,Keflavík,Valur,2,0
+1997,1997-06-03,ÍA,Grindavík,3,1
+1997,1997-06-18,Leiftur,Stjarnan,2,2
+1997,1997-06-18,KR,Keflavík,1,2
+1997,1997-06-18,Skallagrímur,ÍA,0,1
+1997,1997-06-18,Valur,ÍBV,0,4
+1997,1997-06-18,Grindavík,Fram,2,1
+1997,1997-06-22,ÍA,Valur,3,2
+1997,1997-06-22,ÍBV,KR,1,2
+1997,1997-06-22,Fram,Skallagrímur,1,0
+1997,1997-06-22,Stjarnan,Grindavík,0,1
+1997,1997-06-29,ÍBV,Skallagrímur,3,1
+1997,1997-07-01,Valur,Fram,0,2
+1997,1997-07-02,Leiftur,Grindavík,4,1
+1997,1997-07-02,KR,ÍA,4,0
+1997,1997-07-02,Keflavík,ÍBV,1,1
+1997,1997-07-03,Skallagrímur,Stjarnan,1,1
+1997,1997-07-06,ÍA,Keflavík,3,0
+1997,1997-07-06,Grindavík,Skallagrímur,1,1
+1997,1997-07-06,Fram,KR,1,1
+1997,1997-07-07,Stjarnan,Valur,1,3
+1997,1997-07-13,ÍA,ÍBV,1,3
+1997,1997-07-13,Stjarnan,KR,0,2
+1997,1997-07-13,Grindavík,Valur,3,1
+1997,1997-07-13,Fram,Keflavík,3,1
+1997,1997-07-16,Leiftur,ÍA,1,0
+1997,1997-07-16,KR,Grindavík,0,1
+1997,1997-07-16,ÍBV,Fram,1,1
+1997,1997-07-17,Valur,Skallagrímur,1,1
+1997,1997-07-17,Keflavík,Stjarnan,2,1
+1997,1997-07-23,Leiftur,Skallagrímur,1,0
+1997,1997-07-30,ÍBV,Leiftur,3,2
+1997,1997-08-06,Skallagrímur,KR,2,6
+1997,1997-08-06,Fram,ÍA,1,2
+1997,1997-08-07,Leiftur,Valur,1,1
+1997,1997-08-07,Grindavík,Keflavík,2,0
+1997,1997-08-07,Stjarnan,ÍBV,0,0
+1997,1997-08-13,Keflavík,Leiftur,0,1
+1997,1997-08-17,KR,Valur,6,1
+1997,1997-08-17,ÍA,Stjarnan,6,2
+1997,1997-08-17,Keflavík,Skallagrímur,2,3
+1997,1997-08-17,ÍBV,Grindavík,2,1
+1997,1997-08-17,Fram,Leiftur,1,1
+1997,1997-08-23,Leiftur,KR,1,1
+1997,1997-08-23,Stjarnan,Fram,2,3
+1997,1997-08-24,Valur,Keflavík,2,1
+1997,1997-08-24,Skallagrímur,ÍBV,0,3
+1997,1997-08-24,Grindavík,ÍA,0,4
+1997,1997-09-01,Keflavík,KR,1,1
+1997,1997-09-01,Stjarnan,Leiftur,2,0
+1997,1997-09-01,ÍA,Skallagrímur,6,0
+1997,1997-09-02,Fram,Grindavík,2,2
+1997,1997-09-03,ÍBV,Valur,3,0
+1997,1997-09-13,Skallagrímur,Fram,2,4
+1997,1997-09-13,KR,ÍBV,2,3
+1997,1997-09-13,Valur,ÍA,2,1
+1997,1997-09-13,Leiftur,Keflavík,3,0
+1997,1997-09-13,Grindavík,Stjarnan,2,1
+1997,1997-09-21,ÍA,KR,4,2
+1997,1997-09-21,ÍBV,Keflavík,5,1
+1997,1997-09-21,Stjarnan,Skallagrímur,1,2
+1997,1997-09-21,Grindavík,Leiftur,1,2
+1997,1997-09-21,Fram,Valur,2,0
+1997,1997-09-27,Keflavík,ÍA,1,1
+1997,1997-09-27,KR,Fram,4,2
+1997,1997-09-27,Skallagrímur,Grindavík,3,2
+1997,1997-09-27,Leiftur,ÍBV,3,1
+1997,1997-09-27,Valur,Stjarnan,3,0
+1996,1996-05-23,Keflavík,KR,2,2
+1996,1996-05-23,Breiðablik,Fylkir,1,6
+1996,1996-05-23,ÍA,Stjarnan,3,1
+1996,1996-05-23,Valur,Grindavík,2,0
+1996,1996-05-23,ÍBV,Leiftur,1,3
+1996,1996-05-27,KR,Leiftur,2,1
+1996,1996-05-27,ÍA,Keflavík,5,0
+1996,1996-05-27,Grindavík,Breiðablik,0,0
+1996,1996-05-27,Stjarnan,Fylkir,1,0
+1996,1996-05-27,ÍBV,Valur,1,0
+1996,1996-06-07,Fylkir,Grindavík,1,2
+1996,1996-06-07,Keflavík,Stjarnan,0,1
+1996,1996-06-08,Valur,KR,0,3
+1996,1996-06-08,Leiftur,ÍA,4,3
+1996,1996-06-08,Breiðablik,ÍBV,2,3
+1996,1996-06-12,Keflavík,Leiftur,1,1
+1996,1996-06-12,KR,Breiðablik,5,2
+1996,1996-06-12,ÍA,Valur,2,1
+1996,1996-06-12,ÍBV,Fylkir,3,2
+1996,1996-06-13,Stjarnan,Grindavík,2,2
+1996,1996-06-16,Leiftur,ÍBV,1,4
+1996,1996-06-16,Stjarnan,ÍA,0,2
+1996,1996-06-24,Fylkir,KR,0,2
+1996,1996-06-24,Valur,Keflavík,2,1
+1996,1996-06-24,Breiðablik,ÍA,0,4
+1996,1996-06-24,Grindavík,ÍBV,3,2
+1996,1996-06-24,Leiftur,Stjarnan,5,3
+1996,1996-06-27,KR,Grindavík,4,0
+1996,1996-06-27,Keflavík,Breiðablik,1,1
+1996,1996-06-27,ÍA,Fylkir,3,2
+1996,1996-06-27,Leiftur,Valur,0,0
+1996,1996-06-27,Stjarnan,ÍBV,1,0
+1996,1996-07-07,Valur,Stjarnan,0,0
+1996,1996-07-07,ÍBV,KR,0,4
+1996,1996-07-07,Breiðablik,Leiftur,1,1
+1996,1996-07-07,Grindavík,ÍA,0,2
+1996,1996-07-11,Keflavík,Grindavík,2,1
+1996,1996-07-11,ÍA,ÍBV,2,1
+1996,1996-07-11,Leiftur,Fylkir,2,1
+1996,1996-07-11,Valur,Breiðablik,2,0
+1996,1996-07-11,Stjarnan,KR,1,4
+1996,1996-07-21,Fylkir,Valur,0,1
+1996,1996-07-21,Breiðablik,Stjarnan,3,0
+1996,1996-07-21,ÍBV,Keflavík,1,1
+1996,1996-07-21,Grindavík,Leiftur,2,2
+1996,1996-07-22,KR,ÍA,1,0
+1996,1996-07-24,Fylkir,Breiðablik,1,0
+1996,1996-07-25,KR,Keflavík,1,1
+1996,1996-07-25,Grindavík,Valur,2,0
+1996,1996-07-31,Valur,ÍBV,3,1
+1996,1996-08-01,Leiftur,KR,2,1
+1996,1996-08-01,Breiðablik,Grindavík,0,0
+1996,1996-08-01,Keflavík,ÍA,0,3
+1996,1996-08-01,Fylkir,Stjarnan,0,0
+1996,1996-08-07,Fylkir,Keflavík,1,0
+1996,1996-08-11,KR,Valur,3,0
+1996,1996-08-11,ÍA,Leiftur,0,0
+1996,1996-08-11,Grindavík,Fylkir,2,4
+1996,1996-08-11,Stjarnan,Keflavík,2,1
+1996,1996-08-11,ÍBV,Breiðablik,4,2
+1996,1996-08-16,Fylkir,ÍBV,2,3
+1996,1996-08-17,Breiðablik,KR,1,0
+1996,1996-08-17,Valur,ÍA,1,3
+1996,1996-08-18,Leiftur,Keflavík,1,2
+1996,1996-08-18,Grindavík,Stjarnan,0,3
+1996,1996-08-29,ÍA,Breiðablik,0,1
+1996,1996-08-29,KR,Fylkir,1,1
+1996,1996-08-29,Keflavík,Valur,2,1
+1996,1996-08-29,Stjarnan,Leiftur,2,3
+1996,1996-08-29,ÍBV,Grindavík,2,1
+1996,1996-09-07,Valur,Leiftur,0,2
+1996,1996-09-07,Breiðablik,Keflavík,1,1
+1996,1996-09-07,Fylkir,ÍA,0,2
+1996,1996-09-07,ÍBV,Stjarnan,1,2
+1996,1996-09-07,Grindavík,KR,0,2
+1996,1996-09-15,Stjarnan,Valur,2,4
+1996,1996-09-15,Keflavík,Fylkir,0,0
+1996,1996-09-15,Leiftur,Breiðablik,3,1
+1996,1996-09-15,ÍA,Grindavík,6,3
+1996,1996-09-15,KR,ÍBV,1,0
+1996,1996-09-21,ÍBV,ÍA,3,2
+1996,1996-09-21,Grindavík,Keflavík,4,0
+1996,1996-09-21,KR,Stjarnan,1,1
+1996,1996-09-21,Fylkir,Leiftur,3,2
+1996,1996-09-21,Breiðablik,Valur,1,1
+1996,1996-09-29,Leiftur,Grindavík,0,1
+1996,1996-09-29,Stjarnan,Breiðablik,3,3
+1996,1996-09-29,Valur,Fylkir,5,2
+1996,1996-09-29,Keflavík,ÍBV,1,0
+1996,1996-09-29,ÍA,KR,4,1
+1995,1995-05-23,Fram,Leiftur,0,4
+1995,1995-05-23,Grindavík,Keflavík,1,2
+1995,1995-05-23,KR,FH,0,1
+1995,1995-05-23,ÍBV,Valur,8,1
+1995,1995-05-23,ÍA,Breiðablik,2,0
+1995,1995-05-27,Fram,ÍBV,0,0
+1995,1995-05-27,FH,Grindavík,2,0
+1995,1995-05-27,Keflavík,ÍA,0,1
+1995,1995-05-27,Leiftur,KR,1,2
+1995,1995-05-27,Breiðablik,Valur,2,1
+1995,1995-06-05,Grindavík,Leiftur,3,2
+1995,1995-06-05,ÍA,FH,3,1
+1995,1995-06-05,KR,Fram,3,1
+1995,1995-06-05,ÍBV,Breiðablik,2,3
+1995,1995-06-06,Valur,Keflavík,0,0
+1995,1995-06-14,KR,Grindavík,2,1
+1995,1995-06-14,Leiftur,ÍA,0,2
+1995,1995-06-14,FH,Valur,2,3
+1995,1995-06-15,Keflavík,ÍBV,1,0
+1995,1995-06-15,Fram,Breiðablik,1,0
+1995,1995-06-21,Breiðablik,Keflavík,1,1
+1995,1995-06-22,ÍBV,FH,6,3
+1995,1995-06-22,ÍA,KR,2,0
+1995,1995-06-22,Grindavík,Fram,2,2
+1995,1995-06-22,Valur,Leiftur,1,2
+1995,1995-06-25,Grindavík,ÍA,1,2
+1995,1995-06-25,KR,Valur,1,0
+1995,1995-06-25,Leiftur,ÍBV,2,1
+1995,1995-06-25,FH,Breiðablik,2,4
+1995,1995-07-05,Keflavík,FH,2,0
+1995,1995-07-06,Valur,Grindavík,0,3
+1995,1995-07-06,Breiðablik,Leiftur,1,2
+1995,1995-07-06,ÍA,Fram,3,0
+1995,1995-07-06,ÍBV,KR,1,0
+1995,1995-07-16,KR,Breiðablik,2,1
+1995,1995-07-16,ÍA,Valur,1,0
+1995,1995-07-16,Grindavík,ÍBV,1,0
+1995,1995-07-17,Fram,FH,3,0
+1995,1995-07-20,Valur,Fram,3,0
+1995,1995-07-20,Breiðablik,Grindavík,0,0
+1995,1995-07-20,Keflavík,KR,0,1
+1995,1995-07-20,ÍBV,ÍA,1,3
+1995,1995-07-20,FH,Leiftur,2,2
+1995,1995-07-23,Fram,Keflavík,2,4
+1995,1995-07-26,FH,KR,2,2
+1995,1995-07-26,Keflavík,Grindavík,1,0
+1995,1995-07-26,Leiftur,Fram,3,1
+1995,1995-07-26,Breiðablik,ÍA,0,1
+1995,1995-07-27,Valur,ÍBV,1,3
+1995,1995-08-03,ÍA,Keflavík,8,2
+1995,1995-08-03,KR,Leiftur,2,0
+1995,1995-08-03,Valur,Breiðablik,0,3
+1995,1995-08-03,Grindavík,FH,2,1
+1995,1995-08-09,Leiftur,Keflavík,2,2
+1995,1995-08-12,Fram,KR,1,4
+1995,1995-08-12,Keflavík,Valur,1,1
+1995,1995-08-12,Breiðablik,ÍBV,0,1
+1995,1995-08-12,Leiftur,Grindavík,3,1
+1995,1995-08-12,FH,ÍA,2,3
+1995,1995-08-18,Grindavík,KR,1,0
+1995,1995-08-18,Breiðablik,Fram,1,2
+1995,1995-08-19,ÍBV,Keflavík,3,2
+1995,1995-08-19,ÍA,Leiftur,2,2
+1995,1995-08-19,Valur,FH,3,0
+1995,1995-08-22,ÍBV,Fram,2,1
+1995,1995-08-30,FH,ÍBV,1,3
+1995,1995-08-30,Leiftur,Valur,1,4
+1995,1995-08-30,Keflavík,Breiðablik,1,1
+1995,1995-08-31,KR,ÍA,3,2
+1995,1995-08-31,Fram,Grindavík,0,2
+1995,1995-09-02,Breiðablik,FH,2,1
+1995,1995-09-02,ÍBV,Leiftur,4,0
+1995,1995-09-03,ÍA,Grindavík,4,0
+1995,1995-09-04,Keflavík,Fram,1,1
+1995,1995-09-04,Valur,KR,2,1
+1995,1995-09-08,Fram,ÍA,1,2
+1995,1995-09-09,FH,Keflavík,2,2
+1995,1995-09-09,KR,ÍBV,4,2
+1995,1995-09-09,Grindavík,Valur,1,2
+1995,1995-09-09,Leiftur,Breiðablik,3,1
+1995,1995-09-17,Valur,ÍA,1,4
+1995,1995-09-17,Breiðablik,KR,1,3
+1995,1995-09-17,ÍBV,Grindavík,3,1
+1995,1995-09-17,FH,Fram,2,1
+1995,1995-09-17,Keflavík,Leiftur,3,2
+1995,1995-09-23,KR,Keflavík,3,3
+1995,1995-09-23,ÍA,ÍBV,5,1
+1995,1995-09-23,Leiftur,FH,1,2
+1995,1995-09-23,Grindavík,Breiðablik,6,3
+1995,1995-09-23,Fram,Valur,1,3
+1994,1994-05-23,Fram,Stjarnan,0,0
+1994,1994-05-23,ÍA,FH,0,0
+1994,1994-05-23,Valur,Keflavík,1,1
+1994,1994-05-23,Breiðablik,KR,0,5
+1994,1994-05-23,Þór,ÍBV,0,0
+1994,1994-05-26,ÍBV,Valur,1,1
+1994,1994-05-26,FH,Þór,1,0
+1994,1994-05-26,Keflavík,Breiðablik,4,0
+1994,1994-05-26,Stjarnan,KR,0,2
+1994,1994-05-27,Fram,ÍA,1,2
+1994,1994-06-01,Þór,Fram,3,3
+1994,1994-06-01,KR,Keflavík,1,1
+1994,1994-06-01,Breiðablik,ÍBV,2,0
+1994,1994-06-01,Valur,FH,1,0
+1994,1994-06-01,ÍA,Stjarnan,3,0
+1994,1994-06-05,ÍA,Þór,2,1
+1994,1994-06-05,ÍBV,KR,1,0
+1994,1994-06-05,Stjarnan,Keflavík,1,1
+1994,1994-06-05,FH,Breiðablik,1,0
+1994,1994-06-06,Fram,Valur,3,0
+1994,1994-06-09,KR,FH,0,1
+1994,1994-06-09,Breiðablik,Fram,2,2
+1994,1994-06-09,Keflavík,ÍBV,0,0
+1994,1994-06-10,Valur,ÍA,0,1
+1994,1994-06-10,Þór,Stjarnan,0,0
+1994,1994-06-15,Fram,KR,0,3
+1994,1994-06-16,Stjarnan,ÍBV,2,2
+1994,1994-06-16,FH,Keflavík,2,1
+1994,1994-06-16,ÍA,Breiðablik,6,0
+1994,1994-06-16,Þór,Valur,5,1
+1994,1994-06-24,Keflavík,Fram,2,2
+1994,1994-06-24,ÍBV,FH,0,1
+1994,1994-06-24,KR,ÍA,0,0
+1994,1994-06-24,Breiðablik,Þór,1,1
+1994,1994-06-25,Valur,Stjarnan,3,2
+1994,1994-07-06,Valur,Breiðablik,1,3
+1994,1994-07-07,ÍA,Keflavík,0,2
+1994,1994-07-07,Þór,KR,4,2
+1994,1994-07-07,Stjarnan,FH,1,1
+1994,1994-07-07,Fram,ÍBV,2,2
+1994,1994-07-11,ÍBV,ÍA,0,2
+1994,1994-07-11,KR,Valur,0,0
+1994,1994-07-11,Keflavík,Þór,2,1
+1994,1994-07-11,Breiðablik,Stjarnan,1,2
+1994,1994-07-12,FH,Fram,1,2
+1994,1994-07-21,ÍBV,Þór,6,1
+1994,1994-07-21,Keflavík,Valur,3,3
+1994,1994-07-21,Stjarnan,Fram,1,2
+1994,1994-07-21,KR,Breiðablik,0,1
+1994,1994-07-21,FH,ÍA,0,0
+1994,1994-07-27,Valur,ÍBV,5,1
+1994,1994-07-28,ÍA,Fram,2,0
+1994,1994-07-28,KR,Stjarnan,2,0
+1994,1994-07-28,Breiðablik,Keflavík,1,3
+1994,1994-07-28,Þór,FH,1,3
+1994,1994-08-04,Stjarnan,ÍA,1,4
+1994,1994-08-04,FH,Valur,0,1
+1994,1994-08-04,ÍBV,Breiðablik,1,0
+1994,1994-08-04,Keflavík,KR,2,2
+1994,1994-08-07,Fram,Þór,1,1
+1994,1994-08-14,KR,ÍBV,1,1
+1994,1994-08-14,Keflavík,Stjarnan,4,1
+1994,1994-08-14,Breiðablik,FH,3,4
+1994,1994-08-14,Þór,ÍA,0,3
+1994,1994-08-14,Valur,Fram,1,0
+1994,1994-08-20,FH,KR,1,2
+1994,1994-08-20,ÍA,Valur,2,1
+1994,1994-08-20,ÍBV,Keflavík,2,1
+1994,1994-08-21,Stjarnan,Þór,2,3
+1994,1994-08-22,Fram,Breiðablik,2,1
+1994,1994-09-03,Breiðablik,ÍA,0,1
+1994,1994-09-03,KR,Fram,3,3
+1994,1994-09-03,ÍBV,Stjarnan,1,2
+1994,1994-09-03,Keflavík,FH,1,2
+1994,1994-09-03,Valur,Þór,1,0
+1994,1994-09-10,FH,ÍBV,2,1
+1994,1994-09-10,Þór,Breiðablik,1,3
+1994,1994-09-10,Stjarnan,Valur,1,3
+1994,1994-09-10,ÍA,KR,1,2
+1994,1994-09-11,Fram,Keflavík,1,2
+1994,1994-09-17,KR,Þór,3,2
+1994,1994-09-17,FH,Stjarnan,4,1
+1994,1994-09-17,ÍBV,Fram,2,2
+1994,1994-09-17,Keflavík,ÍA,2,1
+1994,1994-09-17,Breiðablik,Valur,2,0
+1994,1994-09-24,Stjarnan,Breiðablik,1,3
+1994,1994-09-24,ÍA,ÍBV,5,1
+1994,1994-09-24,Fram,FH,1,2
+1994,1994-09-24,Þór,Keflavík,3,4
+1994,1994-09-24,Valur,KR,2,0
+1993,1993-05-23,Valur,Víkingur R.,3,1
+1993,1993-05-23,KR,Þór,2,0
+1993,1993-05-23,ÍBV,Fram,1,2
+1993,1993-05-23,Keflavík,Fylkir,2,1
+1993,1993-05-23,FH,ÍA,0,5
+1993,1993-05-27,ÍBV,Keflavík,1,2
+1993,1993-05-27,Víkingur R.,FH,0,0
+1993,1993-05-27,ÍA,KR,1,0
+1993,1993-05-27,Fram,Þór,1,2
+1993,1993-05-28,Fylkir,Valur,2,1
+1993,1993-06-05,Þór,ÍA,0,1
+1993,1993-06-06,KR,Víkingur R.,7,2
+1993,1993-06-07,Valur,ÍBV,0,1
+1993,1993-06-07,Keflavík,Fram,2,1
+1993,1993-06-07,FH,Fylkir,4,0
+1993,1993-06-09,Víkingur R.,Þór,1,2
+1993,1993-06-10,Keflavík,Valur,1,3
+1993,1993-06-10,ÍBV,FH,2,2
+1993,1993-06-10,Fram,ÍA,4,2
+1993,1993-06-11,Fylkir,KR,2,1
+1993,1993-06-20,KR,ÍBV,2,2
+1993,1993-06-20,ÍA,"",10,1
+1993,1993-06-20,Valur,Fram,4,1
+1993,1993-06-20,Þór,Fylkir,1,0
+1993,1993-06-21,FH,Keflavík,5,1
+1993,1993-06-23,Fram,Víkingur R.,4,1
+1993,1993-06-24,ÍBV,Þór,1,1
+1993,1993-06-24,Valur,FH,1,2
+1993,1993-06-24,Keflavík,KR,1,4
+1993,1993-06-25,Fylkir,ÍA,1,3
+1993,1993-06-30,KR,Valur,2,0
+1993,1993-07-01,Þór,Keflavík,1,1
+1993,1993-07-01,ÍA,ÍBV,3,1
+1993,1993-07-01,FH,Fram,3,1
+1993,1993-07-01,Víkingur R.,Fylkir,0,2
+1993,1993-07-14,Valur,Þór,2,1
+1993,1993-07-15,Fram,Fylkir,5,0
+1993,1993-07-15,Keflavík,ÍA,1,2
+1993,1993-07-15,ÍBV,Víkingur R.,3,2
+1993,1993-07-15,FH,KR,2,0
+1993,1993-07-22,ÍA,Valur,1,0
+1993,1993-07-22,Þór,FH,0,0
+1993,1993-07-22,Fylkir,ÍBV,1,2
+1993,1993-07-22,Víkingur R.,Keflavík,0,1
+1993,1993-07-23,KR,Fram,1,4
+1993,1993-07-26,Víkingur R.,Valur,0,0
+1993,1993-07-27,ÍA,FH,5,0
+1993,1993-07-28,Fram,ÍBV,5,1
+1993,1993-07-29,Þór,KR,1,2
+1993,1993-07-29,Fylkir,Keflavík,2,2
+1993,1993-08-08,FH,Víkingur R.,4,2
+1993,1993-08-08,KR,ÍA,1,4
+1993,1993-08-08,Þór,Fram,1,0
+1993,1993-08-09,Valur,Fylkir,4,2
+1993,1993-08-09,Keflavík,ÍBV,4,0
+1993,1993-08-11,Víkingur R.,KR,3,2
+1993,1993-08-12,ÍA,Þór,6,0
+1993,1993-08-12,Fylkir,FH,0,2
+1993,1993-08-12,ÍBV,Valur,0,2
+1993,1993-08-12,Fram,Keflavík,2,1
+1993,1993-08-18,KR,Fylkir,1,3
+1993,1993-08-19,ÍA,Fram,3,3
+1993,1993-08-19,Þór,Víkingur R.,5,1
+1993,1993-08-20,Valur,Keflavík,0,2
+1993,1993-08-22,ÍBV,KR,2,4
+1993,1993-08-22,Fylkir,Þór,1,0
+1993,1993-08-23,Keflavík,FH,0,1
+1993,1993-08-24,Fram,Valur,3,2
+1993,1993-08-26,Víkingur R.,ÍA,1,3
+1993,1993-08-27,FH,ÍBV,3,1
+1993,1993-09-03,Víkingur R.,Fram,2,0
+1993,1993-09-04,ÍA,Fylkir,4,1
+1993,1993-09-04,Þór,ÍBV,1,1
+1993,1993-09-04,KR,Keflavík,2,2
+1993,1993-09-04,FH,Valur,1,1
+1993,1993-09-11,Valur,KR,1,1
+1993,1993-09-11,Keflavík,Þór,5,2
+1993,1993-09-11,ÍBV,ÍA,2,5
+1993,1993-09-11,Fylkir,Víkingur R.,1,2
+1993,1993-09-12,Fram,FH,0,4
+1993,1993-09-18,ÍA,Keflavík,2,0
+1993,1993-09-18,Þór,Valur,1,1
+1993,1993-09-18,Fylkir,Fram,3,0
+1993,1993-09-18,Víkingur R.,ÍBV,2,9
+1993,1993-09-19,KR,FH,1,2
+1993,1993-09-25,Valur,ÍA,0,2
+1993,1993-09-25,ÍBV,Fylkir,1,0
+1993,1993-09-25,Fram,KR,2,4
+1993,1993-09-25,Keflavík,Víkingur R.,3,2
+1993,1993-09-25,FH,Þór,4,1
+1992,1992-05-23,KR,ÍA,2,2
+1992,1992-05-23,Þór,Fram,1,0
+1992,1992-05-23,ÍBV,Valur,1,2
+1992,1992-05-24,Víkingur R.,KA,0,2
+1992,1992-05-24,FH,Breiðablik,2,1
+1992,1992-05-27,Valur,ÍA,1,1
+1992,1992-05-27,ÍBV,Víkingur R.,1,2
+1992,1992-05-28,Breiðablik,Þór,0,1
+1992,1992-05-28,Fram,KR,3,1
+1992,1992-05-28,KA,FH,3,3
+1992,1992-06-08,ÍA,Fram,2,0
+1992,1992-06-08,Víkingur R.,Valur,2,1
+1992,1992-06-08,FH,ÍBV,1,2
+1992,1992-06-08,Þór,KA,2,2
+1992,1992-06-09,KR,Breiðablik,1,0
+1992,1992-06-13,KA,KR,1,1
+1992,1992-06-14,Víkingur R.,FH,1,2
+1992,1992-06-15,ÍBV,Þór,0,1
+1992,1992-06-15,Breiðablik,ÍA,0,1
+1992,1992-06-16,Valur,Fram,1,4
+1992,1992-06-19,ÍA,KA,1,0
+1992,1992-06-19,KR,ÍBV,3,0
+1992,1992-06-19,FH,Valur,0,0
+1992,1992-06-20,Þór,Víkingur R.,3,0
+1992,1992-06-20,Fram,Breiðablik,3,0
+1992,1992-06-23,ÍBV,ÍA,0,1
+1992,1992-06-24,Víkingur R.,KR,0,2
+1992,1992-06-25,FH,Þór,0,0
+1992,1992-06-25,KA,Fram,1,2
+1992,1992-06-25,Valur,Breiðablik,2,0
+1992,1992-06-27,ÍA,Víkingur R.,2,2
+1992,1992-06-28,Þór,Valur,1,1
+1992,1992-06-28,Fram,ÍBV,3,1
+1992,1992-06-29,Breiðablik,KA,2,1
+1992,1992-06-29,KR,FH,4,1
+1992,1992-07-01,Víkingur R.,Fram,2,2
+1992,1992-07-02,Valur,KA,4,0
+1992,1992-07-02,ÍBV,Breiðablik,0,0
+1992,1992-07-02,Þór,KR,0,1
+1992,1992-07-02,FH,ÍA,0,4
+1992,1992-07-10,KA,ÍBV,1,3
+1992,1992-07-11,ÍA,Þór,1,0
+1992,1992-07-12,Breiðablik,Víkingur R.,0,0
+1992,1992-07-12,Fram,FH,1,0
+1992,1992-07-13,KR,Valur,0,0
+1992,1992-07-15,Fram,Þór,0,2
+1992,1992-07-16,ÍA,KR,3,1
+1992,1992-07-16,Breiðablik,FH,1,3
+1992,1992-07-16,Valur,ÍBV,3,2
+1992,1992-07-17,KA,Víkingur R.,1,0
+1992,1992-07-24,Þór,Breiðablik,1,1
+1992,1992-07-25,ÍA,Valur,1,5
+1992,1992-07-26,Víkingur R.,ÍBV,6,1
+1992,1992-07-26,FH,KA,2,2
+1992,1992-07-27,KR,Fram,3,2
+1992,1992-07-29,Valur,Víkingur R.,1,2
+1992,1992-07-29,ÍBV,FH,0,3
+1992,1992-07-30,Fram,ÍA,0,2
+1992,1992-07-30,KA,Þór,0,2
+1992,1992-07-30,Breiðablik,KR,1,0
+1992,1992-08-12,ÍA,Breiðablik,4,2
+1992,1992-08-12,KR,KA,3,0
+1992,1992-08-12,Þór,ÍBV,4,2
+1992,1992-08-12,FH,Víkingur R.,2,2
+1992,1992-08-13,Fram,Valur,0,2
+1992,1992-08-16,ÍBV,KR,0,2
+1992,1992-08-16,Víkingur R.,Þór,1,4
+1992,1992-08-16,KA,ÍA,1,0
+1992,1992-08-16,Valur,FH,1,0
+1992,1992-08-17,Breiðablik,Fram,1,0
+1992,1992-08-25,ÍA,ÍBV,7,1
+1992,1992-08-25,KR,Víkingur R.,3,0
+1992,1992-08-25,Þór,FH,2,0
+1992,1992-08-26,Breiðablik,Valur,0,5
+1992,1992-08-26,Fram,KA,1,0
+1992,1992-08-29,KA,Breiðablik,1,2
+1992,1992-08-29,Víkingur R.,ÍA,1,3
+1992,1992-08-29,FH,KR,2,2
+1992,1992-08-29,ÍBV,Fram,4,2
+1992,1992-08-29,Valur,Þór,0,3
+1992,1992-09-05,KR,Þór,3,1
+1992,1992-09-05,ÍA,FH,3,1
+1992,1992-09-05,Fram,Víkingur R.,2,1
+1992,1992-09-05,KA,Valur,1,3
+1992,1992-09-05,Breiðablik,ÍBV,2,3
+1992,1992-09-12,Þór,ÍA,2,2
+1992,1992-09-12,FH,Fram,3,0
+1992,1992-09-12,Valur,KR,1,9
+1992,1992-09-13,Víkingur R.,Breiðablik,3,1
+1992,1992-09-13,ÍBV,KA,2,1
+1991,1991-05-20,FH,Víkingur R.,2,4
+1991,1991-05-20,Fram,Breiðablik,3,3
+1991,1991-05-20,Stjarnan,Valur,0,3
+1991,1991-05-20,Víðir,KR,0,4
+1991,1991-05-20,KA,ÍBV,2,3
+1991,1991-05-30,Valur,Víkingur R.,1,0
+1991,1991-05-30,Stjarnan,Fram,1,0
+1991,1991-05-30,ÍBV,Víðir,2,0
+1991,1991-05-31,Breiðablik,KA,2,0
+1991,1991-05-31,KR,FH,0,0
+1991,1991-06-08,Víðir,Breiðablik,1,2
+1991,1991-06-08,FH,ÍBV,1,1
+1991,1991-06-09,Víkingur R.,KR,1,4
+1991,1991-06-09,KA,Stjarnan,1,0
+1991,1991-06-10,Fram,Valur,0,1
+1991,1991-06-12,ÍBV,Víkingur R.,1,3
+1991,1991-06-12,Breiðablik,FH,1,0
+1991,1991-06-13,Valur,KR,0,3
+1991,1991-06-13,Stjarnan,Víðir,1,1
+1991,1991-06-14,Fram,KA,2,1
+1991,1991-06-19,FH,Stjarnan,2,0
+1991,1991-06-19,KR,ÍBV,1,0
+1991,1991-06-19,Víðir,Fram,1,2
+1991,1991-06-20,KA,Valur,1,0
+1991,1991-06-20,Víkingur R.,Breiðablik,0,2
+1991,1991-06-24,Stjarnan,Víkingur R.,3,4
+1991,1991-06-25,KA,Víðir,1,1
+1991,1991-06-25,Breiðablik,KR,1,1
+1991,1991-06-25,Valur,ÍBV,1,2
+1991,1991-06-26,Fram,FH,2,1
+1991,1991-06-30,FH,KA,0,2
+1991,1991-06-30,Víkingur R.,Fram,0,2
+1991,1991-06-30,Víðir,Valur,1,3
+1991,1991-07-01,KR,Stjarnan,1,1
+1991,1991-07-01,ÍBV,Breiðablik,3,2
+1991,1991-07-04,KA,Víkingur R.,0,1
+1991,1991-07-04,Víðir,FH,1,2
+1991,1991-07-04,Fram,KR,1,0
+1991,1991-07-05,Valur,Breiðablik,2,2
+1991,1991-07-06,Stjarnan,ÍBV,3,2
+1991,1991-07-12,ÍBV,Fram,0,1
+1991,1991-07-12,FH,Valur,3,1
+1991,1991-07-14,KR,KA,1,0
+1991,1991-07-14,Víkingur R.,Víðir,3,1
+1991,1991-07-14,Breiðablik,Stjarnan,0,2
+1991,1991-07-21,ÍBV,KA,3,0
+1991,1991-07-21,Víkingur R.,FH,0,1
+1991,1991-07-21,Valur,Stjarnan,2,2
+1991,1991-07-22,KR,Víðir,7,1
+1991,1991-07-22,Breiðablik,Fram,1,1
+1991,1991-07-28,KA,Breiðablik,3,1
+1991,1991-07-28,FH,KR,2,0
+1991,1991-07-28,Víkingur R.,Valur,1,0
+1991,1991-07-28,Víðir,ÍBV,5,2
+1991,1991-07-29,Fram,Stjarnan,1,0
+1991,1991-07-31,KR,Víkingur R.,1,2
+1991,1991-07-31,ÍBV,FH,2,2
+1991,1991-07-31,Breiðablik,Víðir,0,0
+1991,1991-08-01,Stjarnan,KA,1,1
+1991,1991-08-01,Valur,Fram,0,1
+1991,1991-08-11,FH,Breiðablik,1,3
+1991,1991-08-11,KA,Fram,1,1
+1991,1991-08-11,Víðir,Stjarnan,0,5
+1991,1991-08-11,KR,Valur,0,1
+1991,1991-08-12,Víkingur R.,ÍBV,6,0
+1991,1991-08-14,Stjarnan,FH,2,2
+1991,1991-08-14,Fram,Víðir,4,0
+1991,1991-08-15,ÍBV,KR,3,2
+1991,1991-08-15,Valur,KA,3,1
+1991,1991-08-15,Breiðablik,Víkingur R.,1,2
+1991,1991-08-18,FH,Fram,1,3
+1991,1991-08-19,ÍBV,Valur,2,1
+1991,1991-08-19,KR,Breiðablik,4,0
+1991,1991-08-19,Víðir,KA,1,2
+1991,1991-08-20,Víkingur R.,Stjarnan,4,1
+1991,1991-08-31,Valur,Víðir,0,2
+1991,1991-08-31,Stjarnan,KR,0,1
+1991,1991-08-31,Breiðablik,ÍBV,2,1
+1991,1991-09-01,Fram,Víkingur R.,0,2
+1991,1991-09-01,KA,FH,2,1
+1991,1991-09-07,ÍBV,Stjarnan,1,1
+1991,1991-09-07,Víkingur R.,KA,0,0
+1991,1991-09-07,FH,Víðir,4,0
+1991,1991-09-08,KR,Fram,2,2
+1991,1991-09-08,Breiðablik,Valur,2,3
+1991,1991-09-14,KA,KR,3,2
+1991,1991-09-14,Valur,FH,8,1
+1991,1991-09-14,Víðir,Víkingur R.,1,3
+1991,1991-09-14,Fram,ÍBV,3,0
+1991,1991-09-14,Stjarnan,Breiðablik,0,1
+1990,1990-05-19,KR,Víkingur R.,2,1
+1990,1990-05-19,Þór,Stjarnan,0,2
+1990,1990-05-19,ÍBV,Fram,0,4
+1990,1990-05-20,FH,KA,1,0
+1990,1990-05-20,Valur,ÍA,1,0
+1990,1990-05-24,Fram,ÍA,4,0
+1990,1990-05-24,Stjarnan,KR,1,3
+1990,1990-05-24,ÍBV,Þór,2,0
+1990,1990-05-25,Víkingur R.,FH,2,0
+1990,1990-05-25,Valur,KA,2,0
+1990,1990-06-02,Valur,Víkingur R.,1,1
+1990,1990-06-02,KR,ÍBV,0,1
+1990,1990-06-02,Þór,Fram,0,0
+1990,1990-06-02,FH,Stjarnan,5,1
+1990,1990-06-02,ÍA,KA,2,1
+1990,1990-06-05,Stjarnan,Valur,2,1
+1990,1990-06-05,ÍBV,FH,2,1
+1990,1990-06-06,Víkingur R.,ÍA,2,2
+1990,1990-06-06,Þór,KR,1,2
+1990,1990-06-07,Fram,KA,4,0
+1990,1990-06-12,FH,Þór,0,1
+1990,1990-06-12,ÍA,Stjarnan,0,0
+1990,1990-06-12,KR,Fram,0,1
+1990,1990-06-12,KA,Víkingur R.,2,0
+1990,1990-06-15,Valur,ÍBV,4,1
+1990,1990-06-18,Fram,Víkingur R.,0,1
+1990,1990-06-19,Stjarnan,KA,1,3
+1990,1990-06-19,ÍBV,ÍA,2,1
+1990,1990-06-19,KR,FH,3,2
+1990,1990-06-19,Þór,Valur,1,2
+1990,1990-06-27,ÍA,Þór,3,1
+1990,1990-06-27,FH,Fram,2,1
+1990,1990-06-27,Valur,KR,2,1
+1990,1990-06-27,KA,ÍBV,1,1
+1990,1990-06-29,Víkingur R.,Stjarnan,1,0
+1990,1990-07-02,ÍBV,Víkingur R.,2,2
+1990,1990-07-02,KR,ÍA,2,0
+1990,1990-07-02,Þór,KA,2,1
+1990,1990-07-02,FH,Valur,0,1
+1990,1990-07-03,Fram,Stjarnan,1,3
+1990,1990-07-10,Valur,Fram,1,2
+1990,1990-07-10,KA,KR,0,1
+1990,1990-07-10,ÍA,FH,2,3
+1990,1990-07-10,Stjarnan,ÍBV,1,1
+1990,1990-07-11,Víkingur R.,Þór,0,0
+1990,1990-07-14,ÍA,Valur,2,3
+1990,1990-07-15,Víkingur R.,KR,1,1
+1990,1990-07-16,Fram,ÍBV,3,4
+1990,1990-07-16,KA,FH,4,0
+1990,1990-07-16,Stjarnan,Þór,3,0
+1990,1990-07-22,ÍA,Fram,0,2
+1990,1990-07-22,FH,Víkingur R.,1,1
+1990,1990-07-22,KA,Valur,0,1
+1990,1990-07-23,KR,Stjarnan,1,0
+1990,1990-07-26,Stjarnan,FH,0,1
+1990,1990-07-26,ÍBV,KR,2,2
+1990,1990-07-26,Fram,Þór,1,0
+1990,1990-07-27,Víkingur R.,Valur,2,2
+1990,1990-07-27,KA,ÍA,2,1
+1990,1990-07-30,Þór,ÍBV,0,1
+1990,1990-08-09,KR,Þór,2,0
+1990,1990-08-10,ÍA,Víkingur R.,0,2
+1990,1990-08-11,FH,ÍBV,1,2
+1990,1990-08-12,Valur,Stjarnan,0,1
+1990,1990-08-12,KA,Fram,0,1
+1990,1990-08-15,Víkingur R.,KA,0,1
+1990,1990-08-16,ÍBV,Valur,2,4
+1990,1990-08-16,Stjarnan,ÍA,2,0
+1990,1990-08-16,Fram,KR,3,0
+1990,1990-08-17,Þór,FH,1,2
+1990,1990-08-20,Víkingur R.,Fram,0,1
+1990,1990-08-20,FH,KR,1,3
+1990,1990-08-20,KA,Stjarnan,0,3
+1990,1990-08-20,ÍA,ÍBV,3,4
+1990,1990-08-21,Valur,Þór,0,0
+1990,1990-08-31,KR,Valur,3,0
+1990,1990-09-01,Fram,FH,2,2
+1990,1990-09-01,Þór,ÍA,0,1
+1990,1990-09-01,Stjarnan,Víkingur R.,1,0
+1990,1990-09-02,ÍBV,KA,4,2
+1990,1990-09-08,Víkingur R.,ÍBV,0,4
+1990,1990-09-08,Stjarnan,Fram,1,6
+1990,1990-09-08,ÍA,KR,1,3
+1990,1990-09-08,Valur,FH,2,0
+1990,1990-09-08,KA,Þór,1,2
+1990,1990-09-15,FH,ÍA,2,1
+1990,1990-09-15,ÍBV,Stjarnan,4,3
+1990,1990-09-15,KR,KA,2,0
+1990,1990-09-15,Þór,Víkingur R.,4,1
+1990,1990-09-15,Fram,Valur,3,2
+1989,1989-05-21,KR,ÍA,1,3
+1989,1989-05-21,Þór,Víkingur R.,1,0
+1989,1989-05-22,FH,KA,0,0
+1989,1989-05-22,Keflavík,Valur,0,0
+1989,1989-05-23,Fram,Fylkir,1,0
+1989,1989-05-25,Keflavík,FH,1,2
+1989,1989-05-25,Valur,ÍA,2,0
+1989,1989-05-26,Víkingur R.,KR,0,1
+1989,1989-05-26,KA,Fram,3,1
+1989,1989-05-27,Fylkir,Þór,3,1
+1989,1989-06-03,ÍA,Víkingur R.,0,2
+1989,1989-06-03,Þór,KA,0,0
+1989,1989-06-04,FH,Valur,0,1
+1989,1989-06-04,Fram,Keflavík,1,1
+1989,1989-06-05,KR,Fylkir,2,2
+1989,1989-06-08,Keflavík,Þór,1,1
+1989,1989-06-08,Valur,Víkingur R.,1,0
+1989,1989-06-08,FH,Fram,2,0
+1989,1989-06-09,KA,KR,4,1
+1989,1989-06-09,Fylkir,ÍA,0,1
+1989,1989-06-16,ÍA,KA,2,0
+1989,1989-06-16,Þór,FH,2,3
+1989,1989-06-18,Fram,Valur,1,0
+1989,1989-06-19,KR,Keflavík,3,0
+1989,1989-06-20,Víkingur R.,Fylkir,4,0
+1989,1989-06-25,KA,Víkingur R.,3,3
+1989,1989-06-25,Keflavík,ÍA,1,3
+1989,1989-06-25,Valur,Fylkir,4,1
+1989,1989-06-25,FH,KR,0,3
+1989,1989-06-26,Fram,Þór,2,0
+1989,1989-06-29,Fylkir,KA,1,0
+1989,1989-06-30,Þór,Valur,0,1
+1989,1989-07-01,ÍA,FH,0,0
+1989,1989-07-01,Víkingur R.,Keflavík,2,3
+1989,1989-07-02,KR,Fram,1,0
+1989,1989-07-09,Valur,KA,0,1
+1989,1989-07-09,Keflavík,Fylkir,1,0
+1989,1989-07-09,FH,Víkingur R.,2,2
+1989,1989-07-10,Þór,KR,2,2
+1989,1989-07-10,Fram,ÍA,4,1
+1989,1989-07-12,Fylkir,FH,0,4
+1989,1989-07-13,ÍA,Þór,1,2
+1989,1989-07-13,KA,Keflavík,2,1
+1989,1989-07-13,Víkingur R.,Fram,0,2
+1989,1989-07-14,KR,Valur,1,1
+1989,1989-07-21,Fylkir,Fram,0,3
+1989,1989-07-21,KA,FH,1,1
+1989,1989-07-22,ÍA,KR,1,0
+1989,1989-07-23,Valur,Keflavík,2,2
+1989,1989-07-24,Víkingur R.,Þór,1,1
+1989,1989-07-26,Fram,KA,1,3
+1989,1989-07-27,KR,Víkingur R.,2,2
+1989,1989-07-27,FH,Keflavík,2,1
+1989,1989-07-27,ÍA,Valur,0,2
+1989,1989-07-28,Þór,Fylkir,1,3
+1989,1989-07-31,Valur,FH,0,1
+1989,1989-08-01,KA,Þór,1,1
+1989,1989-08-01,Fylkir,KR,1,2
+1989,1989-08-01,Keflavík,Fram,0,1
+1989,1989-08-02,Víkingur R.,ÍA,1,1
+1989,1989-08-11,Þór,Keflavík,2,2
+1989,1989-08-12,KR,KA,0,0
+1989,1989-08-12,ÍA,Fylkir,1,0
+1989,1989-08-13,Víkingur R.,Valur,2,1
+1989,1989-08-14,Fram,FH,0,0
+1989,1989-08-16,Fylkir,Víkingur R.,1,2
+1989,1989-08-17,Keflavík,KR,1,3
+1989,1989-08-17,Valur,Fram,0,2
+1989,1989-08-17,FH,Þór,3,0
+1989,1989-08-18,KA,ÍA,1,0
+1989,1989-08-26,ÍA,Keflavík,1,0
+1989,1989-08-27,Þór,Fram,2,0
+1989,1989-08-28,Fylkir,Valur,3,1
+1989,1989-08-29,Víkingur R.,KA,1,5
+1989,1989-08-30,KR,FH,2,0
+1989,1989-09-02,KA,Fylkir,2,1
+1989,1989-09-02,Valur,Þór,3,0
+1989,1989-09-02,FH,ÍA,3,2
+1989,1989-09-02,Keflavík,Víkingur R.,3,2
+1989,1989-09-03,Fram,KR,2,1
+1989,1989-09-09,KA,Valur,1,1
+1989,1989-09-09,ÍA,Fram,2,0
+1989,1989-09-09,KR,Þór,3,2
+1989,1989-09-10,Fylkir,Keflavík,0,0
+1989,1989-09-10,Víkingur R.,FH,0,3
+1989,1989-09-16,FH,Fylkir,1,2
+1989,1989-09-16,Keflavík,KA,0,2
+1989,1989-09-16,Fram,Víkingur R.,1,0
+1989,1989-09-16,Þór,ÍA,2,1
+1989,1989-09-16,Valur,KR,1,0
+1988,1988-05-15,KR,Víkingur R.,2,2
+1988,1988-05-15,Leiftur,ÍA,0,0
+1988,1988-05-15,Keflavík,Völsungur,3,1
+1988,1988-05-16,Fram,Valur,1,0
+1988,1988-05-19,Keflavík,KR,1,3
+1988,1988-05-20,Leiftur,Valur,0,0
+1988,1988-05-21,Völsungur,ÍA,1,2
+1988,1988-05-21,Þór,Fram,0,1
+1988,1988-05-21,Víkingur R.,KA,0,1
+1988,1988-06-02,KR,Völsungur,3,0
+1988,1988-06-03,KA,Keflavík,2,1
+1988,1988-06-03,ÍA,Valur,1,0
+1988,1988-06-03,Valur,Þór,4,2
+1988,1988-06-04,Leiftur,Þór,1,1
+1988,1988-06-05,Fram,Víkingur R.,3,0
+1988,1988-06-08,Völsungur,Valur,1,3
+1988,1988-06-08,Keflavík,Fram,1,1
+1988,1988-06-08,Þór,ÍA,1,1
+1988,1988-06-08,Víkingur R.,Leiftur,2,1
+1988,1988-06-09,KR,KA,2,0
+1988,1988-06-12,Leiftur,Keflavík,1,1
+1988,1988-06-13,KA,Völsungur,1,0
+1988,1988-06-13,ÍA,Víkingur R.,4,0
+1988,1988-06-16,KA,Þór,1,1
+1988,1988-06-16,Fram,KR,3,0
+1988,1988-06-20,Keflavík,ÍA,1,1
+1988,1988-06-20,KA,Fram,1,4
+1988,1988-06-20,KR,Leiftur,2,1
+1988,1988-06-20,Völsungur,Þór,0,0
+1988,1988-06-21,Víkingur R.,Valur,0,0
+1988,1988-06-24,ÍA,KR,2,0
+1988,1988-06-24,Þór,Víkingur R.,2,1
+1988,1988-06-26,Leiftur,KA,2,1
+1988,1988-06-26,Fram,Völsungur,2,0
+1988,1988-06-27,Valur,Keflavík,3,1
+1988,1988-06-29,Fram,Leiftur,2,0
+1988,1988-06-29,KA,ÍA,3,2
+1988,1988-06-29,Völsungur,Víkingur R.,0,0
+1988,1988-06-30,KR,Valur,0,1
+1988,1988-06-30,Keflavík,Þór,1,1
+1988,1988-07-09,ÍA,Fram,0,4
+1988,1988-07-10,Leiftur,Völsungur,0,1
+1988,1988-07-11,Þór,KR,2,0
+1988,1988-07-11,Valur,KA,4,3
+1988,1988-07-11,Víkingur R.,Keflavík,3,1
+1988,1988-07-14,Valur,Fram,0,1
+1988,1988-07-15,Þór,KA,3,2
+1988,1988-07-15,Völsungur,Keflavík,1,2
+1988,1988-07-16,ÍA,Leiftur,3,1
+1988,1988-07-17,Víkingur R.,KR,0,1
+1988,1988-07-24,Valur,Leiftur,1,0
+1988,1988-07-24,Fram,Þór,1,0
+1988,1988-07-24,KA,Víkingur R.,2,1
+1988,1988-07-24,ÍA,Völsungur,2,1
+1988,1988-07-25,KR,Keflavík,3,0
+1988,1988-08-04,Valur,ÍA,3,1
+1988,1988-08-04,Keflavík,KA,1,1
+1988,1988-08-04,Þór,Leiftur,2,1
+1988,1988-08-04,Völsungur,KR,1,3
+1988,1988-08-08,Víkingur R.,Fram,0,2
+1988,1988-08-14,Valur,Völsungur,3,1
+1988,1988-08-15,Fram,Keflavík,2,0
+1988,1988-08-15,KA,KR,3,1
+1988,1988-08-15,ÍA,Þór,4,3
+1988,1988-08-15,Leiftur,Víkingur R.,0,1
+1988,1988-08-21,Völsungur,KA,0,4
+1988,1988-08-21,KR,Fram,1,2
+1988,1988-08-21,Þór,Valur,0,3
+1988,1988-08-21,Keflavík,Leiftur,2,1
+1988,1988-08-22,Víkingur R.,ÍA,1,2
+1988,1988-09-03,Þór,Völsungur,2,1
+1988,1988-09-03,Fram,KA,3,2
+1988,1988-09-03,ÍA,Keflavík,2,0
+1988,1988-09-03,Leiftur,KR,1,1
+1988,1988-09-04,Valur,Víkingur R.,4,0
+1988,1988-09-10,KA,Leiftur,2,1
+1988,1988-09-10,Völsungur,Fram,1,0
+1988,1988-09-10,Víkingur R.,Þór,3,1
+1988,1988-09-10,Keflavík,Valur,1,3
+1988,1988-09-11,KR,ÍA,1,1
+1988,1988-09-17,Þór,Keflavík,2,2
+1988,1988-09-17,Leiftur,Fram,0,3
+1988,1988-09-17,Víkingur R.,Völsungur,5,2
+1988,1988-09-17,ÍA,KA,2,2
+1988,1988-09-18,Valur,KR,3,2
+1988,1988-09-24,KA,Valur,0,1
+1988,1988-09-24,Völsungur,Leiftur,1,1
+1988,1988-09-24,Keflavík,Víkingur R.,3,1
+1988,1988-09-24,Fram,ÍA,3,2
+1988,1988-09-24,KR,Þór,1,2
+1987,1987-05-21,KA,KR,0,1
+1987,1987-05-21,Völsungur,Keflavík,2,4
+1987,1987-05-21,FH,ÍA,0,1
+1987,1987-05-21,Fram,Þór,1,3
+1987,1987-05-21,Víðir,Valur,1,1
+1987,1987-05-29,Víðir,KA,0,1
+1987,1987-05-29,KR,FH,3,0
+1987,1987-05-29,Þór,Völsungur,0,1
+1987,1987-05-30,ÍA,Fram,1,3
+1987,1987-05-31,Valur,Keflavík,7,1
+1987,1987-06-06,Völsungur,ÍA,1,2
+1987,1987-06-06,KA,Valur,0,1
+1987,1987-06-06,FH,Víðir,0,0
+1987,1987-06-06,Keflavík,Þór,2,0
+1987,1987-06-08,Fram,KR,1,1
+1987,1987-06-10,ÍA,Keflavík,4,2
+1987,1987-06-10,Valur,Þór,2,0
+1987,1987-06-10,KA,FH,2,1
+1987,1987-06-11,Víðir,Fram,1,1
+1987,1987-06-11,KR,Völsungur,2,0
+1987,1987-06-14,Völsungur,Víðir,0,0
+1987,1987-06-14,FH,Valur,1,3
+1987,1987-06-14,Keflavík,KR,1,1
+1987,1987-06-14,Þór,ÍA,2,1
+1987,1987-06-15,Fram,KA,0,1
+1987,1987-06-18,KR,Þór,5,0
+1987,1987-06-19,Víðir,Keflavík,1,3
+1987,1987-06-19,FH,Fram,0,1
+1987,1987-06-19,KA,Völsungur,1,1
+1987,1987-06-21,Valur,ÍA,2,1
+1987,1987-06-28,ÍA,KR,2,1
+1987,1987-06-28,Keflavík,KA,1,1
+1987,1987-06-28,Þór,Víðir,5,0
+1987,1987-06-28,Völsungur,FH,4,1
+1987,1987-06-30,Fram,Valur,1,0
+1987,1987-07-03,Víðir,ÍA,0,0
+1987,1987-07-04,FH,Keflavík,2,1
+1987,1987-07-04,KA,Þór,1,2
+1987,1987-07-06,Valur,KR,1,1
+1987,1987-07-12,ÍA,KA,1,0
+1987,1987-07-12,Völsungur,Valur,0,0
+1987,1987-07-12,Þór,FH,4,2
+1987,1987-07-12,KR,Víðir,1,1
+1987,1987-07-15,Keflavík,Fram,0,2
+1987,1987-07-17,ÍA,FH,1,2
+1987,1987-07-19,KR,KA,2,0
+1987,1987-07-19,Keflavík,Völsungur,0,1
+1987,1987-07-19,Þór,Fram,4,1
+1987,1987-07-20,Valur,Víðir,1,1
+1987,1987-07-26,Fram,ÍA,4,4
+1987,1987-07-26,KA,Víðir,6,0
+1987,1987-07-26,Völsungur,Þór,0,1
+1987,1987-07-26,Keflavík,Valur,1,2
+1987,1987-07-27,FH,KR,2,1
+1987,1987-07-29,ÍA,Völsungur,2,1
+1987,1987-07-29,Valur,KA,2,1
+1987,1987-07-29,Þór,Keflavík,2,2
+1987,1987-07-30,KR,Fram,3,2
+1987,1987-07-30,Víðir,FH,5,2
+1987,1987-08-05,Fram,Völsungur,6,0
+1987,1987-08-07,Þór,Valur,0,3
+1987,1987-08-08,Völsungur,KR,1,3
+1987,1987-08-09,FH,KA,0,0
+1987,1987-08-09,Keflavík,ÍA,2,5
+1987,1987-08-10,Fram,Víðir,3,1
+1987,1987-08-16,KR,Keflavík,0,1
+1987,1987-08-16,Víðir,Völsungur,2,3
+1987,1987-08-16,KA,Fram,0,3
+1987,1987-08-16,Valur,FH,1,1
+1987,1987-08-16,ÍA,Þór,5,2
+1987,1987-08-19,ÍA,Valur,0,2
+1987,1987-08-19,Þór,KR,3,1
+1987,1987-08-19,Völsungur,KA,1,3
+1987,1987-08-19,Fram,FH,2,1
+1987,1987-08-19,Keflavík,Víðir,0,0
+1987,1987-08-23,Valur,Fram,0,0
+1987,1987-08-23,KA,Keflavík,0,0
+1987,1987-08-23,KR,ÍA,2,3
+1987,1987-08-23,FH,Völsungur,3,3
+1987,1987-08-23,Víðir,Þór,1,3
+1987,1987-09-05,KR,Valur,0,2
+1987,1987-09-05,Völsungur,Fram,1,2
+1987,1987-09-05,Keflavík,FH,1,0
+1987,1987-09-05,Þór,KA,1,1
+1987,1987-09-05,ÍA,Víðir,3,4
+1987,1987-09-12,Víðir,KR,2,0
+1987,1987-09-12,Fram,Keflavík,0,0
+1987,1987-09-12,FH,Þór,4,1
+1987,1987-09-12,Valur,Völsungur,0,0
+1987,1987-09-12,KA,ÍA,0,0
+1986,1986-05-17,KR,ÍBV,4,0
+1986,1986-05-17,Breiðablik,Keflavík,1,0
+1986,1986-05-17,Víðir,FH,1,3
+1986,1986-05-17,Þór,Valur,2,1
+1986,1986-05-17,ÍA,Fram,0,0
+1986,1986-05-20,Valur,Breiðablik,0,1
+1986,1986-05-20,Víðir,KR,0,0
+1986,1986-05-20,ÍBV,ÍA,0,3
+1986,1986-05-20,FH,Keflavík,2,1
+1986,1986-05-21,Fram,Þór,2,1
+1986,1986-05-23,ÍA,Víðir,0,1
+1986,1986-05-23,KR,FH,1,1
+1986,1986-05-23,Keflavík,Valur,0,4
+1986,1986-05-31,KR,ÍA,1,1
+1986,1986-05-31,Víðir,Þór,0,0
+1986,1986-05-31,FH,Valur,0,1
+1986,1986-05-31,ÍBV,Breiðablik,1,1
+1986,1986-06-01,Fram,Keflavík,0,1
+1986,1986-06-06,Keflavík,ÍBV,1,0
+1986,1986-06-06,ÍA,FH,1,0
+1986,1986-06-06,Valur,Fram,1,1
+1986,1986-06-06,Breiðablik,Víðir,0,1
+1986,1986-06-06,Þór,KR,0,1
+1986,1986-06-10,Þór,ÍBV,4,3
+1986,1986-06-10,Breiðablik,Fram,0,1
+1986,1986-06-14,Víðir,Keflavík,3,0
+1986,1986-06-14,FH,Fram,1,6
+1986,1986-06-14,ÍA,Þór,5,1
+1986,1986-06-14,ÍBV,Valur,0,1
+1986,1986-06-15,KR,Breiðablik,3,1
+1986,1986-06-19,Valur,Víðir,1,0
+1986,1986-06-19,Breiðablik,ÍA,1,4
+1986,1986-06-20,Keflavík,KR,2,1
+1986,1986-06-20,Fram,ÍBV,3,0
+1986,1986-06-20,Þór,FH,2,1
+1986,1986-06-23,Víðir,Fram,0,4
+1986,1986-06-23,FH,ÍBV,4,1
+1986,1986-06-24,ÍA,Keflavík,1,2
+1986,1986-06-24,Þór,Breiðablik,1,1
+1986,1986-06-24,KR,Valur,0,0
+1986,1986-06-27,Keflavík,Þór,2,3
+1986,1986-06-27,Breiðablik,FH,2,1
+1986,1986-06-28,Valur,ÍA,1,0
+1986,1986-06-30,ÍBV,Víðir,3,2
+1986,1986-06-30,Fram,KR,2,1
+1986,1986-07-03,Fram,ÍA,3,1
+1986,1986-07-04,FH,Víðir,2,1
+1986,1986-07-05,ÍBV,KR,1,1
+1986,1986-07-06,Valur,Þór,1,0
+1986,1986-07-06,Keflavík,Breiðablik,1,0
+1986,1986-07-12,Þór,Fram,0,3
+1986,1986-07-12,ÍA,ÍBV,1,0
+1986,1986-07-13,Breiðablik,Valur,0,7
+1986,1986-07-13,Keflavík,FH,3,2
+1986,1986-07-14,KR,Víðir,0,1
+1986,1986-07-17,Valur,Keflavík,0,1
+1986,1986-07-18,Víðir,ÍA,2,2
+1986,1986-07-19,FH,KR,0,0
+1986,1986-07-19,ÍBV,Þór,1,2
+1986,1986-07-20,Fram,Breiðablik,2,1
+1986,1986-07-26,Breiðablik,ÍBV,2,2
+1986,1986-07-26,Þór,Víðir,1,1
+1986,1986-07-26,ÍA,KR,0,2
+1986,1986-07-27,Keflavík,Fram,1,1
+1986,1986-07-27,Valur,FH,5,0
+1986,1986-08-08,Víðir,Breiðablik,5,0
+1986,1986-08-08,KR,Þór,0,0
+1986,1986-08-08,FH,ÍA,1,4
+1986,1986-08-09,ÍBV,Keflavík,1,4
+1986,1986-08-10,Fram,Valur,0,1
+1986,1986-08-16,Þór,ÍA,1,3
+1986,1986-08-16,Valur,ÍBV,3,1
+1986,1986-08-16,Breiðablik,KR,1,2
+1986,1986-08-17,Keflavík,Víðir,2,1
+1986,1986-08-17,Fram,FH,2,2
+1986,1986-08-22,Víðir,Valur,0,1
+1986,1986-08-23,ÍBV,Fram,1,5
+1986,1986-08-23,FH,Þór,1,0
+1986,1986-08-24,KR,Keflavík,1,0
+1986,1986-08-25,ÍA,Breiðablik,2,1
+1986,1986-09-06,Breiðablik,Þór,3,0
+1986,1986-09-06,ÍBV,FH,3,1
+1986,1986-09-06,Keflavík,ÍA,2,3
+1986,1986-09-07,Fram,Víðir,4,1
+1986,1986-09-07,Valur,KR,0,3
+1986,1986-09-13,KR,Fram,0,0
+1986,1986-09-13,Þór,Keflavík,3,2
+1986,1986-09-13,FH,Breiðablik,2,2
+1986,1986-09-13,Víðir,ÍBV,1,2
+1986,1986-09-13,ÍA,Valur,2,3
+1985,1985-05-13,KR,Þróttur R.,4,3
+1985,1985-05-14,Víkingur R.,Valur,2,1
+1985,1985-05-14,Þór,ÍA,2,0
+1985,1985-05-14,Víðir,FH,0,1
+1985,1985-05-16,Fram,Keflavík,3,1
+1985,1985-05-17,ÍA,Víðir,7,0
+1985,1985-05-17,FH,KR,1,1
+1985,1985-05-18,Valur,Þróttur R.,2,1
+1985,1985-05-19,Keflavík,Þór,3,1
+1985,1985-05-19,Víkingur R.,Fram,0,3
+1985,1985-05-21,KR,ÍA,1,1
+1985,1985-05-22,Víðir,Keflavík,1,2
+1985,1985-05-22,Fram,Valur,2,2
+1985,1985-05-22,Þór,Víkingur R.,2,1
+1985,1985-05-23,Þróttur R.,FH,1,0
+1985,1985-05-31,ÍA,Þróttur R.,1,0
+1985,1985-05-31,Valur,FH,3,0
+1985,1985-06-01,Fram,Þór,2,1
+1985,1985-06-01,Keflavík,KR,1,1
+1985,1985-06-02,Víkingur R.,Víðir,0,1
+1985,1985-06-14,Þór,Valur,2,1
+1985,1985-06-15,Víðir,Fram,3,4
+1985,1985-06-15,KR,Víkingur R.,2,1
+1985,1985-06-15,FH,ÍA,0,3
+1985,1985-06-16,Þróttur R.,Keflavík,1,0
+1985,1985-06-20,Fram,KR,4,1
+1985,1985-06-21,Þór,Víðir,1,1
+1985,1985-06-21,Víkingur R.,Þróttur R.,1,3
+1985,1985-06-22,Valur,ÍA,0,0
+1985,1985-06-22,Keflavík,FH,1,3
+1985,1985-06-25,ÍA,Keflavík,1,2
+1985,1985-06-25,Þróttur R.,Fram,0,2
+1985,1985-06-25,FH,Víkingur R.,4,3
+1985,1985-06-25,Víðir,Valur,1,1
+1985,1985-06-26,KR,Þór,3,2
+1985,1985-06-29,Víðir,KR,0,2
+1985,1985-06-29,Víkingur R.,ÍA,2,3
+1985,1985-06-30,Þór,Þróttur R.,3,2
+1985,1985-06-30,Fram,FH,2,0
+1985,1985-07-01,Valur,Keflavík,1,0
+1985,1985-07-06,ÍA,Fram,6,2
+1985,1985-07-06,FH,Þór,0,2
+1985,1985-07-07,Keflavík,Víkingur R.,3,1
+1985,1985-07-07,Þróttur R.,Víðir,2,2
+1985,1985-07-08,KR,Valur,1,2
+1985,1985-07-20,Valur,Víkingur R.,1,0
+1985,1985-07-20,Keflavík,Fram,3,0
+1985,1985-07-20,ÍA,Þór,2,1
+1985,1985-07-20,FH,Víðir,2,3
+1985,1985-07-21,Þróttur R.,KR,1,5
+1985,1985-07-23,Fram,Víkingur R.,2,0
+1985,1985-07-24,Þór,Keflavík,1,0
+1985,1985-07-24,Víðir,ÍA,0,2
+1985,1985-07-24,Þróttur R.,Valur,0,3
+1985,1985-07-25,KR,FH,3,1
+1985,1985-08-10,Keflavík,Víðir,4,0
+1985,1985-08-10,FH,Þróttur R.,2,0
+1985,1985-08-10,ÍA,KR,1,3
+1985,1985-08-11,Valur,Fram,0,0
+1985,1985-08-12,Víkingur R.,Þór,1,2
+1985,1985-08-14,FH,Valur,1,2
+1985,1985-08-14,Þróttur R.,ÍA,0,1
+1985,1985-08-15,Þór,Fram,2,0
+1985,1985-08-15,KR,Keflavík,0,2
+1985,1985-08-15,Víðir,Víkingur R.,3,0
+1985,1985-08-17,ÍA,FH,2,3
+1985,1985-08-18,Valur,Þór,3,0
+1985,1985-08-19,Fram,Víðir,2,1
+1985,1985-08-19,Keflavík,Þróttur R.,2,1
+1985,1985-08-20,Víkingur R.,KR,0,2
+1985,1985-08-28,ÍA,Valur,0,0
+1985,1985-08-28,Víðir,Þór,0,2
+1985,1985-08-28,Þróttur R.,Víkingur R.,0,0
+1985,1985-08-28,FH,Keflavík,1,1
+1985,1985-08-29,KR,Fram,1,1
+1985,1985-08-31,Valur,Víðir,3,1
+1985,1985-09-01,Þór,KR,3,1
+1985,1985-09-01,Fram,Þróttur R.,1,1
+1985,1985-09-01,Keflavík,ÍA,2,3
+1985,1985-09-02,Víkingur R.,FH,3,2
+1985,1985-09-07,FH,Fram,1,5
+1985,1985-09-07,Keflavík,Valur,1,2
+1985,1985-09-07,ÍA,Víkingur R.,1,0
+1985,1985-09-07,Þróttur R.,Þór,0,0
+1985,1985-09-08,KR,Víðir,1,1
+1985,1985-09-12,Valur,KR,1,0
+1985,1985-09-14,Víðir,Þróttur R.,3,2
+1985,1985-09-14,Fram,ÍA,2,3
+1985,1985-09-14,Þór,FH,6,1
+1985,1985-09-15,Víkingur R.,Keflavík,2,3
+1984,1984-05-17,Víkingur R.,KR,1,1
+1984,1984-05-18,ÍA,Fram,1,0
+1984,1984-05-18,Valur,Keflavík,0,0
+1984,1984-05-20,KA,Þór,1,2
+1984,1984-05-20,Þróttur R.,Breiðablik,0,0
+1984,1984-05-23,Keflavík,KA,1,1
+1984,1984-05-23,KR,Breiðablik,1,1
+1984,1984-05-26,Valur,KR,0,0
+1984,1984-05-26,KA,Víkingur R.,3,3
+1984,1984-05-26,ÍA,Keflavík,1,2
+1984,1984-05-27,Þróttur R.,Þór,3,0
+1984,1984-05-27,Breiðablik,Fram,0,1
+1984,1984-05-31,KR,Fram,3,2
+1984,1984-06-02,Fram,Þróttur R.,2,2
+1984,1984-06-02,Keflavík,Þróttur R.,1,0
+1984,1984-06-02,Þór,Breiðablik,0,1
+1984,1984-06-02,Víkingur R.,ÍA,2,2
+1984,1984-06-03,Valur,KA,1,2
+1984,1984-06-06,ÍA,Valur,1,0
+1984,1984-06-06,Þróttur R.,Víkingur R.,1,0
+1984,1984-06-07,Fram,Þór,1,0
+1984,1984-06-08,Breiðablik,Keflavík,0,1
+1984,1984-06-08,KA,KR,2,0
+1984,1984-06-11,Valur,Þróttur R.,1,1
+1984,1984-06-12,KR,Þór,2,5
+1984,1984-06-12,Keflavík,Fram,2,1
+1984,1984-06-13,Víkingur R.,Breiðablik,2,2
+1984,1984-06-13,KA,ÍA,0,2
+1984,1984-06-15,Þór,Keflavík,0,0
+1984,1984-06-16,Breiðablik,Valur,1,2
+1984,1984-06-16,ÍA,KR,2,0
+1984,1984-06-16,Fram,Víkingur R.,1,2
+1984,1984-06-18,Þróttur R.,KA,2,3
+1984,1984-06-22,KA,Breiðablik,0,1
+1984,1984-06-23,ÍA,Þór,3,2
+1984,1984-06-23,Víkingur R.,Þór,0,2
+1984,1984-06-23,ÍA,Þróttur R.,2,0
+1984,1984-06-24,KR,Keflavík,1,0
+1984,1984-06-25,Valur,Fram,1,1
+1984,1984-06-28,Þróttur R.,KR,0,0
+1984,1984-06-29,Þór,Valur,2,3
+1984,1984-06-30,Breiðablik,ÍA,1,2
+1984,1984-07-01,Keflavík,Víkingur R.,3,1
+1984,1984-07-01,Fram,KA,2,0
+1984,1984-07-07,KR,Víkingur R.,0,3
+1984,1984-07-07,Breiðablik,Þróttur R.,0,0
+1984,1984-07-08,Keflavík,Valur,1,0
+1984,1984-07-08,Fram,ÍA,0,1
+1984,1984-07-08,Þór,KA,1,1
+1984,1984-07-11,KA,Keflavík,4,2
+1984,1984-07-11,Breiðablik,KR,3,3
+1984,1984-07-13,Þór,ÍA,0,3
+1984,1984-07-14,Valur,Víkingur R.,3,0
+1984,1984-07-15,Þróttur R.,Fram,3,2
+1984,1984-07-21,Víkingur R.,Valur,1,0
+1984,1984-07-21,KR,Valur,0,0
+1984,1984-07-21,Keflavík,ÍA,1,2
+1984,1984-07-22,Víkingur R.,KA,6,2
+1984,1984-07-22,Þór,Þróttur R.,0,1
+1984,1984-07-23,Fram,Breiðablik,0,0
+1984,1984-07-26,Þróttur R.,Keflavík,1,2
+1984,1984-07-27,KA,Valur,1,4
+1984,1984-07-27,Breiðablik,Þór,2,2
+1984,1984-07-28,ÍA,Víkingur R.,2,3
+1984,1984-07-28,Fram,KR,1,2
+1984,1984-08-14,Valur,ÍA,4,2
+1984,1984-08-14,Þór,Fram,3,0
+1984,1984-08-15,KR,KA,2,0
+1984,1984-08-16,Keflavík,Breiðablik,2,1
+1984,1984-08-16,Víkingur R.,Þróttur R.,0,0
+1984,1984-08-18,ÍA,KA,3,1
+1984,1984-08-19,Fram,Keflavík,1,0
+1984,1984-08-20,Þór,KR,3,1
+1984,1984-08-20,Þróttur R.,Valur,1,2
+1984,1984-08-21,Breiðablik,Víkingur R.,2,0
+1984,1984-08-31,KA,Þróttur R.,2,2
+1984,1984-09-01,KR,ÍA,0,0
+1984,1984-09-01,Keflavík,Þór,1,2
+1984,1984-09-02,Valur,Breiðablik,1,1
+1984,1984-09-03,Víkingur R.,Fram,1,3
+1984,1984-09-06,Fram,Valur,1,1
+1984,1984-09-07,Breiðablik,KA,1,0
+1984,1984-09-08,Keflavík,KR,0,3
+1984,1984-09-08,Þróttur R.,ÍA,2,1
+1984,1984-09-08,Þór,Víkingur R.,1,1
+1984,1984-09-14,KR,Þróttur R.,1,0
+1984,1984-09-15,KA,Fram,0,4
+1984,1984-09-15,Víkingur R.,Keflavík,3,0
+1984,1984-09-15,ÍA,Breiðablik,3,0
+1984,1984-09-16,Valur,Þór,1,0
+1983,1983-05-18,Þróttur R.,KR,2,2
+1983,1983-05-19,Þór,ÍA,0,1
+1983,1983-05-19,ÍBV,ÍBÍ,4,0
+1983,1983-05-19,Keflavík,Valur,1,2
+1983,1983-05-19,Víkingur R.,Breiðablik,0,0
+1983,1983-05-23,ÍA,Víkingur R.,2,0
+1983,1983-05-23,Keflavík,ÍBV,3,1
+1983,1983-05-23,ÍBÍ,Þróttur R.,2,0
+1983,1983-05-23,Valur,Breiðablik,2,1
+1983,1983-05-24,KR,Þór,1,1
+1983,1983-05-31,Breiðablik,ÍA,1,0
+1983,1983-05-31,ÍBV,Valur,3,0
+1983,1983-06-01,Þór,ÍBÍ,1,1
+1983,1983-06-01,Víkingur R.,KR,1,2
+1983,1983-06-02,Þróttur R.,Keflavík,2,1
+1983,1983-06-06,KR,Breiðablik,1,0
+1983,1983-06-07,Valur,ÍA,0,3
+1983,1983-06-07,ÍBV,Þróttur R.,3,0
+1983,1983-06-07,ÍBÍ,Víkingur R.,2,3
+1983,1983-06-07,Keflavík,Þór,2,1
+1983,1983-06-10,Þróttur R.,Valur,3,2
+1983,1983-06-10,Þór,ÍBV,1,1
+1983,1983-06-12,Breiðablik,ÍBÍ,1,1
+1983,1983-06-12,ÍA,KR,1,1
+1983,1983-06-12,Víkingur R.,Keflavík,3,1
+1983,1983-06-14,Þróttur R.,Þór,1,2
+1983,1983-06-15,Keflavík,Breiðablik,0,2
+1983,1983-06-15,ÍBV,Víkingur R.,1,1
+1983,1983-06-15,ÍBÍ,ÍA,1,0
+1983,1983-06-18,Valur,KR,4,1
+1983,1983-06-18,Breiðablik,ÍBV,1,0
+1983,1983-06-18,ÍA,Keflavík,4,0
+1983,1983-06-19,Víkingur R.,Þróttur R.,0,0
+1983,1983-06-21,KR,ÍBÍ,0,0
+1983,1983-06-21,Þór,Valur,2,2
+1983,1983-06-23,Þróttur R.,Breiðablik,1,1
+1983,1983-06-24,Þór,Víkingur R.,0,0
+1983,1983-06-25,Keflavík,KR,1,1
+1983,1983-06-25,ÍBV,ÍA,2,1
+1983,1983-06-26,Valur,ÍBÍ,1,1
+1983,1983-07-02,Breiðablik,Þór,3,0
+1983,1983-07-02,Víkingur R.,Valur,1,1
+1983,1983-07-02,ÍBÍ,Keflavík,1,2
+1983,1983-07-02,ÍA,Þróttur R.,5,0
+1983,1983-07-03,KR,ÍBV,2,2
+1983,1983-07-09,Breiðablik,Víkingur R.,0,0
+1983,1983-07-09,ÍA,Þór,0,2
+1983,1983-07-09,ÍBÍ,ÍBV,2,2
+1983,1983-07-11,Valur,Keflavík,0,2
+1983,1983-07-12,KR,Þróttur R.,0,0
+1983,1983-07-15,Víkingur R.,ÍA,1,2
+1983,1983-07-15,Þór,KR,2,0
+1983,1983-07-16,Þróttur R.,ÍBÍ,1,0
+1983,1983-07-16,ÍBV,Keflavík,1,2
+1983,1983-07-17,Breiðablik,Valur,2,2
+1983,1983-07-23,ÍA,Breiðablik,3,2
+1983,1983-07-25,Valur,ÍBV,3,0
+1983,1983-07-25,ÍBÍ,Þór,0,0
+1983,1983-07-26,KR,Víkingur R.,2,1
+1983,1983-07-26,Keflavík,Þróttur R.,3,2
+1983,1983-08-02,Breiðablik,KR,0,1
+1983,1983-08-04,Þór,Keflavík,2,0
+1983,1983-08-04,Þróttur R.,ÍBV,3,1
+1983,1983-08-06,ÍA,Valur,2,0
+1983,1983-08-06,Víkingur R.,ÍBÍ,2,2
+1983,1983-08-13,Valur,Þróttur R.,1,4
+1983,1983-08-13,ÍBV,Þór,3,1
+1983,1983-08-13,ÍBÍ,Breiðablik,1,1
+1983,1983-08-13,Keflavík,Víkingur R.,1,2
+1983,1983-08-14,KR,ÍA,0,0
+1983,1983-08-19,Þór,Þróttur R.,4,0
+1983,1983-08-19,KR,Valur,3,2
+1983,1983-08-20,ÍA,ÍBÍ,3,0
+1983,1983-08-20,Breiðablik,Keflavík,2,1
+1983,1983-08-21,Víkingur R.,ÍBV,2,0
+1983,1983-08-23,Valur,Þór,2,0
+1983,1983-08-24,Keflavík,ÍA,0,1
+1983,1983-08-24,ÍBV,Breiðablik,0,3
+1983,1983-08-24,Þróttur R.,Víkingur R.,2,2
+1983,1983-08-24,ÍBÍ,KR,1,1
+1983,1983-08-31,KR,Keflavík,0,1
+1983,1983-09-02,Breiðablik,Þróttur R.,2,3
+1983,1983-09-03,Víkingur R.,Þór,0,0
+1983,1983-09-03,ÍA,ÍBV,1,1
+1983,1983-09-03,ÍBÍ,Valur,1,3
+1983,1983-09-10,ÍBV,KR,0,0
+1983,1983-09-10,Valur,Víkingur R.,2,1
+1983,1983-09-10,Keflavík,ÍBÍ,3,0
+1983,1983-09-10,Þór,Breiðablik,2,2
+1983,1983-09-11,Þróttur R.,ÍA,0,0
+1982,1982-05-15,Valur,KA,2,2
+1982,1982-05-15,ÍBV,Keflavík,2,0
+1982,1982-05-15,ÍBÍ,KR,1,1
+1982,1982-05-16,Breiðablik,ÍA,2,1
+1982,1982-05-16,Víkingur R.,Fram,1,1
+1982,1982-05-19,KR,KA,0,0
+1982,1982-05-19,ÍBÍ,ÍBV,1,2
+1982,1982-05-19,Keflavík,Víkingur R.,0,1
+1982,1982-05-20,Fram,Breiðablik,2,2
+1982,1982-05-20,ÍA,Valur,2,0
+1982,1982-05-23,KA,ÍA,0,0
+1982,1982-05-23,Breiðablik,Keflavík,3,0
+1982,1982-05-23,Víkingur R.,ÍBÍ,2,3
+1982,1982-05-23,ÍBV,KR,0,1
+1982,1982-05-24,Valur,Fram,1,0
+1982,1982-05-26,KR,ÍA,0,0
+1982,1982-05-27,Fram,KA,1,2
+1982,1982-05-29,ÍBÍ,Breiðablik,3,0
+1982,1982-05-29,Keflavík,Valur,2,1
+1982,1982-06-08,Keflavík,ÍBV,0,1
+1982,1982-06-11,KA,Keflavík,0,0
+1982,1982-06-12,Breiðablik,ÍBV,2,1
+1982,1982-06-12,Valur,ÍBÍ,0,3
+1982,1982-06-12,ÍA,Fram,0,1
+1982,1982-06-13,Víkingur R.,KR,2,0
+1982,1982-06-16,ÍA,Breiðablik,3,1
+1982,1982-06-16,KA,Valur,3,0
+1982,1982-06-18,KR,Fram,1,1
+1982,1982-06-19,ÍBÍ,KA,1,2
+1982,1982-06-19,ÍBV,Valur,2,0
+1982,1982-06-19,Keflavík,ÍA,1,0
+1982,1982-06-20,Víkingur R.,Breiðablik,1,1
+1982,1982-06-24,Fram,Keflavík,0,2
+1982,1982-06-26,ÍA,ÍBÍ,2,1
+1982,1982-06-26,Breiðablik,KR,0,2
+1982,1982-06-26,KA,ÍBV,0,1
+1982,1982-06-27,Valur,Víkingur R.,0,1
+1982,1982-06-29,KR,Keflavík,0,0
+1982,1982-06-30,ÍBV,ÍA,2,0
+1982,1982-06-30,Víkingur R.,KA,2,1
+1982,1982-06-30,ÍBÍ,Fram,0,2
+1982,1982-06-30,Breiðablik,Valur,0,1
+1982,1982-07-03,KA,Breiðablik,0,2
+1982,1982-07-03,ÍA,Víkingur R.,2,2
+1982,1982-07-03,Keflavík,ÍBÍ,1,1
+1982,1982-07-03,Fram,ÍBV,3,0
+1982,1982-07-04,Valur,KR,0,0
+1982,1982-07-13,KR,ÍBÍ,2,2
+1982,1982-07-14,Valur,ÍA,3,1
+1982,1982-07-15,Víkingur R.,Keflavík,3,1
+1982,1982-07-16,KA,KR,3,0
+1982,1982-07-17,ÍBV,ÍBÍ,3,1
+1982,1982-07-17,Breiðablik,Fram,1,0
+1982,1982-07-24,KR,ÍBV,1,0
+1982,1982-07-24,ÍA,KA,1,0
+1982,1982-07-24,Keflavík,Breiðablik,1,0
+1982,1982-07-24,ÍBÍ,Víkingur R.,2,2
+1982,1982-07-25,Fram,Valur,1,1
+1982,1982-07-28,Breiðablik,ÍBÍ,0,2
+1982,1982-07-28,Víkingur R.,ÍBV,1,0
+1982,1982-07-28,KA,Fram,0,0
+1982,1982-07-28,ÍA,KR,1,1
+1982,1982-07-29,Valur,Keflavík,2,1
+1982,1982-08-05,KR,Víkingur R.,1,1
+1982,1982-08-05,ÍBV,Breiðablik,0,0
+1982,1982-08-07,ÍBÍ,Valur,1,4
+1982,1982-08-07,Keflavík,KA,3,2
+1982,1982-08-08,Fram,ÍA,2,2
+1982,1982-08-14,KA,ÍBÍ,2,3
+1982,1982-08-14,ÍA,Keflavík,2,1
+1982,1982-08-14,Breiðablik,Víkingur R.,1,1
+1982,1982-08-14,Valur,ÍBV,1,1
+1982,1982-08-16,Fram,KR,0,2
+1982,1982-08-21,ÍBÍ,ÍA,1,4
+1982,1982-08-21,ÍBV,KA,2,2
+1982,1982-08-23,Keflavík,Fram,1,1
+1982,1982-08-23,Víkingur R.,Valur,0,0
+1982,1982-08-24,KR,Breiðablik,1,1
+1982,1982-08-26,Fram,Víkingur R.,2,1
+1982,1982-08-29,ÍBV,Víkingur R.,2,2
+1982,1982-09-04,ÍA,ÍBV,1,2
+1982,1982-09-04,KA,Víkingur R.,0,2
+1982,1982-09-04,Keflavík,KR,0,0
+1982,1982-09-04,Fram,ÍBÍ,0,4
+1982,1982-09-06,Valur,Breiðablik,2,0
+1982,1982-09-11,ÍBÍ,Keflavík,0,0
+1982,1982-09-11,Breiðablik,KA,2,1
+1982,1982-09-11,ÍBV,Fram,2,0
+1982,1982-09-11,KR,Valur,1,0
+1982,1982-09-12,Víkingur R.,ÍA,0,0
+1981,1981-05-08,Breiðablik,Víkingur R.,1,0
+1981,1981-05-09,Fram,ÍBV,1,1
+1981,1981-05-10,KR,FH,2,0
+1981,1981-05-14,Víkingur R.,FH,2,1
+1981,1981-05-15,Breiðablik,Fram,1,1
+1981,1981-05-16,Valur,KR,3,0
+1981,1981-05-16,KA,ÍA,0,1
+1981,1981-05-16,ÍBV,Þór,4,1
+1981,1981-05-20,Fram,Víkingur R.,0,0
+1981,1981-05-20,ÍA,ÍBV,3,0
+1981,1981-05-20,FH,Valur,2,3
+1981,1981-05-21,KR,KA,0,1
+1981,1981-05-22,Þór,Breiðablik,1,1
+1981,1981-05-29,KA,FH,5,1
+1981,1981-05-30,ÍBV,KR,1,1
+1981,1981-05-30,Fram,Þór,0,1
+1981,1981-05-30,Breiðablik,ÍA,0,0
+1981,1981-05-31,Víkingur R.,Valur,3,2
+1981,1981-06-03,FH,ÍBV,0,2
+1981,1981-06-03,Valur,KA,0,0
+1981,1981-06-03,ÍA,Fram,0,0
+1981,1981-06-04,KR,Breiðablik,1,3
+1981,1981-06-05,Þór,Víkingur R.,0,3
+1981,1981-06-06,ÍA,Valur,0,4
+1981,1981-06-08,Þór,KA,1,1
+1981,1981-06-12,Þór,ÍA,0,0
+1981,1981-06-13,Breiðablik,FH,0,0
+1981,1981-06-13,ÍBV,Valur,1,0
+1981,1981-06-14,Víkingur R.,KA,2,1
+1981,1981-06-15,Fram,KR,2,0
+1981,1981-06-20,FH,Fram,5,1
+1981,1981-06-20,ÍA,Víkingur R.,0,1
+1981,1981-06-20,KA,ÍBV,1,0
+1981,1981-06-20,KR,Þór,0,0
+1981,1981-06-20,KA,Víkingur R.,1,2
+1981,1981-06-21,Valur,Breiðablik,0,0
+1981,1981-06-23,Víkingur R.,ÍBV,1,0
+1981,1981-06-23,Þór,FH,0,1
+1981,1981-06-24,Breiðablik,KA,3,0
+1981,1981-06-24,Fram,Valur,1,1
+1981,1981-06-24,ÍA,KR,0,0
+1981,1981-06-27,Valur,Þór,6,1
+1981,1981-06-27,FH,ÍA,0,4
+1981,1981-06-27,ÍBV,Breiðablik,1,2
+1981,1981-06-28,KA,Fram,0,1
+1981,1981-06-28,KR,Víkingur R.,1,2
+1981,1981-07-04,FH,KR,1,1
+1981,1981-07-04,ÍBV,Fram,3,3
+1981,1981-07-05,Valur,ÍA,0,2
+1981,1981-07-06,KA,Þór,1,1
+1981,1981-07-06,Víkingur R.,Breiðablik,0,0
+1981,1981-07-15,KR,Valur,0,2
+1981,1981-07-16,Fram,Breiðablik,3,1
+1981,1981-07-18,FH,Víkingur R.,2,2
+1981,1981-07-18,Þór,ÍBV,1,4
+1981,1981-07-18,ÍA,KA,0,1
+1981,1981-07-24,KA,KR,1,1
+1981,1981-07-25,Breiðablik,Þór,3,3
+1981,1981-07-25,ÍBV,ÍA,1,2
+1981,1981-07-26,Víkingur R.,Fram,1,3
+1981,1981-07-27,Valur,FH,2,1
+1981,1981-07-29,KR,ÍBV,1,3
+1981,1981-07-29,Þór,Fram,1,2
+1981,1981-07-29,ÍA,Breiðablik,3,3
+1981,1981-07-30,Valur,Víkingur R.,4,2
+1981,1981-07-30,FH,KA,2,3
+1981,1981-08-07,KA,Valur,3,0
+1981,1981-08-08,Breiðablik,KR,1,2
+1981,1981-08-08,ÍBV,FH,4,1
+1981,1981-08-08,Víkingur R.,Þór,3,0
+1981,1981-08-09,Fram,ÍA,1,1
+1981,1981-08-16,FH,Breiðablik,1,2
+1981,1981-08-16,ÍA,Þór,3,1
+1981,1981-08-16,Valur,ÍBV,0,2
+1981,1981-08-17,KR,Fram,0,0
+1981,1981-08-19,Víkingur R.,ÍA,2,6
+1981,1981-08-20,Þór,KR,2,1
+1981,1981-08-20,Breiðablik,Valur,5,1
+1981,1981-08-20,ÍBV,KA,1,0
+1981,1981-08-20,Fram,FH,3,1
+1981,1981-09-02,ÍBV,Víkingur R.,1,2
+1981,1981-09-02,FH,Þór,0,3
+1981,1981-09-02,Valur,Fram,0,0
+1981,1981-09-02,KA,Breiðablik,3,0
+1981,1981-09-03,KR,ÍA,2,1
+1981,1981-09-11,Þór,Valur,1,2
+1981,1981-09-12,Fram,KA,2,0
+1981,1981-09-12,ÍA,FH,3,1
+1981,1981-09-12,Breiðablik,ÍBV,1,0
+1981,1981-09-13,Víkingur R.,KR,2,0
+1980,1980-05-10,Fram,ÍA,2,0
+1980,1980-05-10,ÍBV,Breiðablik,1,0
+1980,1980-05-11,Þróttur R.,KR,1,0
+1980,1980-05-12,Valur,FH,4,0
+1980,1980-05-12,Keflavík,Víkingur R.,1,1
+1980,1980-05-17,ÍA,Víkingur R.,1,0
+1980,1980-05-17,KR,Valur,0,3
+1980,1980-05-17,FH,Keflavík,1,2
+1980,1980-05-18,Fram,ÍBV,1,0
+1980,1980-05-18,Breiðablik,Þróttur R.,2,1
+1980,1980-05-24,Þróttur R.,Fram,0,1
+1980,1980-05-24,ÍBV,ÍA,1,2
+1980,1980-05-26,Keflavík,KR,0,1
+1980,1980-05-27,Valur,Breiðablik,3,2
+1980,1980-05-28,Víkingur R.,FH,2,2
+1980,1980-06-04,Fram,Valur,1,0
+1980,1980-06-04,ÍBV,Þróttur R.,1,0
+1980,1980-06-05,Breiðablik,Keflavík,2,3
+1980,1980-06-05,KR,Víkingur R.,0,1
+1980,1980-06-05,ÍA,FH,1,3
+1980,1980-06-07,Valur,ÍBV,7,2
+1980,1980-06-08,FH,KR,1,2
+1980,1980-06-08,Víkingur R.,Breiðablik,1,2
+1980,1980-06-09,Þróttur R.,ÍA,1,1
+1980,1980-06-09,Keflavík,Fram,0,0
+1980,1980-06-14,ÍA,KR,1,1
+1980,1980-06-14,ÍBV,Keflavík,4,0
+1980,1980-06-14,Breiðablik,FH,4,0
+1980,1980-06-15,Fram,Víkingur R.,1,1
+1980,1980-06-16,Þróttur R.,Valur,1,3
+1980,1980-06-21,Víkingur R.,ÍBV,1,1
+1980,1980-06-21,FH,Fram,1,3
+1980,1980-06-22,Keflavík,Þróttur R.,1,1
+1980,1980-06-22,Valur,ÍA,0,3
+1980,1980-06-23,KR,Breiðablik,1,0
+1980,1980-07-05,ÍBV,FH,4,4
+1980,1980-07-05,Valur,Keflavík,1,0
+1980,1980-07-05,ÍA,Breiðablik,3,1
+1980,1980-07-06,Þróttur R.,Víkingur R.,0,1
+1980,1980-07-07,Fram,KR,1,4
+1980,1980-07-09,FH,Þróttur R.,0,2
+1980,1980-07-09,Víkingur R.,Valur,1,1
+1980,1980-07-10,KR,ÍBV,1,3
+1980,1980-07-10,Keflavík,ÍA,1,1
+1980,1980-07-10,Breiðablik,Fram,3,1
+1980,1980-07-19,Breiðablik,ÍBV,2,0
+1980,1980-07-20,KR,Þróttur R.,0,0
+1980,1980-07-20,FH,Valur,2,1
+1980,1980-07-20,ÍA,Fram,4,0
+1980,1980-07-21,Víkingur R.,Keflavík,2,1
+1980,1980-07-26,Þróttur R.,Breiðablik,0,1
+1980,1980-07-26,ÍBV,Fram,0,1
+1980,1980-07-27,Valur,KR,5,0
+1980,1980-07-28,Víkingur R.,ÍA,3,0
+1980,1980-07-28,Keflavík,FH,2,2
+1980,1980-07-31,ÍA,ÍBV,2,2
+1980,1980-08-05,FH,Víkingur R.,0,1
+1980,1980-08-05,KR,Keflavík,1,0
+1980,1980-08-06,Breiðablik,Valur,0,0
+1980,1980-08-06,Fram,Þróttur R.,3,1
+1980,1980-08-09,FH,ÍA,1,0
+1980,1980-08-10,Þróttur R.,ÍBV,1,1
+1980,1980-08-11,Keflavík,Breiðablik,2,1
+1980,1980-08-11,Valur,Fram,4,0
+1980,1980-08-12,Víkingur R.,KR,2,2
+1980,1980-08-16,Breiðablik,Víkingur R.,2,3
+1980,1980-08-16,ÍBV,Valur,0,2
+1980,1980-08-16,ÍA,Þróttur R.,3,0
+1980,1980-08-17,KR,FH,1,2
+1980,1980-08-18,Fram,Keflavík,1,0
+1980,1980-08-23,FH,Breiðablik,0,1
+1980,1980-08-23,Keflavík,ÍBV,1,1
+1980,1980-08-23,KR,ÍA,0,3
+1980,1980-08-24,Víkingur R.,Fram,0,3
+1980,1980-08-25,Valur,Þróttur R.,2,1
+1980,1980-08-27,Breiðablik,KR,0,1
+1980,1980-08-27,ÍBV,Víkingur R.,3,1
+1980,1980-08-27,Fram,FH,1,1
+1980,1980-08-28,Þróttur R.,Keflavík,1,1
+1980,1980-08-28,ÍA,Valur,1,2
+1980,1980-09-06,Keflavík,Valur,1,2
+1980,1980-09-06,FH,ÍBV,1,1
+1980,1980-09-06,Víkingur R.,Þróttur R.,2,0
+1980,1980-09-07,KR,Fram,0,1
+1980,1980-09-07,Breiðablik,ÍA,2,0
+1980,1980-09-12,Þróttur R.,FH,2,3
+1980,1980-09-13,Fram,Breiðablik,2,0
+1980,1980-09-13,ÍA,Keflavík,3,0
+1980,1980-09-13,ÍBV,KR,1,1
+1980,1980-09-14,Valur,Víkingur R.,3,1
+1979,1979-05-12,KA,Haukar,3,1
+1979,1979-05-12,Þróttur R.,ÍBV,0,2
+1979,1979-05-14,Víkingur R.,Fram,1,3
+1979,1979-05-15,KR,Valur,1,1
+1979,1979-05-16,Keflavík,ÍA,0,0
+1979,1979-05-29,ÍA,KA,3,2
+1979,1979-05-29,Víkingur R.,Þróttur R.,2,1
+1979,1979-05-29,ÍBV,Keflavík,0,0
+1979,1979-05-29,Haukar,KR,0,1
+1979,1979-05-30,Fram,Valur,1,1
+1979,1979-06-02,Valur,Haukar,3,0
+1979,1979-06-02,KA,ÍBV,1,0
+1979,1979-06-04,Keflavík,Víkingur R.,4,0
+1979,1979-06-04,KR,ÍA,1,3
+1979,1979-06-06,Þróttur R.,Fram,1,1
+1979,1979-06-10,KA,Þróttur R.,0,2
+1979,1979-06-11,Keflavík,Fram,1,1
+1979,1979-06-11,KR,Víkingur R.,1,0
+1979,1979-06-12,Haukar,ÍA,2,1
+1979,1979-06-12,Valur,ÍBV,0,2
+1979,1979-06-16,Víkingur R.,KA,4,0
+1979,1979-06-16,ÍBV,KR,0,2
+1979,1979-06-16,ÍA,Valur,3,2
+1979,1979-06-18,Þróttur R.,Keflavík,0,4
+1979,1979-06-19,Fram,Haukar,3,0
+1979,1979-06-23,ÍBV,Haukar,4,0
+1979,1979-06-24,Keflavík,KA,2,1
+1979,1979-06-25,Víkingur R.,Valur,0,0
+1979,1979-06-26,Fram,ÍA,1,1
+1979,1979-06-27,Þróttur R.,KR,5,1
+1979,1979-06-29,KA,Fram,1,1
+1979,1979-06-30,KR,Keflavík,3,2
+1979,1979-06-30,ÍA,ÍBV,0,2
+1979,1979-07-01,Valur,Þróttur R.,3,1
+1979,1979-07-01,Haukar,Víkingur R.,1,3
+1979,1979-07-08,KA,KR,1,1
+1979,1979-07-08,Fram,ÍBV,1,1
+1979,1979-07-09,Keflavík,Valur,0,3
+1979,1979-07-09,Víkingur R.,ÍA,1,0
+1979,1979-07-10,Þróttur R.,Haukar,3,2
+1979,1979-07-13,ÍA,Þróttur R.,4,0
+1979,1979-07-14,Haukar,Keflavík,0,0
+1979,1979-07-14,Valur,KA,5,1
+1979,1979-07-14,ÍBV,Víkingur R.,1,1
+1979,1979-07-15,KR,Fram,3,2
+1979,1979-07-20,KA,ÍA,2,4
+1979,1979-07-21,Keflavík,ÍBV,3,1
+1979,1979-07-22,KR,Haukar,4,1
+1979,1979-07-23,Valur,Fram,3,2
+1979,1979-07-26,Þróttur R.,Víkingur R.,1,1
+1979,1979-07-27,ÍA,Keflavík,1,0
+1979,1979-07-28,ÍBV,Þróttur R.,3,1
+1979,1979-07-29,Haukar,KA,2,2
+1979,1979-07-29,Fram,Víkingur R.,1,5
+1979,1979-07-30,Valur,KR,1,0
+1979,1979-08-01,Fram,Þróttur R.,0,1
+1979,1979-08-02,ÍBV,KA,3,0
+1979,1979-08-02,ÍA,KR,2,0
+1979,1979-08-02,Víkingur R.,Keflavík,1,2
+1979,1979-08-02,Haukar,Valur,0,3
+1979,1979-08-10,KA,Víkingur R.,3,1
+1979,1979-08-11,Haukar,Fram,1,1
+1979,1979-08-11,KR,ÍBV,2,2
+1979,1979-08-12,Valur,ÍA,2,1
+1979,1979-08-13,Keflavík,Þróttur R.,1,1
+1979,1979-08-16,Víkingur R.,KR,0,2
+1979,1979-08-18,ÍA,Haukar,1,0
+1979,1979-08-18,ÍBV,Valur,2,0
+1979,1979-08-18,Þróttur R.,KA,1,0
+1979,1979-08-19,Fram,Keflavík,4,0
+1979,1979-08-21,KR,Þróttur R.,1,1
+1979,1979-08-21,Haukar,ÍBV,0,1
+1979,1979-08-22,ÍA,Fram,0,0
+1979,1979-08-22,KA,Keflavík,0,0
+1979,1979-08-22,Valur,Víkingur R.,3,3
+1979,1979-08-29,Víkingur R.,Haukar,3,0
+1979,1979-08-30,Keflavík,KR,1,0
+1979,1979-08-30,ÍBV,ÍA,1,0
+1979,1979-08-30,Þróttur R.,Valur,2,3
+1979,1979-09-01,Fram,KA,1,1
+1979,1979-09-08,Valur,Keflavík,1,2
+1979,1979-09-08,Haukar,Þróttur R.,1,5
+1979,1979-09-08,ÍBV,Fram,0,2
+1979,1979-09-08,ÍA,Víkingur R.,1,0
+1979,1979-09-09,KR,KA,4,2
+1979,1979-09-14,Fram,KR,0,2
+1979,1979-09-15,Víkingur R.,ÍBV,0,1
+1979,1979-09-15,Keflavík,Haukar,4,1
+1979,1979-09-16,KA,Valur,1,1
+1979,1979-09-16,Þróttur R.,ÍA,1,2
+1978,1978-05-13,Breiðablik,KA,2,2
+1978,1978-05-16,ÍBV,Víkingur R.,0,2
+1978,1978-05-16,Keflavík,FH,2,2
+1978,1978-05-16,Þróttur R.,ÍA,2,2
+1978,1978-05-17,Valur,Fram,3,0
+1978,1978-05-20,ÍA,Breiðablik,4,0
+1978,1978-05-20,Keflavík,ÍBV,2,3
+1978,1978-05-20,FH,KA,0,0
+1978,1978-05-21,Víkingur R.,Valur,2,5
+1978,1978-05-22,Fram,Þróttur R.,4,1
+1978,1978-05-22,KA,ÍA,0,5
+1978,1978-05-27,Breiðablik,Fram,0,2
+1978,1978-05-27,ÍBV,FH,3,0
+1978,1978-05-27,Valur,Keflavík,2,1
+1978,1978-05-27,ÍA,KA,1,0
+1978,1978-05-28,Þróttur R.,Víkingur R.,2,0
+1978,1978-06-02,Fram,KA,1,0
+1978,1978-06-03,FH,ÍA,1,7
+1978,1978-06-03,Keflavík,Þróttur R.,0,0
+1978,1978-06-04,Víkingur R.,Breiðablik,3,1
+1978,1978-06-10,Þróttur R.,ÍBV,2,2
+1978,1978-06-10,ÍA,Fram,1,0
+1978,1978-06-11,Breiðablik,Keflavík,0,2
+1978,1978-06-11,Valur,FH,2,1
+1978,1978-06-13,ÍBV,Valur,0,3
+1978,1978-06-14,Keflavík,KA,2,3
+1978,1978-06-14,ÍBV,Breiðablik,1,0
+1978,1978-06-14,FH,Fram,2,3
+1978,1978-06-14,Víkingur R.,ÍA,2,4
+1978,1978-06-15,Valur,Þróttur R.,1,0
+1978,1978-06-17,Fram,Víkingur R.,0,1
+1978,1978-06-18,KA,ÍBV,1,1
+1978,1978-06-18,ÍA,Keflavík,3,0
+1978,1978-06-18,Þróttur R.,FH,2,2
+1978,1978-06-19,Breiðablik,Valur,1,4
+1978,1978-06-21,FH,Víkingur R.,3,3
+1978,1978-06-21,ÍBV,ÍA,2,3
+1978,1978-06-21,Keflavík,Fram,1,1
+1978,1978-06-22,Valur,KA,5,0
+1978,1978-06-23,Þróttur R.,Breiðablik,4,2
+1978,1978-06-26,KA,Víkingur R.,2,5
+1978,1978-07-01,Fram,ÍBV,2,1
+1978,1978-07-01,ÍA,Valur,0,1
+1978,1978-07-01,KA,Þróttur R.,0,0
+1978,1978-07-02,Víkingur R.,Keflavík,0,1
+1978,1978-07-02,Breiðablik,FH,0,4
+1978,1978-07-08,ÍA,Þróttur R.,3,2
+1978,1978-07-08,KA,Breiðablik,0,3
+1978,1978-07-08,Víkingur R.,ÍBV,0,1
+1978,1978-07-09,FH,Keflavík,2,0
+1978,1978-07-09,Fram,Valur,0,3
+1978,1978-07-15,KA,FH,1,0
+1978,1978-07-15,Þróttur R.,Fram,0,1
+1978,1978-07-15,Breiðablik,ÍA,0,3
+1978,1978-07-15,ÍBV,Keflavík,1,2
+1978,1978-07-16,Valur,Víkingur R.,3,0
+1978,1978-07-22,FH,ÍBV,0,2
+1978,1978-07-24,Víkingur R.,Þróttur R.,1,0
+1978,1978-07-25,Keflavík,Valur,0,2
+1978,1978-07-25,Fram,Breiðablik,2,0
+1978,1978-07-29,ÍA,FH,2,0
+1978,1978-07-29,KA,Fram,3,0
+1978,1978-07-29,Valur,ÍBV,1,0
+1978,1978-07-30,Þróttur R.,Keflavík,1,2
+1978,1978-07-30,Breiðablik,Víkingur R.,1,2
+1978,1978-08-01,Fram,ÍA,0,2
+1978,1978-08-02,Víkingur R.,KA,1,0
+1978,1978-08-02,Keflavík,Breiðablik,3,1
+1978,1978-08-02,FH,Valur,0,2
+1978,1978-08-11,KA,Keflavík,0,5
+1978,1978-08-12,ÍA,Víkingur R.,5,0
+1978,1978-08-12,Þróttur R.,Valur,1,3
+1978,1978-08-12,Breiðablik,ÍBV,2,0
+1978,1978-08-13,Fram,FH,4,4
+1978,1978-08-19,Valur,Breiðablik,4,2
+1978,1978-08-19,ÍBV,KA,6,2
+1978,1978-08-19,Keflavík,ÍA,2,2
+1978,1978-08-20,Víkingur R.,Fram,3,0
+1978,1978-08-20,FH,Þróttur R.,0,0
+1978,1978-08-22,ÍA,ÍBV,0,0
+1978,1978-08-22,KA,Valur,0,0
+1978,1978-08-23,Breiðablik,Þróttur R.,1,4
+1978,1978-08-23,Fram,Keflavík,1,3
+1978,1978-08-24,Víkingur R.,FH,1,0
+1978,1978-08-31,ÍBV,Þróttur R.,3,0
+1978,1978-09-07,Þróttur R.,KA,1,0
+1978,1978-09-09,Keflavík,Víkingur R.,3,1
+1978,1978-09-09,FH,Breiðablik,1,3
+1978,1978-09-09,ÍBV,Fram,3,2
+1978,1978-09-10,Valur,ÍA,1,0
+1977,1977-05-07,Keflavík,Þór,3,2
+1977,1977-05-07,Breiðablik,Valur,4,3
+1977,1977-05-07,Fram,ÍBV,0,2
+1977,1977-05-07,ÍA,KR,1,0
+1977,1977-05-08,Víkingur R.,FH,1,1
+1977,1977-05-10,ÍBV,Breiðablik,0,0
+1977,1977-05-10,KR,Keflavík,0,2
+1977,1977-05-11,FH,Fram,0,3
+1977,1977-05-11,Valur,ÍA,0,2
+1977,1977-05-11,Þór,Víkingur R.,1,1
+1977,1977-05-14,Keflavík,Valur,1,2
+1977,1977-05-14,ÍA,Breiðablik,2,0
+1977,1977-05-14,Fram,Þór,3,1
+1977,1977-05-15,FH,ÍBV,2,0
+1977,1977-05-16,Víkingur R.,KR,0,0
+1977,1977-05-23,ÍBV,Valur,0,1
+1977,1977-05-25,Þór,ÍA,3,1
+1977,1977-05-25,FH,Keflavík,1,2
+1977,1977-05-25,Fram,Víkingur R.,0,1
+1977,1977-05-27,Valur,KR,2,1
+1977,1977-05-28,Breiðablik,Þór,0,1
+1977,1977-05-28,Keflavík,Fram,2,2
+1977,1977-05-28,ÍA,FH,1,0
+1977,1977-05-31,FH,Breiðablik,0,2
+1977,1977-05-31,Þór,Valur,0,2
+1977,1977-05-31,Fram,ÍA,1,2
+1977,1977-06-04,Breiðablik,Fram,4,1
+1977,1977-06-04,ÍA,Víkingur R.,1,1
+1977,1977-06-04,Keflavík,ÍBV,1,0
+1977,1977-06-04,KR,Þór,6,0
+1977,1977-06-06,Valur,FH,1,0
+1977,1977-06-07,Víkingur R.,Keflavík,1,0
+1977,1977-06-08,Breiðablik,KR,1,2
+1977,1977-06-13,Víkingur R.,Breiðablik,2,0
+1977,1977-06-13,ÍBV,Þór,2,1
+1977,1977-06-13,Keflavík,ÍA,0,4
+1977,1977-06-13,FH,KR,5,4
+1977,1977-06-14,Fram,Valur,0,0
+1977,1977-06-16,ÍBV,KR,2,0
+1977,1977-06-17,Valur,Víkingur R.,4,0
+1977,1977-06-18,Þór,FH,1,2
+1977,1977-06-19,Breiðablik,Keflavík,1,1
+1977,1977-06-19,ÍA,ÍBV,3,0
+1977,1977-06-19,KR,Fram,1,1
+1977,1977-06-22,KR,Víkingur R.,0,2
+1977,1977-06-22,Breiðablik,ÍA,1,0
+1977,1977-06-22,ÍBV,FH,4,1
+1977,1977-06-23,Þór,Fram,1,1
+1977,1977-06-23,Valur,Keflavík,0,0
+1977,1977-06-25,Víkingur R.,ÍBV,0,0
+1977,1977-07-02,Keflavík,KR,4,2
+1977,1977-07-02,Víkingur R.,Þór,3,2
+1977,1977-07-03,ÍA,Valur,1,4
+1977,1977-07-03,Fram,FH,1,4
+1977,1977-07-03,Breiðablik,ÍBV,1,3
+1977,1977-07-05,Þór,Keflavík,1,2
+1977,1977-07-06,ÍBV,Fram,3,0
+1977,1977-07-06,FH,Víkingur R.,1,4
+1977,1977-07-06,KR,ÍA,0,2
+1977,1977-07-09,ÍA,Þór,3,0
+1977,1977-07-10,Keflavík,FH,0,0
+1977,1977-07-10,KR,Breiðablik,1,2
+1977,1977-07-11,Víkingur R.,Fram,0,1
+1977,1977-07-15,Valur,ÍBV,2,0
+1977,1977-07-23,Þór,Breiðablik,1,3
+1977,1977-07-23,FH,ÍA,0,0
+1977,1977-07-23,ÍBV,Víkingur R.,2,2
+1977,1977-07-24,Fram,Keflavík,3,2
+1977,1977-07-25,KR,Valur,0,3
+1977,1977-08-03,Valur,Breiðablik,3,0
+1977,1977-08-04,KR,ÍBV,1,2
+1977,1977-08-06,Valur,Þór,4,2
+1977,1977-08-06,Breiðablik,FH,1,1
+1977,1977-08-06,ÍA,Fram,4,2
+1977,1977-08-06,Keflavík,Víkingur R.,3,0
+1977,1977-08-12,Þór,KR,2,3
+1977,1977-08-14,Fram,Breiðablik,1,4
+1977,1977-08-14,ÍBV,Keflavík,3,2
+1977,1977-08-14,FH,Valur,1,1
+1977,1977-08-15,Víkingur R.,ÍA,0,3
+1977,1977-08-20,ÍA,Keflavík,4,1
+1977,1977-08-20,KR,FH,2,2
+1977,1977-08-20,Breiðablik,Víkingur R.,1,1
+1977,1977-08-20,Þór,ÍBV,0,4
+1977,1977-08-21,Valur,Fram,3,3
+1977,1977-08-23,ÍBV,ÍA,0,1
+1977,1977-08-23,FH,Þór,5,2
+1977,1977-08-23,Keflavík,Breiðablik,3,2
+1977,1977-08-24,Fram,KR,1,1
+1977,1977-08-25,Víkingur R.,Valur,3,3
+1976,1976-05-13,KR,Þróttur R.,4,1
+1976,1976-05-15,Breiðablik,Valur,2,4
+1976,1976-05-15,Keflavík,FH,6,1
+1976,1976-05-16,ÍA,Þróttur R.,1,0
+1976,1976-05-16,Víkingur R.,Fram,2,0
+1976,1976-05-22,Valur,Víkingur R.,3,0
+1976,1976-05-23,FH,ÍA,0,0
+1976,1976-05-23,Fram,KR,1,1
+1976,1976-05-24,Þróttur R.,Keflavík,1,2
+1976,1976-05-27,KR,Valur,1,1
+1976,1976-05-30,Breiðablik,KR,0,0
+1976,1976-05-30,Valur,Keflavík,2,0
+1976,1976-05-31,Fram,ÍA,1,2
+1976,1976-06-04,Þróttur R.,FH,0,2
+1976,1976-06-05,Valur,ÍA,6,1
+1976,1976-06-05,Keflavík,Breiðablik,1,2
+1976,1976-06-07,Fram,FH,2,1
+1976,1976-06-08,KR,Víkingur R.,1,2
+1976,1976-06-10,Fram,Þróttur R.,1,0
+1976,1976-06-12,Valur,FH,5,1
+1976,1976-06-12,ÍA,Breiðablik,2,0
+1976,1976-06-13,Víkingur R.,Keflavík,2,1
+1976,1976-06-15,Víkingur R.,Breiðablik,1,0
+1976,1976-06-19,ÍA,Víkingur R.,0,1
+1976,1976-06-19,KR,Keflavík,1,2
+1976,1976-06-20,FH,Breiðablik,0,1
+1976,1976-06-21,Þróttur R.,Valur,0,6
+1976,1976-06-23,ÍA,Keflavík,4,1
+1976,1976-06-23,FH,KR,0,2
+1976,1976-06-23,Breiðablik,Fram,0,1
+1976,1976-06-24,Þróttur R.,Víkingur R.,0,2
+1976,1976-06-26,ÍA,KR,2,1
+1976,1976-06-27,Keflavík,Fram,0,1
+1976,1976-06-27,Víkingur R.,FH,0,0
+1976,1976-06-27,Breiðablik,Þróttur R.,3,2
+1976,1976-06-28,Valur,Fram,1,1
+1976,1976-06-30,Þróttur R.,KR,1,1
+1976,1976-06-30,FH,Keflavík,0,0
+1976,1976-07-01,Fram,Víkingur R.,3,2
+1976,1976-07-03,ÍA,FH,1,1
+1976,1976-07-04,Valur,Breiðablik,1,1
+1976,1976-07-04,Keflavík,Þróttur R.,2,1
+1976,1976-07-05,KR,Fram,3,4
+1976,1976-07-08,Víkingur R.,Valur,2,3
+1976,1976-07-18,Fram,Keflavík,2,1
+1976,1976-07-19,Valur,KR,2,2
+1976,1976-07-20,Þróttur R.,ÍA,1,1
+1976,1976-07-21,Breiðablik,Víkingur R.,3,1
+1976,1976-07-23,FH,Þróttur R.,1,2
+1976,1976-07-24,ÍA,Fram,1,1
+1976,1976-07-25,KR,Breiðablik,0,1
+1976,1976-07-25,Keflavík,Valur,1,0
+1976,1976-08-05,Víkingur R.,KR,1,2
+1976,1976-08-07,FH,Fram,1,2
+1976,1976-08-07,ÍA,Valur,1,3
+1976,1976-08-08,Breiðablik,Keflavík,3,1
+1976,1976-08-14,Breiðablik,ÍA,0,3
+1976,1976-08-14,Keflavík,Víkingur R.,1,1
+1976,1976-08-15,Þróttur R.,Fram,0,6
+1976,1976-08-16,FH,Valur,0,5
+1976,1976-08-17,KR,ÍA,1,3
+1976,1976-08-18,Þróttur R.,Breiðablik,1,2
+1976,1976-08-19,Fram,Valur,1,1
+1976,1976-08-19,FH,Víkingur R.,1,2
+1976,1976-08-21,Keflavík,KR,1,0
+1976,1976-08-22,Víkingur R.,ÍA,0,3
+1976,1976-08-22,Breiðablik,FH,3,1
+1976,1976-08-23,Valur,Þróttur R.,2,0
+1976,1976-08-29,Víkingur R.,Þróttur R.,3,0
+1976,1976-08-29,Keflavík,ÍA,2,2
+1976,1976-08-30,Fram,Breiðablik,3,0
+1976,1976-08-31,KR,FH,0,1
+1975,1975-05-17,ÍA,KR,0,0
+1975,1975-05-17,FH,Fram,1,0
+1975,1975-05-17,ÍBV,Víkingur R.,0,0
+1975,1975-05-20,Keflavík,Valur,0,0
+1975,1975-05-29,KR,Valur,0,0
+1975,1975-05-31,ÍA,Víkingur R.,1,1
+1975,1975-05-31,ÍBV,FH,1,1
+1975,1975-06-02,Keflavík,Fram,0,1
+1975,1975-06-08,Keflavík,KR,1,0
+1975,1975-06-08,ÍA,FH,7,1
+1975,1975-06-08,Fram,ÍBV,1,0
+1975,1975-06-09,Valur,Víkingur R.,1,0
+1975,1975-06-14,FH,Valur,0,3
+1975,1975-06-14,Víkingur R.,Keflavík,1,0
+1975,1975-06-14,ÍBV,ÍA,3,2
+1975,1975-06-15,Fram,KR,2,0
+1975,1975-06-19,Valur,ÍBV,2,2
+1975,1975-06-20,KR,Víkingur R.,2,0
+1975,1975-06-21,Keflavík,FH,2,2
+1975,1975-06-21,ÍA,Fram,1,0
+1975,1975-06-26,Fram,Víkingur R.,1,0
+1975,1975-06-28,ÍA,Valur,2,1
+1975,1975-06-28,ÍBV,Keflavík,0,1
+1975,1975-06-29,FH,KR,1,0
+1975,1975-06-30,ÍA,Keflavík,1,0
+1975,1975-07-01,Valur,Fram,1,3
+1975,1975-07-02,Keflavík,ÍA,1,2
+1975,1975-07-04,Víkingur R.,FH,1,0
+1975,1975-07-05,ÍBV,KR,1,2
+1975,1975-07-10,Valur,Keflavík,1,2
+1975,1975-07-12,Víkingur R.,ÍBV,6,1
+1975,1975-07-13,KR,ÍA,0,1
+1975,1975-07-14,Fram,FH,2,0
+1975,1975-07-19,FH,ÍBV,0,0
+1975,1975-07-20,Víkingur R.,ÍA,2,2
+1975,1975-07-21,Valur,KR,2,2
+1975,1975-07-22,Fram,Keflavík,1,1
+1975,1975-07-25,Víkingur R.,Valur,1,2
+1975,1975-07-26,ÍBV,Fram,2,0
+1975,1975-07-26,FH,ÍA,1,0
+1975,1975-07-27,KR,Keflavík,2,4
+1975,1975-08-08,Valur,FH,1,2
+1975,1975-08-09,Keflavík,Víkingur R.,0,1
+1975,1975-08-09,ÍA,ÍBV,4,0
+1975,1975-08-10,KR,Fram,2,3
+1975,1975-08-16,ÍBV,Valur,1,2
+1975,1975-08-16,FH,Keflavík,1,1
+1975,1975-08-17,Fram,ÍA,3,6
+1975,1975-08-18,Víkingur R.,KR,2,1
+1975,1975-08-23,Keflavík,ÍBV,0,0
+1975,1975-08-23,KR,FH,1,1
+1975,1975-08-24,Víkingur R.,Fram,0,1
+1975,1975-08-25,Valur,ÍA,1,0
+1975,1975-08-30,FH,Víkingur R.,0,2
+1975,1975-08-30,KR,ÍBV,1,0
+1975,1975-08-31,Fram,Valur,2,3
+1974,1974-05-18,Víkingur R.,ÍBV,1,1
+1974,1974-05-18,ÍA,Valur,0,0
+1974,1974-05-18,Keflavík,Fram,2,1
+1974,1974-05-19,KR,ÍBA,0,1
+1974,1974-05-25,ÍA,ÍBA,4,0
+1974,1974-05-25,KR,Keflavík,1,0
+1974,1974-05-25,ÍBV,Valur,1,0
+1974,1974-05-30,Valur,Fram,2,2
+1974,1974-05-31,Víkingur R.,KR,1,2
+1974,1974-06-01,Keflavík,ÍBA,3,0
+1974,1974-06-01,ÍBV,ÍA,1,2
+1974,1974-06-04,Fram,Víkingur R.,1,2
+1974,1974-06-08,ÍA,Keflavík,3,1
+1974,1974-06-08,Fram,ÍBV,1,1
+1974,1974-06-08,ÍBA,Víkingur R.,0,2
+1974,1974-06-10,KR,Valur,2,2
+1974,1974-06-13,Fram,ÍA,1,1
+1974,1974-06-15,Keflavík,Víkingur R.,0,0
+1974,1974-06-15,ÍBV,KR,0,0
+1974,1974-06-15,Valur,ÍBA,3,3
+1974,1974-06-20,ÍA,ÍBV,2,1
+1974,1974-06-20,Víkingur R.,ÍA,0,1
+1974,1974-06-22,Keflavík,Valur,0,0
+1974,1974-06-22,ÍBA,ÍBV,0,3
+1974,1974-06-24,KR,Fram,0,0
+1974,1974-06-27,Valur,Víkingur R.,2,1
+1974,1974-06-28,Fram,ÍBA,2,3
+1974,1974-06-28,ÍA,KR,1,1
+1974,1974-06-29,ÍBV,Keflavík,1,3
+1974,1974-07-06,ÍBA,KR,3,2
+1974,1974-07-06,Valur,ÍA,0,1
+1974,1974-07-06,ÍBV,Víkingur R.,1,1
+1974,1974-07-10,Fram,Keflavík,0,1
+1974,1974-07-12,Valur,ÍBV,2,2
+1974,1974-07-13,ÍBA,ÍA,1,1
+1974,1974-07-14,Keflavík,KR,5,1
+1974,1974-07-15,Víkingur R.,Fram,0,1
+1974,1974-07-18,Fram,Valur,2,1
+1974,1974-07-19,KR,Víkingur R.,3,1
+1974,1974-07-20,ÍBA,Keflavík,0,2
+1974,1974-07-25,Valur,KR,2,0
+1974,1974-07-27,Keflavík,ÍA,1,1
+1974,1974-07-27,ÍBV,Fram,2,2
+1974,1974-07-27,Víkingur R.,ÍBA,1,1
+1974,1974-08-08,Víkingur R.,Keflavík,2,2
+1974,1974-08-10,ÍA,Fram,3,1
+1974,1974-08-10,KR,ÍBV,2,0
+1974,1974-08-10,ÍBA,Valur,0,1
+1974,1974-08-23,Fram,KR,1,1
+1974,1974-08-24,ÍA,Víkingur R.,2,1
+1974,1974-08-25,Valur,Keflavík,1,3
+1974,1974-08-27,ÍBV,ÍBA,5,3
+1974,1974-08-31,ÍBA,Fram,1,4
+1974,1974-08-31,KR,ÍA,1,2
+1974,1974-08-31,Keflavík,ÍBV,1,1
+1974,1974-09-01,Víkingur R.,Valur,1,2
+1973,1973-05-19,Fram,ÍBA,0,0
+1973,1973-05-20,Keflavík,ÍA,4,1
+1973,1973-05-20,Breiðablik,Valur,1,3
+1973,1973-05-21,KR,ÍBV,2,1
+1973,1973-05-26,Valur,Keflavík,0,4
+1973,1973-05-26,ÍBV,Fram,1,0
+1973,1973-05-26,ÍA,KR,1,1
+1973,1973-05-27,Breiðablik,ÍBA,4,0
+1973,1973-06-02,Keflavík,ÍBA,1,0
+1973,1973-06-02,KR,Breiðablik,2,0
+1973,1973-06-03,KR,Valur,0,2
+1973,1973-06-04,Fram,Breiðablik,2,1
+1973,1973-06-13,ÍBV,ÍA,1,0
+1973,1973-06-13,KR,Fram,0,2
+1973,1973-06-16,ÍA,"",10,1
+1973,1973-06-16,ÍBA,Valur,1,2
+1973,1973-06-16,ÍBV,Keflavík,0,1
+1973,1973-06-23,Breiðablik,ÍBV,1,3
+1973,1973-06-24,ÍBA,ÍA,2,6
+1973,1973-06-26,Keflavík,KR,2,0
+1973,1973-06-30,ÍBV,ÍBA,4,0
+1973,1973-06-30,ÍA,Valur,0,1
+1973,1973-07-01,Keflavík,Fram,3,1
+1973,1973-07-06,Breiðablik,Keflavík,0,3
+1973,1973-07-07,Valur,ÍBV,6,0
+1973,1973-07-07,ÍA,Fram,3,1
+1973,1973-07-07,ÍBA,KR,2,1
+1973,1973-07-22,ÍBA,Fram,3,1
+1973,1973-07-22,Valur,Breiðablik,6,3
+1973,1973-07-22,ÍBV,KR,6,3
+1973,1973-07-22,ÍA,Keflavík,1,2
+1973,1973-07-28,Fram,ÍBV,0,1
+1973,1973-07-28,Keflavík,Valur,4,0
+1973,1973-07-29,KR,ÍA,3,1
+1973,1973-07-29,ÍBA,Breiðablik,3,1
+1973,1973-08-08,ÍA,ÍBA,0,2
+1973,1973-08-11,ÍBA,Keflavík,0,0
+1973,1973-08-11,ÍA,ÍBV,1,0
+1973,1973-08-11,Breiðablik,Fram,1,2
+1973,1973-08-13,Valur,KR,2,0
+1973,1973-08-18,Fram,KR,3,1
+1973,1973-08-18,Keflavík,ÍBV,1,0
+1973,1973-08-18,Valur,ÍBA,2,0
+1973,1973-08-19,Breiðablik,ÍA,3,3
+1973,1973-09-01,KR,Keflavík,2,3
+1973,1973-09-01,ÍBV,Breiðablik,3,2
+1973,1973-09-02,Valur,Fram,4,1
+1973,1973-09-07,Fram,ÍA,3,2
+1973,1973-09-08,Breiðablik,KR,1,1
+1973,1973-09-08,ÍBA,ÍBV,1,6
+1973,1973-09-09,Fram,Keflavík,0,1
+1973,1973-09-09,Valur,ÍA,3,3
+1973,1973-09-14,KR,ÍBA,1,1
+1973,1973-09-15,ÍBV,Valur,1,1
+1973,1973-09-16,Keflavík,Breiðablik,4,4
+1973,,Fram,Valur,2,2
+1972,1972-05-28,Valur,KR,1,2
+1972,1972-05-28,ÍA,Keflavík,1,3
+1972,1972-05-28,ÍBV,Breiðablik,2,3
+1972,1972-05-29,Víkingur R.,Fram,0,1
+1972,1972-05-31,Breiðablik,KR,0,3
+1972,1972-06-03,Fram,ÍBV,2,0
+1972,1972-06-04,Keflavík,Víkingur R.,0,0
+1972,1972-06-04,KR,ÍA,0,2
+1972,1972-06-05,Breiðablik,Valur,2,2
+1972,1972-06-10,ÍBV,Víkingur R.,2,0
+1972,1972-06-10,ÍA,Breiðablik,3,0
+1972,1972-06-12,Valur,Fram,1,1
+1972,1972-06-13,KR,Keflavík,1,3
+1972,1972-06-15,Víkingur R.,Valur,0,4
+1972,1972-06-18,Keflavík,ÍBV,3,3
+1972,1972-06-19,Fram,ÍA,3,0
+1972,1972-06-23,Breiðablik,Keflavík,0,0
+1972,1972-06-24,ÍA,Víkingur R.,3,0
+1972,1972-07-06,Fram,Breiðablik,3,1
+1972,1972-07-06,Keflavík,Valur,3,3
+1972,1972-07-08,Víkingur R.,KR,0,2
+1972,1972-07-08,ÍBV,ÍA,2,3
+1972,1972-07-16,ÍA,Valur,3,0
+1972,1972-07-16,Keflavík,Fram,2,3
+1972,1972-07-17,Breiðablik,Víkingur R.,1,0
+1972,1972-07-19,KR,Fram,2,2
+1972,1972-07-21,Valur,Breiðablik,0,1
+1972,1972-07-22,ÍA,KR,3,2
+1972,1972-07-22,ÍBV,Fram,4,4
+1972,1972-07-25,Víkingur R.,Keflavík,1,0
+1972,1972-07-29,Keflavík,KR,2,1
+1972,1972-07-29,Víkingur R.,ÍBV,1,2
+1972,1972-08-09,Breiðablik,ÍA,1,0
+1972,1972-08-12,ÍBV,Keflavík,6,1
+1972,1972-08-12,ÍA,Fram,2,3
+1972,1972-08-14,KR,Breiðablik,0,0
+1972,1972-08-15,Valur,Víkingur R.,2,1
+1972,1972-08-19,Víkingur R.,Breiðablik,2,1
+1972,1972-08-20,ÍBV,KR,2,1
+1972,1972-08-20,Valur,ÍA,2,2
+1972,1972-08-21,Fram,Keflavík,1,1
+1972,1972-08-24,KR,ÍBV,0,4
+1972,1972-08-27,Fram,Víkingur R.,3,3
+1972,1972-08-27,Keflavík,ÍA,2,0
+1972,1972-08-29,KR,Valur,2,3
+1972,1972-08-30,Breiðablik,ÍBV,2,5
+1972,1972-08-31,Keflavík,Breiðablik,3,4
+1972,1972-09-02,ÍBV,Valur,1,1
+1972,1972-09-02,Víkingur R.,ÍA,0,1
+1972,1972-09-03,Fram,KR,4,0
+1972,1972-09-06,Valur,ÍBV,0,0
+1972,1972-09-09,ÍA,ÍBV,1,4
+1972,1972-09-09,Valur,Keflavík,0,3
+1972,1972-09-10,KR,Víkingur R.,1,0
+1972,1972-09-14,Breiðablik,Fram,0,1
+1972,1972-09-23,Fram,Valur,1,1
+1971,1971-05-22,KR,ÍBA,2,3
+1971,1971-05-22,ÍBV,Valur,1,1
+1971,1971-05-23,Fram,Breiðablik,2,0
+1971,1971-05-23,Keflavík,ÍA,2,1
+1971,1971-06-05,KR,ÍBV,1,0
+1971,1971-06-05,ÍA,ÍBA,1,0
+1971,1971-06-06,Breiðablik,Valur,2,0
+1971,1971-06-07,Fram,Keflavík,2,1
+1971,1971-06-10,Valur,KR,2,0
+1971,1971-06-12,ÍBV,ÍA,5,3
+1971,1971-06-12,Keflavík,Breiðablik,4,1
+1971,1971-06-20,Keflavík,ÍBA,4,0
+1971,1971-06-20,ÍA,Valur,1,3
+1971,1971-06-21,ÍBV,Fram,4,1
+1971,1971-06-21,Fram,ÍBV,3,1
+1971,1971-06-23,Breiðablik,KR,1,0
+1971,1971-06-26,ÍBV,Keflavík,1,1
+1971,1971-06-27,ÍBA,Breiðablik,2,0
+1971,1971-06-27,KR,ÍA,1,3
+1971,1971-06-28,Valur,Fram,5,3
+1971,1971-07-01,Keflavík,Valur,2,2
+1971,1971-07-03,ÍBA,ÍBV,1,4
+1971,1971-07-04,Breiðablik,ÍA,0,5
+1971,1971-07-05,Fram,KR,2,0
+1971,1971-07-07,ÍBV,Breiðablik,6,0
+1971,1971-07-10,ÍA,Fram,0,4
+1971,1971-07-11,Valur,ÍBA,0,5
+1971,1971-07-12,KR,Keflavík,1,1
+1971,1971-07-17,Breiðablik,Keflavík,0,3
+1971,1971-07-17,ÍA,ÍBV,1,3
+1971,1971-07-18,Fram,ÍBA,5,2
+1971,1971-07-19,KR,Valur,1,2
+1971,1971-07-24,ÍBA,ÍA,1,2
+1971,1971-07-24,ÍBV,KR,2,1
+1971,1971-07-25,Keflavík,Fram,3,0
+1971,1971-07-26,Valur,Breiðablik,4,2
+1971,1971-08-07,ÍBA,KR,1,2
+1971,1971-08-08,ÍA,Keflavík,3,1
+1971,1971-08-09,Breiðablik,Fram,2,1
+1971,1971-08-10,Valur,ÍBV,0,1
+1971,1971-08-14,ÍBA,Fram,2,2
+1971,1971-08-15,Valur,ÍA,2,3
+1971,1971-08-15,ÍBA,Keflavík,2,3
+1971,1971-08-16,KR,Breiðablik,0,0
+1971,1971-08-21,ÍA,KR,1,1
+1971,1971-08-21,Keflavík,ÍBV,5,3
+1971,1971-08-22,Breiðablik,ÍBA,1,0
+1971,1971-08-23,Fram,Valur,1,2
+1971,1971-08-26,KR,Fram,3,2
+1971,1971-08-28,ÍBV,ÍBA,5,1
+1971,1971-08-29,ÍA,Breiðablik,3,3
+1971,1971-08-29,Valur,Keflavík,1,2
+1971,1971-09-04,Breiðablik,ÍBV,0,1
+1971,1971-09-05,ÍBA,Valur,1,0
+1971,1971-09-05,Keflavík,KR,0,0
+1971,1971-09-12,Fram,ÍA,1,0
+1970,1970-05-23,KR,ÍBA,1,1
+1970,1970-05-24,Víkingur R.,ÍA,2,0
+1970,1970-05-24,ÍBV,Valur,2,3
+1970,1970-05-25,Keflavík,Fram,2,1
+1970,1970-05-29,KR,Víkingur R.,1,0
+1970,1970-05-30,Valur,ÍA,1,1
+1970,1970-06-06,ÍA,KR,0,0
+1970,1970-06-07,Víkingur R.,Keflavík,0,3
+1970,1970-06-08,Fram,Valur,1,0
+1970,1970-06-14,Fram,ÍA,1,2
+1970,1970-06-14,Keflavík,KR,0,0
+1970,1970-06-27,KR,ÍBV,4,0
+1970,1970-06-28,ÍBA,Fram,1,2
+1970,1970-06-28,ÍA,Keflavík,4,2
+1970,1970-06-29,Víkingur R.,Valur,3,1
+1970,1970-07-14,Fram,Víkingur R.,3,2
+1970,1970-07-15,Valur,KR,0,1
+1970,1970-07-15,ÍBV,Keflavík,2,1
+1970,1970-07-15,ÍBA,ÍA,1,3
+1970,1970-07-18,ÍBV,Víkingur R.,2,0
+1970,1970-07-23,KR,Fram,1,2
+1970,1970-07-25,Keflavík,Valur,2,0
+1970,1970-07-25,ÍA,ÍBV,4,1
+1970,1970-07-26,Víkingur R.,ÍBA,1,4
+1970,1970-07-30,Valur,ÍBV,0,1
+1970,1970-07-30,Keflavík,ÍBA,1,0
+1970,1970-08-08,ÍA,Víkingur R.,2,0
+1970,1970-08-09,Fram,Keflavík,1,2
+1970,1970-08-09,ÍBA,KR,6,3
+1970,1970-08-12,ÍBV,Fram,0,2
+1970,1970-08-13,KR,Valur,1,1
+1970,1970-08-15,Keflavík,ÍBV,1,0
+1970,1970-08-16,ÍA,ÍBA,0,0
+1970,1970-08-17,Víkingur R.,Fram,1,5
+1970,1970-08-19,ÍBA,ÍBV,1,1
+1970,1970-08-20,Valur,Fram,3,1
+1970,1970-08-22,ÍBV,ÍBA,0,3
+1970,1970-08-22,Keflavík,Víkingur R.,1,0
+1970,1970-08-23,KR,ÍA,1,2
+1970,1970-08-25,Valur,ÍBA,6,5
+1970,1970-08-27,Víkingur R.,KR,2,1
+1970,1970-08-29,Fram,ÍBV,0,2
+1970,1970-08-30,ÍBA,Keflavík,1,1
+1970,1970-08-30,ÍA,Valur,2,2
+1970,1970-09-05,Víkingur R.,ÍBV,4,6
+1970,1970-09-05,ÍA,Fram,2,0
+1970,1970-09-06,ÍBA,Valur,2,2
+1970,1970-09-08,KR,Keflavík,2,0
+1970,1970-09-09,ÍBA,Víkingur R.,6,2
+1970,1970-09-12,Keflavík,ÍA,1,2
+1970,1970-09-12,ÍBV,KR,0,2
+1970,1970-09-13,Fram,ÍBA,7,1
+1970,1970-09-19,ÍBV,ÍA,3,0
+1970,1970-09-19,Fram,KR,2,0
+1970,1970-09-20,Valur,Víkingur R.,2,1
+1970,1970-09-27,Valur,Keflavík,2,1
+1969,1969-05-26,Keflavík,ÍA,1,1
+1969,1969-05-27,Valur,Fram,2,0
+1969,1969-05-31,Keflavík,ÍBV,2,4
+1969,1969-05-31,ÍA,KR,4,0
+1969,1969-06-01,Fram,ÍBA,1,1
+1969,1969-06-04,KR,Fram,6,1
+1969,1969-06-07,ÍBV,Valur,1,1
+1969,1969-06-08,KR,Keflavík,0,3
+1969,1969-06-08,ÍBA,ÍA,1,2
+1969,1969-06-12,Valur,Keflavík,0,2
+1969,1969-06-14,ÍBV,ÍA,2,3
+1969,1969-06-29,ÍBA,Valur,2,2
+1969,1969-06-30,Fram,Keflavík,0,1
+1969,1969-07-05,ÍA,Fram,0,1
+1969,1969-07-05,Keflavík,ÍBA,2,0
+1969,1969-07-10,ÍBV,ÍBA,1,1
+1969,1969-07-10,Valur,KR,1,1
+1969,1969-07-13,Fram,ÍBV,1,1
+1969,1969-07-13,ÍBA,KR,2,1
+1969,1969-07-13,ÍA,Valur,2,3
+1969,1969-07-30,ÍBV,Keflavík,3,2
+1969,1969-08-10,KR,ÍA,3,1
+1969,1969-08-10,ÍBA,Fram,1,1
+1969,1969-08-13,Keflavík,Fram,2,0
+1969,1969-08-14,KR,ÍBV,1,1
+1969,1969-08-17,Valur,ÍBV,3,1
+1969,1969-08-18,Keflavík,KR,2,1
+1969,1969-08-21,ÍBA,Keflavík,1,0
+1969,1969-08-24,Fram,ÍA,2,2
+1969,1969-08-25,KR,Valur,6,2
+1969,1969-08-27,ÍA,ÍBA,3,1
+1969,1969-08-28,Fram,Valur,1,0
+1969,1969-09-03,Valur,ÍBA,1,1
+1969,1969-09-04,ÍBV,KR,3,3
+1969,1969-09-06,Valur,ÍA,3,0
+1969,1969-09-07,KR,ÍBA,2,0
+1969,1969-09-09,ÍBV,Fram,0,0
+1969,1969-09-13,ÍA,Keflavík,2,1
+1969,1969-09-14,Fram,KR,0,0
+1969,1969-09-14,ÍBA,ÍBV,1,2
+1969,1969-09-20,ÍA,ÍBV,2,1
+1969,1969-09-21,Keflavík,Valur,2,0
+1968,1968-05-25,Keflavík,ÍBA,0,1
+1968,1968-05-25,ÍBV,Valur,3,1
+1968,1968-06-04,Fram,KR,2,2
+1968,1968-06-09,KR,ÍBA,0,3
+1968,1968-06-10,Keflavík,Valur,0,3
+1968,1968-06-13,ÍBV,Fram,2,4
+1968,1968-06-13,Valur,KR,2,2
+1968,1968-06-18,Fram,ÍBA,1,1
+1968,1968-06-24,Fram,Valur,2,0
+1968,1968-06-25,KR,Keflavík,6,0
+1968,1968-06-25,ÍBA,ÍBV,3,0
+1968,1968-07-06,Keflavík,Fram,1,1
+1968,1968-07-07,Valur,ÍBA,1,1
+1968,1968-07-07,ÍBV,KR,0,3
+1968,1968-07-14,ÍBA,Keflavík,1,1
+1968,1968-07-14,Valur,ÍBV,4,1
+1968,1968-07-15,KR,Fram,3,1
+1968,1968-07-25,ÍBV,Keflavík,2,0
+1968,1968-07-28,ÍBA,Valur,2,2
+1968,1968-07-29,Fram,Keflavík,2,1
+1968,1968-08-06,KR,ÍBV,4,3
+1968,1968-08-11,ÍBA,KR,2,3
+1968,1968-08-12,Valur,Keflavík,0,0
+1968,1968-08-14,Fram,ÍBV,0,0
+1968,1968-08-18,ÍBA,Fram,1,2
+1968,1968-08-18,Keflavík,ÍBV,0,1
+1968,1968-08-19,KR,Valur,2,1
+1968,1968-08-24,ÍBV,ÍBA,4,2
+1968,1968-08-25,Keflavík,KR,2,2
+1968,1968-08-26,Valur,Fram,4,2
+1967,1967-05-27,Keflavík,ÍBA,2,1
+1967,1967-06-04,ÍBA,Fram,1,2
+1967,1967-06-04,Valur,ÍA,1,0
+1967,1967-06-05,KR,Keflavík,1,0
+1967,1967-06-10,ÍA,Keflavík,0,1
+1967,1967-06-10,Valur,ÍBA,2,1
+1967,1967-06-13,Fram,Valur,2,2
+1967,1967-06-14,ÍA,KR,1,3
+1967,1967-06-18,KR,ÍBA,1,3
+1967,1967-06-18,ÍA,Fram,1,2
+1967,1967-06-18,Keflavík,Valur,0,2
+1967,1967-06-26,KR,Valur,5,1
+1967,1967-06-27,Fram,Keflavík,1,1
+1967,1967-06-27,ÍBA,ÍA,4,1
+1967,1967-07-09,ÍA,ÍBA,1,5
+1967,1967-07-09,Keflavík,Fram,0,0
+1967,1967-07-10,Valur,KR,4,2
+1967,1967-07-16,ÍBA,Keflavík,3,1
+1967,1967-07-16,KR,ÍA,0,2
+1967,1967-07-17,Valur,Fram,1,1
+1967,1967-07-23,Fram,ÍBA,0,1
+1967,1967-07-23,Keflavík,KR,2,0
+1967,1967-07-23,ÍA,Valur,1,2
+1967,1967-07-27,Fram,KR,2,1
+1967,1967-07-30,Keflavík,ÍA,0,1
+1967,1967-08-02,ÍBA,Valur,2,1
+1967,1967-08-28,KR,Fram,2,3
+1967,1967-09-03,ÍBA,KR,0,0
+1967,1967-09-09,Fram,ÍA,2,1
+1967,1967-09-10,Valur,Keflavík,4,2
+1966,1966-05-30,ÍA,Keflavík,2,1
+1966,1966-05-30,Þróttur R.,ÍBA,1,1
+1966,1966-05-31,KR,Valur,1,0
+1966,1966-06-14,Þróttur R.,Keflavík,1,1
+1966,1966-06-15,ÍA,Valur,1,1
+1966,1966-06-19,Valur,ÍBA,3,0
+1966,1966-06-20,KR,ÍA,1,1
+1966,1966-06-23,Þróttur R.,Valur,1,4
+1966,1966-06-26,Keflavík,KR,2,1
+1966,1966-06-26,ÍBA,ÍA,2,1
+1966,1966-07-10,ÍBA,Keflavík,0,5
+1966,1966-07-16,KR,ÍBA,2,2
+1966,1966-07-22,Valur,Keflavík,4,3
+1966,1966-07-24,ÍA,Þróttur R.,3,1
+1966,1966-07-28,ÍBA,Þróttur R.,5,1
+1966,1966-07-28,Keflavík,Valur,3,2
+1966,1966-08-04,Valur,KR,3,2
+1966,1966-08-07,Valur,ÍA,1,0
+1966,1966-08-07,Keflavík,ÍBA,1,1
+1966,1966-08-08,Þróttur R.,KR,1,5
+1966,1966-08-11,Þróttur R.,ÍA,1,1
+1966,1966-08-11,ÍBA,KR,1,0
+1966,1966-08-21,ÍA,KR,1,2
+1966,1966-08-21,Keflavík,Þróttur R.,1,0
+1966,1966-08-28,ÍBA,Valur,1,1
+1966,1966-08-28,Keflavík,ÍA,4,1
+1966,1966-08-28,KR,Þróttur R.,5,0
+1966,1966-09-04,ÍA,ÍBA,2,7
+1966,1966-09-11,KR,Keflavík,0,2
+1966,1966-09-14,Valur,Þróttur R.,1,0
+1965,1965-05-20,ÍA,Fram,2,3
+1965,1965-05-23,Keflavík,ÍA,2,1
+1965,1965-05-23,ÍBA,Fram,2,1
+1965,1965-05-30,Valur,ÍBA,4,2
+1965,1965-06-01,Keflavík,KR,1,1
+1965,1965-06-04,Valur,KR,2,2
+1965,1965-06-07,ÍBA,ÍA,2,2
+1965,1965-06-08,Fram,KR,1,2
+1965,1965-06-10,Valur,Keflavík,2,0
+1965,1965-06-13,Valur,Fram,2,1
+1965,1965-06-13,Keflavík,ÍBA,0,1
+1965,1965-06-14,KR,ÍA,2,3
+1965,1965-06-20,ÍBA,KR,1,3
+1965,1965-06-20,ÍA,Valur,3,2
+1965,1965-06-20,ÍBA,Valur,1,3
+1965,1965-06-21,Fram,Keflavík,1,1
+1965,1965-07-08,Keflavík,Fram,5,0
+1965,1965-07-12,KR,Valur,2,0
+1965,1965-07-18,KR,ÍBA,5,0
+1965,1965-07-19,Fram,ÍA,0,1
+1965,1965-07-30,KR,Fram,1,0
+1965,1965-08-12,Valur,ÍA,2,5
+1965,1965-08-15,Fram,ÍBA,1,2
+1965,1965-08-15,Keflavík,Valur,4,3
+1965,1965-08-21,ÍA,KR,4,1
+1965,1965-08-22,ÍBA,Keflavík,2,0
+1965,1965-08-28,ÍA,ÍBA,2,0
+1965,1965-09-18,ÍA,Keflavík,1,2
+1965,1965-09-22,Fram,Valur,2,1
+1965,1965-09-26,KR,Keflavík,3,3
+1964,1964-05-20,Valur,KR,1,2
+1964,1964-05-20,ÍA,Þróttur R.,3,1
+1964,1964-05-20,Keflavík,Fram,6,5
+1964,1964-05-27,Þróttur R.,Valur,4,2
+1964,1964-05-28,Fram,ÍA,2,3
+1964,1964-05-31,Keflavík,ÍA,2,0
+1964,1964-05-31,Valur,Fram,7,3
+1964,1964-06-10,KR,Þróttur R.,4,0
+1964,1964-06-14,ÍA,KR,4,2
+1964,1964-06-14,Valur,Keflavík,1,4
+1964,1964-06-19,Fram,Þróttur R.,1,0
+1964,1964-06-21,Valur,ÍA,3,1
+1964,1964-06-22,KR,Fram,1,0
+1964,1964-06-23,Keflavík,Þróttur R.,0,0
+1964,1964-06-28,ÍA,Valur,3,1
+1964,1964-07-02,Fram,Keflavík,0,0
+1964,1964-07-05,Þróttur R.,ÍA,2,7
+1964,1964-07-06,KR,Valur,0,1
+1964,1964-07-12,ÍA,Fram,1,4
+1964,1964-07-13,Valur,Þróttur R.,2,2
+1964,1964-07-15,KR,Keflavík,3,2
+1964,1964-07-29,Fram,Valur,0,0
+1964,1964-07-30,Þróttur R.,Keflavík,1,2
+1964,1964-08-27,Fram,KR,0,0
+1964,1964-08-30,ÍA,Keflavík,1,3
+1964,1964-09-05,Keflavík,Valur,5,1
+1964,1964-09-06,Þróttur R.,KR,2,2
+1964,1964-09-12,Þróttur R.,Fram,2,1
+1964,1964-09-20,Keflavík,KR,1,1
+1964,1964-09-27,KR,ÍA,1,4
+1963,1963-05-23,ÍA,KR,2,1
+1963,1963-05-23,Fram,ÍBA,1,0
+1963,1963-05-26,ÍA,ÍBA,3,1
+1963,1963-05-26,Fram,Keflavík,1,0
+1963,1963-05-27,Valur,KR,3,0
+1963,1963-06-01,ÍA,Valur,1,2
+1963,1963-06-03,Keflavík,ÍBA,2,4
+1963,1963-06-14,Fram,Valur,1,0
+1963,1963-06-16,Keflavík,ÍA,2,1
+1963,1963-06-20,KR,Fram,2,0
+1963,1963-06-23,Valur,ÍBA,4,4
+1963,1963-06-23,ÍA,Fram,5,2
+1963,1963-06-24,KR,Keflavík,3,2
+1963,1963-06-28,KR,ÍBA,2,2
+1963,1963-06-29,Fram,ÍA,2,2
+1963,1963-06-30,Keflavík,KR,1,2
+1963,1963-06-30,ÍBA,Valur,2,1
+1963,1963-07-06,ÍA,Keflavík,4,2
+1963,1963-07-14,ÍBA,Fram,1,2
+1963,1963-07-14,KR,ÍA,3,1
+1963,1963-07-21,Keflavík,Fram,2,0
+1963,1963-07-21,ÍBA,ÍA,1,3
+1963,1963-07-28,Valur,Keflavík,3,1
+1963,1963-08-01,Keflavík,Valur,1,1
+1963,1963-08-11,ÍBA,Keflavík,0,2
+1963,1963-08-11,KR,Valur,7,2
+1963,1963-08-18,Valur,ÍA,1,3
+1963,1963-08-19,Fram,KR,2,5
+1963,1963-08-25,Valur,Fram,3,0
+1963,1963-08-25,ÍBA,KR,1,2
+1962,1962-05-26,ÍBÍ,KR,0,2
+1962,1962-05-26,ÍA,Valur,1,1
+1962,1962-05-26,Fram,ÍBA,2,0
+1962,1962-05-31,Valur,KR,2,0
+1962,1962-05-31,ÍA,ÍBA,5,4
+1962,1962-06-02,ÍBÍ,Fram,0,6
+1962,1962-06-03,Valur,ÍBA,0,1
+1962,1962-06-05,Fram,KR,1,1
+1962,1962-06-08,Valur,Fram,1,0
+1962,1962-06-11,ÍBÍ,ÍA,0,6
+1962,1962-06-20,Fram,Valur,1,1
+1962,1962-06-22,KR,ÍBÍ,4,0
+1962,1962-06-24,ÍA,ÍBÍ,0,0
+1962,1962-06-24,ÍBA,Valur,1,0
+1962,1962-06-25,KR,Fram,2,2
+1962,1962-07-01,ÍBA,ÍBÍ,5,1
+1962,1962-07-14,ÍBÍ,Valur,0,4
+1962,1962-07-15,ÍA,Fram,0,1
+1962,1962-07-15,KR,ÍBA,4,1
+1962,1962-07-22,ÍA,KR,2,1
+1962,1962-07-22,ÍBÍ,ÍBA,0,5
+1962,1962-07-25,ÍBA,ÍA,1,3
+1962,1962-08-15,Valur,KR,2,2
+1962,1962-08-17,Fram,ÍBÍ,2,0
+1962,1962-08-19,Valur,ÍBÍ,2,1
+1962,1962-08-19,ÍBA,KR,1,1
+1962,1962-08-20,Fram,ÍA,0,0
+1962,1962-09-09,Valur,ÍA,4,1
+1962,1962-09-09,ÍBA,Fram,2,2
+1962,1962-09-29,KR,ÍA,4,4
+1961,1961-05-28,KR,ÍBA,6,3
+1961,1961-05-28,ÍBH,ÍA,0,2
+1961,1961-05-29,Valur,Fram,1,0
+1961,1961-06-04,ÍA,Fram,2,0
+1961,1961-06-25,Fram,ÍBH,3,0
+1961,1961-06-26,KR,Valur,3,2
+1961,1961-06-30,Valur,ÍBA,2,2
+1961,1961-07-02,ÍA,Valur,1,0
+1961,1961-07-02,KR,Fram,0,0
+1961,1961-07-09,ÍBA,Fram,2,1
+1961,1961-07-13,Valur,ÍBH,4,0
+1961,1961-07-14,ÍA,ÍBA,4,1
+1961,1961-07-16,Valur,ÍA,3,1
+1961,1961-07-17,KR,Fram,2,0
+1961,1961-07-19,ÍA,Fram,2,1
+1961,1961-07-23,ÍA,ÍBH,1,1
+1961,1961-07-23,ÍBA,KR,0,5
+1961,1961-07-24,Valur,Fram,1,1
+1961,1961-07-26,KR,ÍBH,7,0
+1961,1961-07-30,ÍBA,Fram,6,1
+1961,1961-07-30,ÍBH,Valur,0,2
+1961,1961-08-02,KR,Valur,5,2
+1961,1961-08-10,ÍBH,Fram,1,4
+1961,1961-08-10,ÍA,KR,3,1
+1961,1961-08-13,ÍBA,ÍA,0,1
+1961,1961-08-13,ÍBH,KR,1,2
+1961,1961-08-15,ÍBH,ÍBA,1,3
+1961,1961-08-20,ÍBA,Valur,0,1
+1961,1961-09-02,ÍBA,ÍBH,6,1
+1961,1961-09-10,KR,ÍA,4,0
+1960,1960-05-26,Valur,Keflavík,2,2
+1960,1960-05-29,Valur,ÍA,2,2
+1960,1960-05-29,Keflavík,Fram,0,2
+1960,1960-06-12,ÍBA,Keflavík,3,1
+1960,1960-06-15,Fram,KR,3,2
+1960,1960-06-19,ÍBA,ÍA,1,3
+1960,1960-06-19,Valur,Fram,1,2
+1960,1960-06-19,Keflavík,KR,0,5
+1960,1960-06-26,ÍBA,Valur,2,3
+1960,1960-07-03,ÍA,Keflavík,3,0
+1960,1960-07-03,KR,Valur,6,0
+1960,1960-07-10,Fram,ÍA,3,3
+1960,1960-07-15,Fram,ÍBA,3,2
+1960,1960-07-17,ÍA,KR,3,5
+1960,1960-07-17,Keflavík,ÍBA,5,2
+1960,1960-07-24,Fram,Valur,2,2
+1960,1960-07-24,Keflavík,ÍA,1,4
+1960,1960-08-12,Valur,ÍBA,2,1
+1960,1960-08-14,Fram,Keflavík,2,4
+1960,1960-08-14,ÍA,ÍBA,7,1
+1960,1960-08-17,Valur,KR,0,7
+1960,1960-08-21,KR,ÍBA,3,5
+1960,1960-08-21,Keflavík,Valur,0,1
+1960,1960-08-21,ÍA,Fram,5,1
+1960,1960-08-24,KR,Fram,0,0
+1960,1960-08-28,ÍBA,Fram,6,3
+1960,1960-08-28,KR,Keflavík,8,1
+1960,1960-08-28,ÍA,Valur,1,1
+1960,1960-09-04,ÍBA,KR,2,5
+1960,1960-09-25,KR,ÍA,0,1
+1959,1959-05-26,Valur,Keflavík,2,1
+1959,1959-05-31,ÍA,Þróttur R.,2,1
+1959,1959-05-31,KR,Keflavík,3,2
+1959,1959-06-10,KR,Þróttur R.,5,0
+1959,1959-06-11,Valur,Fram,0,0
+1959,1959-06-14,Keflavík,ÍA,2,3
+1959,1959-06-14,KR,Fram,7,0
+1959,1959-06-15,Þróttur R.,Valur,0,3
+1959,1959-06-21,Fram,Þróttur R.,2,2
+1959,1959-06-21,Keflavík,KR,0,3
+1959,1959-06-21,ÍA,Valur,3,1
+1959,1959-06-29,KR,Valur,7,1
+1959,1959-06-30,Fram,ÍA,3,2
+1959,1959-07-01,Þróttur R.,Keflavík,1,1
+1959,1959-07-16,Keflavík,Valur,3,2
+1959,1959-07-17,Þróttur R.,Fram,1,5
+1959,1959-07-19,ÍA,KR,0,2
+1959,1959-07-20,Keflavík,Fram,0,3
+1959,1959-07-20,Þróttur R.,Valur,2,3
+1959,1959-08-06,KR,ÍA,4,2
+1959,1959-08-08,Valur,Fram,2,1
+1959,1959-08-09,ÍA,Keflavík,9,0
+1959,1959-08-13,Fram,Keflavík,3,1
+1959,1959-08-25,Fram,KR,0,1
+1959,1959-08-26,Valur,ÍA,4,2
+1959,1959-08-27,Þróttur R.,KR,1,3
+1959,1959-08-30,ÍA,Fram,2,2
+1959,1959-08-30,Keflavík,Þróttur R.,8,1
+1959,1959-08-30,Valur,KR,0,6
+1959,1959-09-01,Þróttur R.,ÍA,0,5
+1958,1958-06-19,ÍA,ÍBH,3,1
+1958,1958-06-23,Valur,ÍBH,6,3
+1958,1958-06-29,KR,ÍA,2,2
+1958,1958-07-01,Fram,ÍBH,2,2
+1958,1958-07-03,ÍA,Valur,7,1
+1958,1958-07-06,KR,Fram,1,0
+1958,1958-07-30,ÍA,Keflavík,5,1
+1958,1958-08-08,KR,ÍBH,7,0
+1958,1958-08-17,Valur,Fram,1,0
+1958,1958-08-19,ÍBH,Keflavík,1,1
+1958,1958-08-20,KR,Valur,1,0
+1958,1958-08-21,Fram,Keflavík,2,2
+1958,1958-08-24,Valur,Keflavík,2,1
+1958,1958-08-29,KR,Keflavík,1,1
+1958,1958-08-31,ÍA,Fram,6,4
+1957,1957-05-17,ÍBH,ÍBA,2,2
+1957,1957-05-19,ÍA,ÍBA,3,0
+1957,1957-05-21,ÍA,ÍBH,1,0
+1957,1957-06-12,Fram,KR,1,0
+1957,1957-06-13,ÍA,Valur,4,1
+1957,1957-06-16,KR,ÍBA,2,2
+1957,1957-06-27,Valur,ÍBH,3,0
+1957,1957-07-14,Fram,ÍBA,2,0
+1957,1957-07-18,Valur,Fram,1,1
+1957,1957-07-21,Fram,ÍBH,2,0
+1957,1957-07-22,KR,Valur,0,0
+1957,1957-07-22,KR,ÍBH,1,3
+1957,1957-07-28,Valur,ÍBA,6,2
+1957,1957-08-02,KR,ÍA,0,4
+1957,1957-08-25,Fram,ÍA,1,2
+1956,1956-06-10,Fram,ÍBA,2,0
+1956,1956-06-11,ÍA,Víkingur R.,4,0
+1956,1956-06-12,ÍBA,Valur,0,1
+1956,1956-06-21,Valur,Víkingur R.,4,1
+1956,1956-06-22,ÍA,Fram,2,0
+1956,1956-06-25,Fram,KR,2,3
+1956,1956-07-29,Víkingur R.,ÍBA,1,3
+1956,1956-07-31,ÍBA,ÍA,0,6
+1956,1956-08-12,KR,Víkingur R.,4,2
+1956,1956-08-16,ÍA,Valur,2,3
+1956,1956-08-17,KR,ÍBA,3,0
+1956,1956-08-26,Víkingur R.,Fram,2,4
+1956,1956-08-26,KR,ÍA,3,3
+1956,1956-09-16,Valur,Fram,5,2
+1956,1956-09-23,Valur,KR,1,1
+1955,1955-06-12,Valur,Fram,0,0
+1955,1955-06-13,KR,Víkingur R.,7,0
+1955,1955-06-14,ÍA,Þróttur R.,8,0
+1955,1955-06-19,Víkingur R.,Fram,4,3
+1955,1955-06-20,Valur,Þróttur R.,6,0
+1955,1955-06-22,ÍA,KR,1,4
+1955,1955-06-23,Þróttur R.,Fram,1,3
+1955,1955-07-27,KR,Valur,1,1
+1955,1955-07-28,ÍA,Víkingur R.,6,1
+1955,1955-08-03,Valur,ÍA,2,5
+1955,1955-08-10,Fram,ÍA,0,3
+1955,1955-08-21,Þróttur R.,Víkingur R.,0,4
+1955,1955-09-04,Fram,KR,0,3
+1955,1955-09-10,Víkingur R.,Valur,0,4
+1955,1955-09-11,KR,Þróttur R.,6,1
+1954,,KR,Þróttur R.,1,0
+1954,,Fram,Valur,1,1
+1954,,ÍA,Víkingur R.,4,0
+1954,,Víkingur R.,Valur,0,1
+1954,,ÍA,KR,2,2
+1954,,Þróttur R.,Fram,2,12
+1954,,KR,Víkingur R.,2,1
+1954,,Fram,ÍA,2,5
+1954,,Valur,Þróttur R.,1,2
+1954,,KR,Fram,3,2
+1954,,ÍA,Valur,2,0
+1954,,Víkingur R.,Þróttur R.,1,1
+1954,,Fram,Víkingur R.,4,0
+1954,,Valur,KR,1,1
+1954,,Þróttur R.,ÍA,0,7
+1953,1953-06-09,Víkingur R.,Þróttur R.,5,0
+1953,1953-09-02,Valur,Víkingur R.,3,1
+1953,,Þróttur R.,Valur,1,5
+1952,,ÍA,Víkingur R.,6,2
+1952,,Fram,Valur,2,1
+1952,,Víkingur R.,Fram,0,1
+1952,,KR,ÍA,1,0
+1952,,Valur,Víkingur R.,1,1
+1952,,Fram,KR,2,3
+1952,,ÍA,Fram,5,3
+1952,,KR,Valur,1,1
+1952,,Valur,ÍA,0,1
+1952,,Víkingur R.,KR,0,2
+1951,,KR,Víkingur R.,3,1
+1951,,Valur,Fram,6,1
+1951,,ÍA,Valur,3,2
+1951,,Fram,KR,2,1
+1951,,KR,ÍA,2,5
+1951,,Víkingur R.,Fram,4,0
+1951,,Valur,KR,0,2
+1951,,ÍA,Víkingur R.,2,2
+1951,,Víkingur R.,Valur,0,1
+1951,,Fram,ÍA,2,2
+1950,,Fram,Valur,4,1
+1950,,ÍA,Víkingur R.,3,4
+1950,,Valur,ÍA,2,2
+1950,,KR,Fram,1,0
+1950,,Víkingur R.,Valur,0,2
+1950,,ÍA,KR,1,1
+1950,,KR,Víkingur R.,2,2
+1950,,Fram,ÍA,0,0
+1950,,Víkingur R.,Fram,2,4
+1950,,Valur,KR,0,3
+1949,,Fram,ÍA,5,2
+1949,,Valur,Víkingur R.,3,1
+1949,,KR,Fram,2,2
+1949,,ÍA,Valur,0,0
+1949,,Víkingur R.,ÍA,1,0
+1949,,Valur,KR,2,2
+1949,,Fram,Valur,3,1
+1949,,KR,Víkingur R.,3,1
+1949,,Víkingur R.,Fram,4,2
+1949,,ÍA,KR,3,3
+1948,,Valur,Víkingur R.,2,3
+1948,,Fram,ÍA,3,1
+1948,,KR,Fram,2,0
+1948,,ÍA,Valur,0,3
+1948,,Valur,KR,0,4
+1948,,KR,Víkingur R.,1,1
+1948,,Fram,Valur,2,3
+1948,,Víkingur R.,Fram,1,1
+1947,,KR,Víkingur R.,2,1
+1947,,Valur,ÍA,4,0
+1947,,Fram,Valur,1,0
+1947,,ÍA,KR,1,4
+1947,,KR,Fram,2,2
+1947,,Víkingur R.,ÍA,1,1
+1947,,Valur,KR,2,0
+1947,,Fram,Víkingur R.,2,1
+1947,,Víkingur R.,Valur,1,2
+1947,,ÍA,Fram,1,2
+1946,,Fram,ÍBA,3,2
+1946,,KR,ÍA,4,1
+1946,,Valur,Víkingur R.,2,1
+1946,,Fram,KR,3,1
+1946,,ÍA,Valur,1,2
+1946,,ÍBA,Víkingur R.,2,2
+1946,,KR,ÍBA,4,1
+1946,,Víkingur R.,ÍA,2,2
+1946,,Valur,Fram,1,2
+1946,,ÍBA,ÍA,1,1
+1946,,KR,Valur,3,3
+1946,,Fram,Víkingur R.,5,5
+1946,,Víkingur R.,KR,1,4
+1946,,ÍA,Fram,1,4
+1946,,Valur,ÍBA,3,0
+1945,,Valur,Víkingur R.,9,0
+1945,,KR,Fram,6,0
+1945,,Víkingur R.,Fram,1,1
+1945,,Valur,KR,1,0
+1945,,KR,Víkingur R.,4,0
+1945,,Fram,Valur,0,5
+1944,,Víkingur R.,KR,0,2
+1944,,Fram,ÍR,0,8
+1944,,Valur,Fram,2,1
+1944,,Víkingur R.,Valur,2,2
+1944,,Fram,Víkingur R.,2,2
+1944,,Valur,KR,2,0
+1944,,KR,Fram,1,0
+1943,,Fram,ÍBA,5,2
+1943,,KR,ÍBV,6,2
+1943,,Valur,KR,2,1
+1943,,ÍBV,Fram,0,3
+1943,,ÍBA,ÍBV,1,1
+1943,,Fram,Valur,1,3
+1943,,Valur,ÍBA,2,1
+1943,,KR,Fram,3,1
+1943,,ÍBA,KR,4,1
+1943,,ÍBV,Valur,1,5
+1942,,KR,ÍBV,2,1
+1942,,Fram,Víkingur R.,3,0
+1942,,Valur,Fram,6,0
+1942,,Víkingur R.,KR,2,0
+1942,,ÍBV,Víkingur R.,2,1
+1942,,KR,Valur,4,1
+1942,,Valur,ÍBV,4,1
+1942,,Fram,KR,2,1
+1942,,Víkingur R.,Valur,0,1
+1942,,ÍBV,Fram,0,2
+1941,,Valur,KA,8,2
+1941,,Víkingur R.,Fram,0,2
+1941,,KR,Valur,1,1
+1941,,KA,Víkingur R.,1,4
+1941,,Fram,KA,2,2
+1941,,Víkingur R.,KR,1,2
+1941,,Valur,Víkingur R.,0,0
+1941,,KR,Fram,5,2
+1941,,Fram,Valur,0,5
+1941,,KA,KR,1,3
+1940,,Valur,Fram,3,2
+1940,,Víkingur R.,KR,4,1
+1940,,Valur,Víkingur R.,1,1
+1940,,Fram,KR,0,4
+1940,,Víkingur R.,Fram,2,2
+1940,,KR,Valur,1,2
+1939,,Fram,Valur,1,0
+1939,,KR,Víkingur R.,0,1
+1939,,Valur,Víkingur R.,1,1
+1939,,Fram,KR,2,5
+1939,,Víkingur R.,Fram,1,2
+1939,,KR,Valur,2,2
+1938,,Víkingur R.,Fram,3,3
+1938,,Valur,KR,4,4
+1938,,KR,Fram,1,1
+1938,,Valur,Víkingur R.,3,2
+1938,,Fram,Valur,3,4
+1938,,Víkingur R.,KR,1,0
+1937,,KR,Fram,2,1
+1937,,Valur,KR,3,1
+1937,,Fram,Valur,2,5
+1936,,Valur,Víkingur R.,5,1
+1936,,KR,Fram,1,1
+1936,,Víkingur R.,Fram,0,6
+1936,,Valur,KR,3,3
+1936,,KR,Víkingur R.,3,0
+1936,,Fram,Valur,1,2
+1935,,Valur,Víkingur R.,5,2
+1935,,KR,Fram,3,1
+1935,,Víkingur R.,Fram,0,5
+1935,,Valur,KR,1,0
+1935,,KR,Víkingur R.,7,0
+1935,,Fram,Valur,0,0
+1934,,Fram,ÍBV,3,1
+1934,,Valur,"",13,1
+1934,,Víkingur R.,Fram,1,6
+1934,,KR,Valur,3,2
+1934,,ÍBV,Víkingur R.,3,1
+1934,,Fram,KR,1,1
+1934,,KR,ÍBV,5,1
+1934,,Valur,Fram,2,1
+1934,,ÍBV,Valur,0,6
+1934,,Víkingur R.,KR,1,3
+1933,,Valur,Víkingur R.,8,0
+1933,,KR,Fram,5,1
+1933,,Víkingur R.,Fram,0,5
+1933,,Valur,KR,6,3
+1933,,KR,Víkingur R.,3,0
+1933,,Fram,Valur,0,3
+1932,,KA,Fram,2,0
+1932,,Valur,Víkingur R.,2,0
+1932,,KR,Valur,2,2
+1932,,Víkingur R.,KA,0,3
+1932,,Fram,Víkingur R.,1,0
+1932,,KA,KR,1,4
+1932,,Valur,KA,1,0
+1932,,KR,Fram,3,1
+1932,,Fram,Valur,1,0
+1932,,Víkingur R.,KR,1,6
+1931,,Valur,Víkingur R.,4,0
+1931,,KR,Fram,5,1
+1931,,Fram,Víkingur R.,1,4
+1931,,KR,Valur,2,0
+1931,,Valur,Fram,2,1
+1931,,Víkingur R.,KR,0,6
+1930,,ÍBV,Víkingur R.,3,2
+1930,,KR,Fram,5,0
+1930,,Fram,ÍBV,1,5
+1930,,Valur,KR,2,1
+1930,,ÍBV,Valur,1,3
+1930,,Víkingur R.,Fram,1,1
+1930,,Valur,Víkingur R.,5,0
+1930,,KR,ÍBV,4,2
+1930,,Fram,Valur,0,8
+1930,,Víkingur R.,KR,0,4
+1929,,KR,Fram,7,1
+1929,,Valur,KA,4,0
+1929,,ÍBV,Víkingur R.,4,1
+1929,,KR,Valur,3,1
+1929,,ÍBV,KR,1,3
+1929,,Víkingur R.,KA,3,0
+1929,,Fram,ÍBV,1,2
+1929,,Valur,ÍBV,4,0
+1929,,KR,Víkingur R.,7,2
+1928,,Valur,Víkingur R.,4,3
+1928,,KR,Valur,1,0
+1928,,Víkingur R.,KR,2,5
+1927,,Valur,Víkingur R.,2,1
+1927,,KR,Fram,6,0
+1927,,Fram,Víkingur R.,0,1
+1927,,KR,Valur,2,0
+1927,,Valur,Fram,3,0
+1927,,Víkingur R.,KR,2,4
+1926,,Víkingur R.,ÍBV,4,1
+1926,,Fram,Valur,2,1
+1926,,KR,Fram,2,2
+1926,,Valur,Víkingur R.,1,4
+1926,,ÍBV,Valur,5,5
+1926,,Víkingur R.,KR,1,3
+1926,,Fram,Víkingur R.,1,0
+1926,,KR,ÍBV,6,2
+1926,,ÍBV,Fram,1,2
+1926,,Valur,KR,1,6
+1925,,Fram,Valur,3,0
+1925,,Víkingur R.,KR,1,1
+1925,,Fram,Víkingur R.,0,0
+1925,,Valur,KR,0,4
+1925,,Víkingur R.,Valur,4,3
+1925,,KR,Fram,1,2
+1924,,Víkingur R.,Valur,3,1
+1924,,Fram,KR,2,1
+1924,,Valur,KR,1,1
+1924,,Víkingur R.,Fram,4,3
+1924,,Fram,Valur,7,0
+1924,,KR,Víkingur R.,0,1
+1923,,KR,Valur,3,1
+1923,,Fram,Víkingur R.,3,1
+1923,,Fram,KR,3,0
+1923,,Víkingur R.,Valur,1,1
+1923,,Valur,Fram,1,6
+1923,,KR,Víkingur R.,5,0
+1922,,Víkingur R.,KR,1,1
+1922,,Fram,Víkingur R.,3,0
+1922,,KR,Fram,0,7
+1921,,Víkingur R.,KR,3,2
+1921,,Fram,Víkingur R.,4,0
+1921,,KR,Fram,1,6
+1920,,KR,Fram,3,0
+1920,,Víkingur R.,KR,5,2
+1920,,Fram,Víkingur R.,3,4
+1919,,Fram,Víkingur R.,2,1
+1919,,KR,Valur,3,0
+1919,,KR,Fram,3,2
+1919,,Valur,Víkingur R.,0,3
+1919,,Víkingur R.,KR,0,0
+1919,,Fram,Valur,9,0
+1918,,Fram,KR,6,1
+1918,,Víkingur R.,Valur,5,0
+1918,,KR,Valur,1,3
+1918,,Fram,Víkingur R.,6,3
+1918,,Víkingur R.,KR,3,2
+1918,,Valur,Fram,1,2
+1917,,KR,Valur,2,1
+1917,,Fram,KR,4,3
+1917,,Valur,Fram,2,3
+1916,,KR,Valur,3,3
+1916,,Fram,KR,2,2
+1916,,Valur,Fram,1,2
+1915,,KR,Valur,5,1
+1915,,Fram,KR,5,4
+1915,,Valur,Fram,0,2
+1912,,KR,Fram,1,1
+1912,,ÍBV,KR,0,3
+1912,,Fram,ÍBV,3,0
