@@ -43,4 +43,3 @@ setnames(DT, "X1", "date")
 
 # Export csv/rds
 fwrite(DT, "urvalsdeild_all_results.csv")
-saveRDS(DT, "urvalsdeild_all_results.RDS")
