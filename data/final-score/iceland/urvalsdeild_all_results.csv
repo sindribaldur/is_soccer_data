@@ -1,4 +1,4 @@
-year,date,home_team,away_team,home_score,away_score
+season,date,home_team,away_team,home_score,away_score
 2019,2019-04-26,Valur,Víkingur R.,3,3
 2019,2019-04-27,Grindavík,Breiðablik,0,2
 2019,2019-04-27,ÍBV,Fylkir,0,3
@@ -58,9 +58,9 @@ year,date,home_team,away_team,home_score,away_score
 2019,2019-06-30,ÍBV,Stjarnan,0,2
 2019,2019-06-30,Fylkir,KA,3,2
 2019,2019-06-30,HK,Valur,1,2
-2019,2019-07-01,KR,Breiðablik,2,0
 2019,2019-07-01,Grindavík,FH,0,0
 2019,2019-07-01,Víkingur R.,ÍA,0,0
+2019,2019-07-01,KR,Breiðablik,2,0
 2019,2019-07-04,Valur,KA,3,1
 2019,2019-07-05,Stjarnan,Grindavík,0,0
 2019,2019-07-06,ÍA,Fylkir,2,0
@@ -69,8 +69,14 @@ year,date,home_team,away_team,home_score,away_score
 2019,2019-07-08,FH,Víkingur R.,1,0
 2019,2019-07-13,ÍBV,FH,1,2
 2019,2019-07-14,HK,KA,2,1
-2019,2019-07-15,Víkingur R.,Fylkir,1,1
 2019,2019-07-15,Grindavík,ÍA,1,1
+2019,2019-07-15,Víkingur R.,Fylkir,1,1
+2019,2019-07-21,Fylkir,ÍBV,3,0
+2019,2019-07-21,KA,ÍA,1,1
+2019,2019-07-21,KR,Stjarnan,2,2
+2019,2019-07-21,Víkingur R.,Valur,2,2
+2019,2019-07-22,Breiðablik,Grindavík,0,0
+2019,2019-07-22,HK,FH,2,0
 2018,2018-04-27,Valur,KR,2,1
 2018,2018-04-27,Stjarnan,Keflavík,2,2
 2018,2018-04-28,Breiðablik,ÍBV,4,1

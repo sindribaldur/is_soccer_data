@@ -32,7 +32,7 @@ tables <- lapply(
 
 
 # Clean data
-DT <- rbindlist(tables, idcol = "year")
+DT <- rbindlist(tables, idcol = "season")
 DT[, c("home_team", "away_team") := tstrsplit(X2, "\\d")[1:2]]
 score_cols <- c("home_score", "away_score")
 DT[, (score_cols) := tstrsplit(X2, "\\D+")[-1] %>% lapply(as.integer)]
